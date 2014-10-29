@@ -1,0 +1,2457 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<searchresults total_results="309">
+          <addon id="1865">
+  <name>Adblock Plus</name>
+  <type id="1">Extension</type>
+  <guid>{d10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d}</guid>
+  <slug>adblock-plus</slug>
+  <version>2.6.5</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="346">
+      <name>Wladimir Palant</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/Wladimir-Palant/?src=api</link>
+    </author>      </authors>
+  <summary>Blocks annoying video ads on YouTube, Facebook ads, banners and much more.
+
+Adblock Plus blocks all annoying ads, and supports websites by not blocking unobtrusive ads by default (configurable).</summary>
+  <description>Adblock Plus allows you to regain control of the internet and view the web the way you want to. The add-on is supported by over forty filter subscriptions in dozens of languages which automatically configure it for purposes ranging from removing online advertising to blocking all known malware domains. Adblock Plus also allows you to customize your filters with the assistance of a variety of useful features, including a context option for images, a block tab for Flash and Java objects, and a list of blockable items to remove scripts and stylesheets.
+
+Starting with Adblock Plus 2.0 there is an option in Filter Preferences to allow some non-intrusive advertising. The goal is to support websites using non-intrusive ways to advertise and to encourage more websites to do the same. &lt;a href=&#34;http://outgoing.mozilla.org/v1/1562af6ef7d30389889449d42850bac00b0ce14e/http%3A//adblockplus.org/en/acceptable-ads&#34; rel=&#34;nofollow&#34;&gt;Read more&lt;/a&gt;</description><license>
+    <name>GNU General Public License, version 3.0</name>
+    <url>http://www.gnu.org/licenses/gpl-3.0.html</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/1/1865-64.png?modified=1401960626</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/1/1865-32.png?modified=1401960626</icon>
+  <compatible_applications><application>
+      <name>Firefox for Android</name>
+      <application_id>61</application_id>
+      <min_version>22.0</min_version>
+      <max_version>36.0</max_version>
+      <appID>{aa3c5121-dab2-40e2-81ca-7ea25febc110}</appID>
+    </application><application>
+      <name>Thunderbird</name>
+      <application_id>18</application_id>
+      <min_version>22.0</min_version>
+      <max_version>36.0</max_version>
+      <appID>{3550f703-e582-4d05-9a08-453d09bdfdc6}</appID>
+    </application><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>22.0</min_version>
+      <max_version>36.0</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application><application>
+      <name>SeaMonkey</name>
+      <application_id>59</application_id>
+      <min_version>2.19</min_version>
+      <max_version>2.33</max_version>
+      <appID>{92650c4d-4b8e-4d2a-b7eb-24ecf4f6b63a}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="" width="700" height="521">
+        https://addons.cdn.mozilla.net/user-media/previews/full/137/137084.png?src=api&amp;modified=1401960627
+      </full>
+      <thumbnail type="" width="200" height="149">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/137/137084.png?src=api&amp;modified=1401960627
+      </thumbnail><caption>Easily remove all annoying ads from Firefox.</caption></preview><preview position="1">
+      <full type="" width="700" height="521">
+        https://addons.cdn.mozilla.net/user-media/previews/full/137/137086.png?src=api&amp;modified=1401960627
+      </full>
+      <thumbnail type="" width="200" height="149">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/137/137086.png?src=api&amp;modified=1401960627
+      </thumbnail><caption>Adblock Plus can do more than adblocking. Enable powerful features in one click.</caption></preview><preview position="2">
+      <full type="" width="700" height="521">
+        https://addons.cdn.mozilla.net/user-media/previews/full/137/137088.png?src=api&amp;modified=1401960627
+      </full>
+      <thumbnail type="" width="200" height="149">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/137/137088.png?src=api&amp;modified=1401960627
+      </thumbnail><caption>Clean up your Facebook experience with Adblock Plus.</caption></preview><preview position="3">
+      <full type="" width="700" height="521">
+        https://addons.cdn.mozilla.net/user-media/previews/full/137/137090.png?src=api&amp;modified=1401960627
+      </full>
+      <thumbnail type="" width="200" height="149">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/137/137090.png?src=api&amp;modified=1401960627
+      </thumbnail><caption>Adblock Plus even removes those annoying 30-second video ads on YouTube.</caption></preview><preview position="4">
+      <full type="" width="700" height="521">
+        https://addons.cdn.mozilla.net/user-media/previews/full/137/137092.png?src=api&amp;modified=1401960627
+      </full>
+      <thumbnail type="" width="200" height="149">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/137/137092.png?src=api&amp;modified=1401960627
+      </thumbnail><caption>Remove all annoying blinking banners!</caption></preview><preview position="5">
+      <full type="" width="700" height="521">
+        https://addons.cdn.mozilla.net/user-media/previews/full/137/137094.png?src=api&amp;modified=1401960627
+      </full>
+      <thumbnail type="" width="200" height="149">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/137/137094.png?src=api&amp;modified=1401960627
+      </thumbnail><caption>Browse the web as it once used to be.</caption></preview><preview position="6">
+      <full type="" width="700" height="521">
+        https://addons.cdn.mozilla.net/user-media/previews/full/137/137096.png?src=api&amp;modified=1401960627
+      </full>
+      <thumbnail type="" width="200" height="149">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/137/137096.png?src=api&amp;modified=1401960627
+      </thumbnail><caption>Please help us by reporting bugs.</caption></preview><preview position="7">
+      <full type="" width="700" height="521">
+        https://addons.cdn.mozilla.net/user-media/previews/full/137/137098.png?src=api&amp;modified=1401960627
+      </full>
+      <thumbnail type="" width="200" height="149">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/137/137098.png?src=api&amp;modified=1401960627
+      </thumbnail><caption>You can even create your own blocking lists to customize the web to your exact needs.</caption></preview></previews><rating>5</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/adblock-plus/?src=api</learnmore><install hash="sha256:bbad327550b3eecc0cdbf7895c87b22f5781be53bef4be3ef0f8cff71372fb52"
+    os="ALL"
+    size="979610">https://addons.mozilla.org/firefox/downloads/file/280498/adblock_plus-2.6.5-an+tb+fx+sm.xpi?src=api</install>
+  <contribution_data>
+      <link>https://addons.mozilla.org/en-US/firefox/addon/adblock-plus/contribute/?src=api</link>
+                <suggested_amount currency="USD" amount="5.00">
+            $5.00
+          </suggested_amount>
+            <meet_developers>
+        https://addons.mozilla.org/en-US/firefox/addon/adblock-plus/developers?src=api
+      </meet_developers>
+    </contribution_data><developer_comments></developer_comments>
+    <reviews num="4398">
+      https://addons.mozilla.org/en-US/firefox/addon/adblock-plus/reviews/?src=api
+    </reviews>
+    <total_downloads>289508362</total_downloads>
+    <weekly_downloads>217400</weekly_downloads>
+    <daily_users>21757882</daily_users>
+    <created epoch="1137511710">
+      2006-01-17T15:28:30Z
+    </created>
+    <last_updated epoch="1413408336">
+      2014-10-15T21:25:36Z
+    </last_updated>
+    <homepage>http://adblockplus.org/</homepage>
+    <support>http://adblockplus.org/forum/</support>
+    <featured>1</featured>
+        <performance>
+            <application name="fx" version="8.0.1">
+                <platform name="WINNT" version="6.1">
+          <result type="ts" baseline="548.47" average="554.32"
+                  above_threshold="false" />
+        </platform>        <platform name="MacOSX" version="10.6 (rev4)">
+          <result type="ts" baseline="637.58" average="637.26"
+                  above_threshold="false" />
+        </platform>        <platform name="Fedora" version="12 - Constantine">
+          <result type="ts" baseline="479.26" average="482.58"
+                  above_threshold="false" />
+        </platform></application>      <application name="fx" version="4.0">
+                <platform name="WINNT" version="6.1">
+          <result type="ts" baseline="536.21" average="611.21"
+                  above_threshold="false" />
+        </platform>        <platform name="WINNT" version="5.1">
+          <result type="ts" baseline="401.89" average="494.79"
+                  above_threshold="false" />
+        </platform>        <platform name="MacOSX" version="10.5.8">
+          <result type="ts" baseline="695.32" average="697.16"
+                  above_threshold="false" />
+        </platform>        <platform name="Fedora" version="12 - Constantine">
+          <result type="ts" baseline="506.32" average="519.47"
+                  above_threshold="false" />
+        </platform></application>      <application name="fx" version="3.6.15">
+                <platform name="WINNT" version="5.1">
+          <result type="ts" baseline="368.95" average="391.47"
+                  above_threshold="false" />
+        </platform>        <platform name="WINNT" version="6.1">
+          <result type="ts" baseline="413.47" average="446.21"
+                  above_threshold="false" />
+        </platform></application>      <application name="fx" version="7.0.1">
+                <platform name="WINNT" version="6.1">
+          <result type="ts" baseline="547.16" average="613.11"
+                  above_threshold="false" />
+        </platform></application>      <application name="fx" version="8.0">
+                <platform name="MacOSX" version="10.6 (rev4)">
+          <result type="ts" baseline="624.84" average="642.0"
+                  above_threshold="false" />
+        </platform>        <platform name="WINNT" version="6.1">
+          <result type="ts" baseline="541.58" average="556.53"
+                  above_threshold="false" />
+        </platform>        <platform name="Fedora" version="12 - Constantine">
+          <result type="ts" baseline="477.95" average="473.84"
+                  above_threshold="false" />
+        </platform>        <platform name="MacOSX" version="10.6.2 (rev3)">
+          <result type="ts" baseline="657.21" average="654.05"
+                  above_threshold="false" />
+        </platform></application></performance>
+    </addon>
+  <addon id="394968">
+  <name>Adblock Edge</name>
+  <type id="1">Extension</type>
+  <guid>{fe272bd1-5f76-4ea4-8501-a05d35d823fc}</guid>
+  <slug>adblock-edge</slug>
+  <version>2.1.5</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="6107817">
+      <name>adstomper</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/adstomper/?src=api</link>
+    </author>      </authors>
+  <summary>Adblock Edge is a fork of the Adblock Plus version 2.1.2 extension for blocking advertisements on the web, without sponsored ads whitelist.</summary>
+  <description>Adblock Edge is a fork of the Adblock Plus version 2.1.2 extension for blocking advertisements on the web. This fork will provide the same features as Adblock Plus 2.X and higher but without &#34;acceptable ads&#34; feature. Adblock Edge was primarily branched off from Adblock Plus 2.1.2 source code package &#34;&lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/2c705c827a2a41c0c13fe1626788e60453a6d7a5806f4fa9c0504d9a2cc4dc62/http%3A//adblockplus.org/downloads/adblockplus-2.1.2-source.tgz&#34;&gt;http://adblockplus.org/downloads/adblockplus-2.1.2-source.tgz&lt;/a&gt;&#34; created by Wladimir Palant.</description><license>
+    <name>Mozilla Public License Version 2.0</name>
+    <url>https://addons.mozilla.org/en-US/firefox/addon/adblock-edge/license/2.1.5</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/394/394968-64.png?modified=1410633198</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/394/394968-32.png?modified=1410633198</icon>
+  <compatible_applications><application>
+      <name>Thunderbird</name>
+      <application_id>18</application_id>
+      <min_version>22.0</min_version>
+      <max_version>34.0</max_version>
+      <appID>{3550f703-e582-4d05-9a08-453d09bdfdc6}</appID>
+    </application><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>22.0</min_version>
+      <max_version>34.0</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application><application>
+      <name>SeaMonkey</name>
+      <application_id>59</application_id>
+      <min_version>2.19</min_version>
+      <max_version>2.31</max_version>
+      <appID>{92650c4d-4b8e-4d2a-b7eb-24ecf4f6b63a}</appID>
+    </application><application>
+      <name>Firefox for Android</name>
+      <application_id>61</application_id>
+      <min_version>22.0</min_version>
+      <max_version>34.0</max_version>
+      <appID>{aa3c5121-dab2-40e2-81ca-7ea25febc110}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>Linux</os><os>Darwin</os><os>Android</os><os>WINNT</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="" width="700" height="437">
+        https://addons.cdn.mozilla.net/user-media/previews/full/77/77620.png?src=api&amp;modified=1392533299
+      </full>
+      <thumbnail type="" width="200" height="125">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/77/77620.png?src=api&amp;modified=1392533299
+      </thumbnail></preview><preview position="1">
+      <full type="" width="700" height="377">
+        https://addons.cdn.mozilla.net/user-media/previews/full/77/77622.png?src=api&amp;modified=1392533299
+      </full>
+      <thumbnail type="" width="200" height="107">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/77/77622.png?src=api&amp;modified=1392533299
+      </thumbnail></preview><preview position="2">
+      <full type="" width="700" height="373">
+        https://addons.cdn.mozilla.net/user-media/previews/full/77/77624.png?src=api&amp;modified=1392533299
+      </full>
+      <thumbnail type="" width="200" height="106">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/77/77624.png?src=api&amp;modified=1392533299
+      </thumbnail></preview></previews><rating>5</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/adblock-edge/?src=api</learnmore><install hash="sha256:5717b98552824a4c1669d36f69d369692426e7d0c06941e383ce0f4d65176777"
+    os="Linux"
+    size="556429">https://addons.mozilla.org/firefox/downloads/file/276006/adblock_edge-2.1.5-tb+fx+an+sm-linux.xpi?src=api</install>
+  <install hash="sha256:5717b98552824a4c1669d36f69d369692426e7d0c06941e383ce0f4d65176777"
+    os="Darwin"
+    size="556429">https://addons.mozilla.org/firefox/downloads/file/276008/adblock_edge-2.1.5-tb+fx+an+sm-mac.xpi?src=api</install>
+  <install hash="sha256:5717b98552824a4c1669d36f69d369692426e7d0c06941e383ce0f4d65176777"
+    os="WINNT"
+    size="556429">https://addons.mozilla.org/firefox/downloads/file/276010/adblock_edge-2.1.5-tb+fx+an+sm-windows.xpi?src=api</install>
+  <install hash="sha256:5717b98552824a4c1669d36f69d369692426e7d0c06941e383ce0f4d65176777"
+    os="Android"
+    size="556429">https://addons.mozilla.org/firefox/downloads/file/276012/adblock_edge-2.1.5-tb+fx+an+sm-android.xpi?src=api</install>
+  <developer_comments></developer_comments>
+    <reviews num="211">
+      https://addons.mozilla.org/en-US/firefox/addon/adblock-edge/reviews/?src=api
+    </reviews>
+    <total_downloads>5581600</total_downloads>
+    <weekly_downloads>10445</weekly_downloads>
+    <daily_users>758426</daily_users>
+    <created epoch="1347149233">
+      2012-09-09T00:07:13Z
+    </created>
+    <last_updated epoch="1410770460">
+      2014-09-15T08:41:00Z
+    </last_updated>
+    <homepage>http://adstomper.bitbucket.org</homepage>
+    <support>https://bitbucket.org/adstomper/adblockedge/</support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="83098">
+  <name>Adblock Plus Pop-up Addon</name>
+  <type id="1">Extension</type>
+  <guid>adblockpopups@jessehakanen.net</guid>
+  <slug>adblock-plus-pop-up-addon</slug>
+  <version>0.9.2</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="5193922">
+      <name>Jesse Hakanen</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/jesse-hakanen/?src=api</link>
+    </author>      </authors>
+  <summary>Adblock Plus Pop-up Addon extends the blocking functionality of Adblock Plus to those annoying pop-up windows that open on mouse clicks and other user actions.</summary>
+  <description>By default, Firefox or Adblock Plus doesn&#39;t block any pop-ups that are opened on mouse clicks or other user events. This addon complements Adblock Plus with the pop-up blocking functionality.
+
+There are two ways of getting rid of an unwanted pop-up with this addon:
+&lt;ol&gt;&lt;li&gt;Adding the pop-up&#39;s url to Adblock Plus&#39; filters. This will block just the individual pop-up (or any other pop-up which matches the pattern you decide to write).&lt;/li&gt;&lt;li&gt;Creating a site rule in this addon&#39;s preferences for the opener site. This will prevent the opener site from opening pop-ups completely. This is especially useful for sites that change their pop-up urls frequently.&lt;/li&gt;&lt;/ol&gt;You can do both of these tasks easily by right clicking on the pop-up window and selecting &#34;Block this window&#34;.</description><license>
+    <name>License</name>
+    <url>http://www.mozilla.org/MPL/MPL-1.1.html</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/83/83098-64.png?modified=1375727818</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/83/83098-32.png?modified=1375727818</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>13.0</min_version>
+      <max_version>33.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="" width="616" height="361">
+        https://addons.cdn.mozilla.net/user-media/previews/full/56/56715.png?src=api&amp;modified=1303498079
+      </full>
+      <thumbnail type="" width="200" height="117">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/56/56715.png?src=api&amp;modified=1303498079
+      </thumbnail></preview><preview position="1">
+      <full type="image/png" width="227" height="340">
+        https://addons.cdn.mozilla.net/user-media/previews/full/42/42582.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="100" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/42/42582.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>Context menu item makes it easy to block a pop-up window.</caption></preview><preview position="2">
+      <full type="image/png" width="337" height="106">
+        https://addons.cdn.mozilla.net/user-media/previews/full/42/42554.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="200" height="62">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/42/42554.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>Addon integrates to Firefox&#39;s default pop-up blocker and shows standard messages about blocked windows.</caption></preview></previews><rating>4</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/adblock-plus-pop-up-addon/?src=api</learnmore><install hash="sha256:c0b69f07ecb7b6a7815653ebfe99c2e8fb529a66ddd6a166664a17a2f5cbe665"
+    os="ALL"
+    size="133000">https://addons.mozilla.org/firefox/downloads/file/260376/adblock_plus_pop_up_addon-0.9.2-fx.xpi?src=api</install>
+  <developer_comments></developer_comments>
+    <reviews num="167">
+      https://addons.mozilla.org/en-US/firefox/addon/adblock-plus-pop-up-addon/reviews/?src=api
+    </reviews>
+    <total_downloads>11395661</total_downloads>
+    <weekly_downloads>11792</weekly_downloads>
+    <daily_users>1333007</daily_users>
+    <created epoch="1266762730">
+      2010-02-21T14:32:10Z
+    </created>
+    <last_updated epoch="1401120741">
+      2014-05-26T16:12:21Z
+    </last_updated>
+    <homepage>http://jessehakanen.net/adblockpluspopupaddon/</homepage>
+    <support></support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="4042">
+  <name>Filter Uploader for Adblock Plus</name>
+  <type id="1">Extension</type>
+  <guid>uploader@adblockfilters.mozdev.org</guid>
+  <slug>adblock-plus-filter-uploader</slug>
+  <version>2.1</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="4924">
+      <name>Dr. Evil</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/dr-evil/?src=api</link>
+    </author>      </authors>
+  <summary>DOES NOT BLOCK ADS! Don&#39;t install this add-on if you don&#39;t know what &#39;uploading&#39; means!
+
+This add-on Uploads the filters from your Adblock Plus installation to a FTP, HTTP, HTTPS server...</summary>
+  <description>Get Adblock Plus here: &lt;a href=&#34;http://outgoing.mozilla.org/v1/51a4ef2949e3b45fdc8fedca5a1e507934d88816/https%3A//addons.mozilla.org/firefox/addon/1865&#34;&gt;https://addons.mozilla.org/firefox/addon/1865&lt;/a&gt; This add-on just uploads the filters you have in Adblock Plus to a FTP, HTTP, or HTTPS server!
+
+It is only useful for the small number of people who actively modify their filters and either want to share them with others or synchronize the filters between different computers.</description><license>
+    <name>License</name>
+    <url>http://www.mozilla.org/MPL/MPL-1.1.html</url>
+  </license>  <icon size="64"></icon>
+  <icon size="32"></icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>3.0.9</min_version>
+      <max_version>15.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application><application>
+      <name>SeaMonkey</name>
+      <application_id>59</application_id>
+      <min_version>2.0</min_version>
+      <max_version>2.1b3</max_version>
+      <appID>{92650c4d-4b8e-4d2a-b7eb-24ecf4f6b63a}</appID>
+    </application><application>
+      <name>Thunderbird</name>
+      <application_id>18</application_id>
+      <min_version>3.0b3pre</min_version>
+      <max_version>3.3a3pre</max_version>
+      <appID>{3550f703-e582-4d05-9a08-453d09bdfdc6}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="image/png" width="523" height="413">
+        https://addons.cdn.mozilla.net/user-media/previews/full/30/30327.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="189" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/30/30327.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>upload settings</caption></preview><preview position="1">
+      <full type="image/png" width="536" height="260">
+        https://addons.cdn.mozilla.net/user-media/previews/full/30/30324.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="200" height="97">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/30/30324.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>access from the main window</caption></preview><preview position="1">
+      <full type="image/png" width="600" height="370">
+        https://addons.cdn.mozilla.net/user-media/previews/full/30/30325.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="200" height="123">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/30/30325.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>integration into Adblock Plus preferences</caption></preview><preview position="1">
+      <full type="image/png" width="523" height="457">
+        https://addons.cdn.mozilla.net/user-media/previews/full/30/30326.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="171" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/30/30326.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>options for the output file</caption></preview><preview position="1">
+      <full type="image/png" width="700" height="297">
+        https://addons.cdn.mozilla.net/user-media/previews/full/30/30328.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="200" height="85">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/30/30328.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>exclude some filters from the upload</caption></preview></previews><rating>3</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/adblock-plus-filter-uploader/?src=api</learnmore><install hash="sha256:aa4fa93e1f5a1458fe8c2d9f6cb712b6395f06b728383d993d211239f0ccb406"
+    os="ALL"
+    size="75776">https://addons.mozilla.org/firefox/downloads/file/102982/adblock_plus_filter_uploader-2.1-fx+sm+tb.xpi?src=api</install>
+  <developer_comments></developer_comments>
+    <reviews num="37">
+      https://addons.mozilla.org/en-US/firefox/addon/adblock-plus-filter-uploader/reviews/?src=api
+    </reviews>
+    <total_downloads>1336490</total_downloads>
+    <weekly_downloads>488</weekly_downloads>
+    <daily_users>32084</daily_users>
+    <created epoch="1165597874">
+      2006-12-08T17:11:14Z
+    </created>
+    <last_updated epoch="1289574383">
+      2010-11-12T15:06:23Z
+    </last_updated>
+    <homepage>http://adblockfilters.mozdev.org/</homepage>
+    <support>http://adblockfilters.mozdev.org/</support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="4364">
+  <name>Element Hiding Helper for Adblock Plus</name>
+  <type id="1">Extension</type>
+  <guid>elemhidehelper@adblockplus.org</guid>
+  <slug>elemhidehelper</slug>
+  <version>1.3</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="346">
+      <name>Wladimir Palant</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/Wladimir-Palant/?src=api</link>
+    </author>      </authors>
+  <summary>Fight the text ads! Element Hiding Helper is a companion extension for Adblock Plus meant to make creating element hiding rules easier.</summary>
+  <description>You simply select the element you want to be hidden and then choose which attributes of this element should be taken into account when hiding it in future. The element hiding rule is generated and added automatically.</description><license>
+    <name>Mozilla Public License, version 2.0</name>
+    <url>https://addons.mozilla.org/en-US/firefox/addon/elemhidehelper/license/1.3</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/4/4364-64.png?modified=1363366461</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/4/4364-32.png?modified=1363366461</icon>
+  <compatible_applications><application>
+      <name>Thunderbird</name>
+      <application_id>18</application_id>
+      <min_version>20.0</min_version>
+      <max_version>35.0</max_version>
+      <appID>{3550f703-e582-4d05-9a08-453d09bdfdc6}</appID>
+    </application><application>
+      <name>SeaMonkey</name>
+      <application_id>59</application_id>
+      <min_version>2.17</min_version>
+      <max_version>2.32</max_version>
+      <appID>{92650c4d-4b8e-4d2a-b7eb-24ecf4f6b63a}</appID>
+    </application><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>20.0</min_version>
+      <max_version>35.0</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="image/png">
+        https://addons.cdn.mozilla.net/user-media/previews/full/11/11791.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/11/11791.png?src=api&amp;modified=1331247702
+      </thumbnail></preview><preview position="1">
+      <full type="image/png">
+        https://addons.cdn.mozilla.net/user-media/previews/full/11/11792.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/11/11792.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>Starting element selection</caption></preview><preview position="2">
+      <full type="image/png">
+        https://addons.cdn.mozilla.net/user-media/previews/full/11/11793.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/11/11793.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>Selecting element to hide</caption></preview><preview position="3">
+      <full type="image/png">
+        https://addons.cdn.mozilla.net/user-media/previews/full/11/11794.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/11/11794.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>Adding element hiding rule</caption></preview></previews><rating>5</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/elemhidehelper/?src=api</learnmore><install hash="sha256:c4d0101d2079ace4ff191cb131ceadeb1393812601ae05d9a929108d74e12404"
+    os="ALL"
+    size="126171">https://addons.mozilla.org/firefox/downloads/file/254882/element_hiding_helper_for_adblock_plus-1.3-tb+sm+fx.xpi?src=api</install>
+  <developer_comments></developer_comments>
+    <reviews num="385">
+      https://addons.mozilla.org/en-US/firefox/addon/elemhidehelper/reviews/?src=api
+    </reviews>
+    <total_downloads>10210910</total_downloads>
+    <weekly_downloads>5615</weekly_downloads>
+    <daily_users>1010069</daily_users>
+    <created epoch="1169509425">
+      2007-01-22T23:43:45Z
+    </created>
+    <last_updated epoch="1398976195">
+      2014-05-01T20:29:55Z
+    </last_updated>
+    <homepage>http://adblockplus.org/elemhidehelper</homepage>
+    <support>https://adblockplus.org/forum/</support>
+    <featured>0</featured>
+        <performance>
+            <application name="fx" version="8.0.1">
+                <platform name="Fedora" version="12 - Constantine">
+          <result type="ts" baseline="479.26" average="488.63"
+                  above_threshold="false" />
+        </platform>        <platform name="WINNT" version="6.1">
+          <result type="ts" baseline="548.47" average="541.32"
+                  above_threshold="false" />
+        </platform>        <platform name="MacOSX" version="10.6 (rev4)">
+          <result type="ts" baseline="637.58" average="637.16"
+                  above_threshold="false" />
+        </platform></application>      <application name="fx" version="4.0.1">
+                <platform name="MacOSX" version="10.5.8">
+          <result type="ts" baseline="687.21" average="695.26"
+                  above_threshold="false" />
+        </platform>        <platform name="WINNT" version="5.1">
+          <result type="ts" baseline="409.26" average="418.0"
+                  above_threshold="false" />
+        </platform></application>      <application name="fx" version="5.0">
+                <platform name="Fedora" version="12 - Constantine">
+          <result type="ts" baseline="506.0" average="500.89"
+                  above_threshold="false" />
+        </platform>        <platform name="WINNT" version="5.1">
+          <result type="ts" baseline="388.11" average="390.42"
+                  above_threshold="false" />
+        </platform>        <platform name="MacOSX" version="10.5.8">
+          <result type="ts" baseline="679.89" average="674.0"
+                  above_threshold="false" />
+        </platform>        <platform name="WINNT" version="6.1">
+          <result type="ts" baseline="522.0" average="518.0"
+                  above_threshold="false" />
+        </platform></application>      <application name="fx" version="6.0.2">
+                <platform name="Fedora" version="12 - Constantine">
+          <result type="ts" baseline="476.21" average="484.63"
+                  above_threshold="false" />
+        </platform>        <platform name="WINNT" version="6.1">
+          <result type="ts" baseline="519.79" average="514.58"
+                  above_threshold="false" />
+        </platform>        <platform name="MacOSX" version="10.6.2">
+          <result type="ts" baseline="654.42" average="641.74"
+                  above_threshold="false" />
+        </platform></application>      <application name="fx" version="7.0.1">
+                <platform name="WINNT" version="6.1">
+          <result type="ts" baseline="547.16" average="542.84"
+                  above_threshold="false" />
+        </platform>        <platform name="Fedora" version="12 - Constantine">
+          <result type="ts" baseline="479.68" average="480.32"
+                  above_threshold="false" />
+        </platform>        <platform name="MacOSX" version="10.6.2 (rev3)">
+          <result type="ts" baseline="667.37" average="659.95"
+                  above_threshold="false" />
+        </platform>        <platform name="MacOSX" version="10.6.2">
+          <result type="ts" baseline="671.16" average="659.53"
+                  above_threshold="false" />
+        </platform></application>      <application name="fx" version="8.0">
+                <platform name="MacOSX" version="10.6 (rev4)">
+          <result type="ts" baseline="624.84" average="628.0"
+                  above_threshold="false" />
+        </platform>        <platform name="Fedora" version="12 - Constantine">
+          <result type="ts" baseline="477.95" average="482.11"
+                  above_threshold="false" />
+        </platform>        <platform name="WINNT" version="6.1">
+          <result type="ts" baseline="541.58" average="552.53"
+                  above_threshold="false" />
+        </platform>        <platform name="MacOSX" version="10.6.2 (rev3)">
+          <result type="ts" baseline="657.21" average="658.11"
+                  above_threshold="false" />
+        </platform></application></performance>
+    </addon>
+  <addon id="355792">
+  <name>Customizations for Adblock Plus</name>
+  <type id="1">Extension</type>
+  <guid>customization@adblockplus.org</guid>
+  <slug>abpcustomization</slug>
+  <version>1.0.3</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="346">
+      <name>Wladimir Palant</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/Wladimir-Palant/?src=api</link>
+    </author>      </authors>
+  <summary>This extension provides various customization options for the Adblock Plus user interface.</summary>
+  <description>The user interface of Adblock Plus is intentionally not very customizable, the idea is to have it work well out of the box without requiring users to tweak things. As a result, some compromises have to be made and sometimes the user interface is suboptimal for power users. Customizations extension is a collection of semi-supported user interface tweaks for people who feel the need to change something.</description><license>
+    <name>Mozilla Public License, version 2.0</name>
+    <url>https://addons.mozilla.org/en-US/firefox/addon/abpcustomization/license/1.0.3</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/static/img/addon-icons/appearance-64.png</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/static/img/addon-icons/appearance-32.png</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>8.0</min_version>
+      <max_version>35.0</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application><application>
+      <name>Thunderbird</name>
+      <application_id>18</application_id>
+      <min_version>8.0</min_version>
+      <max_version>35.0</max_version>
+      <appID>{3550f703-e582-4d05-9a08-453d09bdfdc6}</appID>
+    </application><application>
+      <name>SeaMonkey</name>
+      <application_id>59</application_id>
+      <min_version>2.5</min_version>
+      <max_version>2.32</max_version>
+      <appID>{92650c4d-4b8e-4d2a-b7eb-24ecf4f6b63a}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="" width="700" height="321">
+        https://addons.cdn.mozilla.net/user-media/previews/full/66/66109.png?src=api&amp;modified=1325006118
+      </full>
+      <thumbnail type="" width="200" height="91">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/66/66109.png?src=api&amp;modified=1325006118
+      </thumbnail><caption>Customizations in the Add-ons Manager</caption></preview></previews><rating>5</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/abpcustomization/?src=api</learnmore><install hash="sha256:eb9091acc9576269951901c003b9936119f117187c74ffa31094efec970bc689"
+    os="ALL"
+    size="23552">https://addons.mozilla.org/firefox/downloads/file/164383/customizations_for_adblock_plus-1.0.3-fx+tb+sm.xpi?src=api</install>
+  <developer_comments></developer_comments>
+    <reviews num="10">
+      https://addons.mozilla.org/en-US/firefox/addon/abpcustomization/reviews/?src=api
+    </reviews>
+    <total_downloads>299241</total_downloads>
+    <weekly_downloads>393</weekly_downloads>
+    <daily_users>25285</daily_users>
+    <created epoch="1325005818">
+      2011-12-27T17:10:18Z
+    </created>
+    <last_updated epoch="1345746957">
+      2012-08-23T18:35:57Z
+    </last_updated>
+    <homepage>http://adblockplus.org/customizations</homepage>
+    <support>https://adblockplus.org/forum/</support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="5230">
+  <name>Karma Blocker</name>
+  <type id="1">Extension</type>
+  <guid>kabl@trac.arantius.com</guid>
+  <slug>karma-blocker</slug>
+  <version>0.4.8</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="833">
+      <name>Anthony Lieuallen</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/anthony-lieuallen/?src=api</link>
+    </author>      </authors>
+  <summary>Block resources based on their karma.</summary>
+  <description>Use a &#34;karma&#34; scoring mechanism like that in SpamAssassin to block nuisances on the web. An extremely powerful, yet lightweight, alternative to extensions like AdBlock Plus. Especially useful for blocking third-party resources to help combat privacy leaks (cookies) and security problems (XSS).
+
+Intended for the advanced user.  It is highly recommended to read the documentation: &lt;a href=&#34;http://outgoing.mozilla.org/v1/65e08be25dc2d5a4d591cbd103ef417304423f6b9e5e272cedc676deeaba94ef/https%3A//github.com/arantius/karma-blocker%23documentation&#34; rel=&#34;nofollow&#34;&gt;https://github.com/arantius/karma-blocker#documentation&lt;/a&gt;
+
+If you&#39;d like to learn or share tips, tricks, or configurations, please participate in the discussion group:
+&lt;a href=&#34;http://outgoing.mozilla.org/v1/36536d27e516c9676ccb2a05c8c3ccefb0641ae92a7c853bb4fa84185e63b475/http%3A//groups.google.com/group/karma-blocker-discuss&#34; rel=&#34;nofollow&#34;&gt;http://groups.google.com/group/karma-blocker-discuss&lt;/a&gt;</description><license>
+    <name>GNU General Public License, version 2.0</name>
+    <url>http://www.gnu.org/licenses/gpl-2.0.html</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/5/5230-64.png?modified=1371475254</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/5/5230-32.png?modified=1371475254</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>20.0</min_version>
+      <max_version>33.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="image/png" width="421" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/27/27780.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="120" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/27/27780.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>The &#34;monitor&#34; dialog lets you see each resource that loads, what score it got, and whether it was blocked.  The lower panel details how and why the score came about.</caption></preview><preview position="1">
+      <full type="image/png" width="382" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/27/27781.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="109" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/27/27781.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>The configuration dialog simply allows you to type in all the rules and groups of the configuration, and will check the syntax for you.</caption></preview></previews><rating>4</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/karma-blocker/?src=api</learnmore><install hash="sha256:605de4177a83378d23a02ce6688a8d6124d4b925066309334c4f6b3f33817b6a"
+    os="ALL"
+    size="50309">https://addons.mozilla.org/firefox/downloads/file/231078/karma_blocker-0.4.8-fx.xpi?src=api</install>
+  <developer_comments></developer_comments>
+    <reviews num="73">
+      https://addons.mozilla.org/en-US/firefox/addon/karma-blocker/reviews/?src=api
+    </reviews>
+    <total_downloads>191712</total_downloads>
+    <weekly_downloads>180</weekly_downloads>
+    <daily_users>13010</daily_users>
+    <created epoch="1183043970">
+      2007-06-28T15:19:30Z
+    </created>
+    <last_updated epoch="1382038473">
+      2013-10-17T19:34:33Z
+    </last_updated>
+    <homepage></homepage>
+    <support></support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="433">
+  <name>Flashblock</name>
+  <type id="1">Extension</type>
+  <guid>{3d7eb24f-2740-49df-8937-200b1cc08f8a}</guid>
+  <slug>flashblock</slug>
+  <version>1.5.17</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="408">
+      <name>Philip Chee</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/philip-chee/?src=api</link>
+    </author>      </authors>
+  <summary>Never be annoyed by a Flash animation again! Blocks Flash so it won&#39;t get in your way, but if you want to see it, just click on...</summary>
+  <description>Flashblock is an extension for the Mozilla, Firefox, and Netscape browsers that takes a pessimistic approach to dealing with Macromedia Flash content on a webpage and blocks ALL Flash content from loading. It then leaves placeholders on the webpage that allow you to click to download and then view the Flash content.
+
+Flashblock currently blocks the following content types:
+* Macromedia Flash
+* Macromedia Shockwave
+* Macromedia Authorware
+
+Our public support forums can be accessed via:
+our mailing list: &lt;a href=&#34;http://outgoing.mozilla.org/v1/d93fd4fd028d41244ddc0a7dce55313a5a471ac0f1aeed8530854b010c889f0b/http%3A//www.mozdev.org/mailman/listinfo/flashblock&#34; rel=&#34;nofollow&#34;&gt;http://www.mozdev.org/mailman/listinfo/flashblock&lt;/a&gt;
+or newsgroup: &lt;a href=&#34;http://outgoing.mozilla.org/v1/4f1ac43589ea32cde80f162fb41794ac76c5ce58c33da735781a0f04c6b43f86/news%3A//news.mozdev.org/public.mozdev.flashblock&#34; rel=&#34;nofollow&#34;&gt;news://news.mozdev.org/public.mozdev.flashblock&lt;/a&gt;
+
+Please report support issues at: &lt;a href=&#34;http://outgoing.mozilla.org/v1/d93fd4fd028d41244ddc0a7dce55313a5a471ac0f1aeed8530854b010c889f0b/http%3A//www.mozdev.org/mailman/listinfo/flashblock&#34; rel=&#34;nofollow&#34;&gt;http://www.mozdev.org/mailman/listinfo/flashblock&lt;/a&gt; This mailing list is public, other people can see your messages including your email address.
+
+To send private email please use our contact webpage at: &lt;a href=&#34;http://outgoing.mozilla.org/v1/2598458e6663df4d7bddfbac92ad6a0c3c9e53154732b0dd082d27ef81d50b36/http%3A//flashblock.mozdev.org/contact.html&#34; rel=&#34;nofollow&#34;&gt;http://flashblock.mozdev.org/contact.html&lt;/a&gt;
+
+&lt;b&gt;Note:&lt;/b&gt; Flashblock does not work with Javascript disabled or with NoScript installed.
+
+&lt;b&gt;&lt;a href=&#34;http://outgoing.mozilla.org/v1/f541ff9b58fe8ef09cbadbdd7a6c017f9c859ce781a6840fb9818a092dc29d6f/http%3A//soundcloud.com&#34; rel=&#34;nofollow&#34;&gt;soundcloud.com&lt;/a&gt;:&lt;/b&gt; I&#39;ve added a FAQ entry on how to get Soundcloud working with Flashblock. &lt;a href=&#34;http://outgoing.mozilla.org/v1/b76f5d3f1394f2baa13f3ee037cb4ffba1cae2df5cedb24d991cc5b7762962dc/http%3A//flashblock.mozdev.org/faq.html%23fbSoundCloud&#34; rel=&#34;nofollow&#34;&gt;http://flashblock.mozdev.org/faq.html#fbSoundCloud&lt;/a&gt;
+
+&lt;b&gt;Whitelists:&lt;/b&gt; Make sure that you leave out the protocol prefix e.g. &#34;https://&#34; so to whitelist youtube, you should just use &#34;&lt;a href=&#34;http://outgoing.mozilla.org/v1/577585700e711c66b2f847e9c2ba66f07706960fe129e88008d23cb2a93a014c/http%3A//youtube.com&#34; rel=&#34;nofollow&#34;&gt;youtube.com&lt;/a&gt;&#34;.
+
+A User mentioned that whitelisting youtube videos embedded on other sites stopped working because the URL has changed, You should now whitelist &#34;&lt;a href=&#34;http://outgoing.mozilla.org/v1/30333893122e443a55bf19c3973bea19ee509033fa454eaac957cdccda0ca35a/http%3A//s.ytimg.com/yt&#34; rel=&#34;nofollow&#34;&gt;s.ytimg.com/yt&lt;/a&gt;&#34; instead.
+
+&lt;b&gt;FoxTab:&lt;/b&gt; To allow FoxTab to work without interruption please add &#34;chrome&#34; to the Flashblock whitelist (without the &#39;&#34; quotes).
+
+Google Street View: Flashblock is reported to prevent Google Street View from running when trying to start it from Google Maps. Please add &lt;a href=&#34;http://outgoing.mozilla.org/v1/66170059ec6ba9aa157d6b10a0d1dbd25a0d071e7c41d77b1a1d23ada1058f97/http%3A//maps.google.com&#34; rel=&#34;nofollow&#34;&gt;maps.google.com&lt;/a&gt; to the Flashblock whitelist (For regional versions of Google such as &lt;a href=&#34;http://outgoing.mozilla.org/v1/0bb2d3417cc0a2f578b15a50b79d171f0fe93bd5a629e7850280f712ee1c9db6/http%3A//maps.google.ch&#34; rel=&#34;nofollow&#34;&gt;maps.google.ch&lt;/a&gt;, &lt;a href=&#34;http://outgoing.mozilla.org/v1/066dc1145be524d056ab912f53ce7f54fafda335360b09ee98d49604c04545f7/http%3A//maps.google.fr&#34; rel=&#34;nofollow&#34;&gt;maps.google.fr&lt;/a&gt;, and &lt;a href=&#34;http://outgoing.mozilla.org/v1/647edf05914bcfbf8c0f74f0cb84b17ee15521e32d5a0fe6992f3222706c66e1/http%3A//maps.google.de&#34; rel=&#34;nofollow&#34;&gt;maps.google.de&lt;/a&gt; use &#34;maps.google&#34; as the whitelist string). The easiest way to do this is to put the Flashblock toolbar button on a toolbar and then clicking on the drop marker on the right edge of the button. Choose &#34;Allow Flash from this site&#34; while &lt;a href=&#34;http://outgoing.mozilla.org/v1/66170059ec6ba9aa157d6b10a0d1dbd25a0d071e7c41d77b1a1d23ada1058f97/http%3A//maps.google.com&#34; rel=&#34;nofollow&#34;&gt;maps.google.com&lt;/a&gt; is in your tab/window.
+
+Please read our FAQ at: &lt;a href=&#34;http://outgoing.mozilla.org/v1/e709489eb79edff8b8d5ed39cda57773967200b322fe94b20f084e8eff430ef2/http%3A//flashblock.mozdev.org/faq.html&#34; rel=&#34;nofollow&#34;&gt;http://flashblock.mozdev.org/faq.html&lt;/a&gt;
+Many common questions have answers there.
+
+Flashblock 1.5 is designed to work only with Firefox 3.6 and newer, Netscape Navigator 9 and with Flock.
+
+For other browsers such as Seamonkey 2.0, and Netscape 9, please visit our project installation page for the latest Flashblock 1.3.x.
+&lt;a href=&#34;http://outgoing.mozilla.org/v1/f973e05b7e07a5d5072bcdb7705f36b95562da57a009883bc3a7849208b6ff45/http%3A//flashblock.mozdev.org/installation2.html%23current&#34; rel=&#34;nofollow&#34;&gt;http://flashblock.mozdev.org/installation2.html#current&lt;/a&gt;
+
+For &lt;b&gt;older&lt;/b&gt; browsers such as Firefox 1.0.7, Mozilla Suite 1.7, Seamonkey 1.x, and Netscape 7/8, please visit our project installation page for Flashblock 1.3.14:
+&lt;a href=&#34;http://outgoing.mozilla.org/v1/cfb8c010514930a34cdd232ca6278504437f3a7e9c90b88c0d8f4f8e04293b2e/http%3A//flashblock.mozdev.org/installation2.htmlfb1315&#34; rel=&#34;nofollow&#34;&gt;http://flashblock.mozdev.org/installation2.htmlfb1315&lt;/a&gt;</description><license>
+    <name>Custom License</name>
+    <url>https://addons.mozilla.org/en-US/firefox/addon/flashblock/license/1.5.17</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/0/433-64.png?modified=1364917586</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/0/433-32.png?modified=1364917586</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>3.5</min_version>
+      <max_version>33.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews></previews><rating>4</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/flashblock/?src=api</learnmore><install hash="sha256:5bb84c1691edd9e7d95393faaa3ed44522f6bb6b4fe65973ed5b1966c0c84290"
+    os="ALL"
+    size="109338">https://addons.mozilla.org/firefox/downloads/file/201166/flashblock-1.5.17-fx.xpi?src=api</install>
+  <install hash="sha256:4c7706befc0c9dd2c3073c2df072178408b79cb0d1027ce4ae47f31a0cd150fb" os=""
+             size="96256"
+             status="Beta">
+      https://addons.mozilla.org/firefox/downloads/file/121081/flashblock-1.5.15b2-fx.xpi?src=api
+    </install>
+    <contribution_data>
+      <link>https://addons.mozilla.org/en-US/firefox/addon/flashblock/contribute/?src=api</link>
+                <suggested_amount currency="USD" amount="5.00">
+            $5.00
+          </suggested_amount>
+            <meet_developers>
+        https://addons.mozilla.org/en-US/firefox/addon/flashblock/developers?src=api
+      </meet_developers>
+    </contribution_data><developer_comments>Please report support issues at: &lt;a href=&#34;http://outgoing.mozilla.org/v1/d93fd4fd028d41244ddc0a7dce55313a5a471ac0f1aeed8530854b010c889f0b/http%3A//www.mozdev.org/mailman/listinfo/flashblock&#34; rel=&#34;nofollow&#34;&gt;http://www.mozdev.org/mailman/listinfo/flashblock&lt;/a&gt; This mailing list is public, other people can see your messages including your email address.
+
+To send private email please use our contact webpage at: &lt;a href=&#34;http://outgoing.mozilla.org/v1/2598458e6663df4d7bddfbac92ad6a0c3c9e53154732b0dd082d27ef81d50b36/http%3A//flashblock.mozdev.org/contact.html&#34; rel=&#34;nofollow&#34;&gt;http://flashblock.mozdev.org/contact.html&lt;/a&gt;
+
+Flashblock 1.5.14 doesn&#39;t work on Firefox 2.0.0.x. For Firefox 2.0 users. Please install 1.5.14.2 instead.
+Flashblock 1.5.14 broke compatibility with sIFR Flash replacement. Please install 1.5.14.2 instead.
+
+&lt;b&gt;Whitelists:&lt;/b&gt; Make sure that you leave out the protocol prefix e.g. &#34;https://&#34; so to whitelist youtube, you should just use &#34;&lt;a href=&#34;http://outgoing.mozilla.org/v1/577585700e711c66b2f847e9c2ba66f07706960fe129e88008d23cb2a93a014c/http%3A//youtube.com&#34; rel=&#34;nofollow&#34;&gt;youtube.com&lt;/a&gt;&#34;.
+
+A User mentioned that whitelisting youtube videos embedded on other sites stopped working because the URL has changed, You should now whitelist &#34;&lt;a href=&#34;http://outgoing.mozilla.org/v1/30333893122e443a55bf19c3973bea19ee509033fa454eaac957cdccda0ca35a/http%3A//s.ytimg.com/yt&#34; rel=&#34;nofollow&#34;&gt;s.ytimg.com/yt&lt;/a&gt;&#34; instead.
+
+&lt;b&gt;FoxTab:&lt;/b&gt; To allow FoxTab to work without interruption please add &#34;chrome&#34; to the Flashblock whitelist (without the &#39;&#34; quotes).
+
+Google Street View: Flashblock is reported to prevent Google Street View from running when trying to start it from Google Maps. Please add &lt;a href=&#34;http://outgoing.mozilla.org/v1/66170059ec6ba9aa157d6b10a0d1dbd25a0d071e7c41d77b1a1d23ada1058f97/http%3A//maps.google.com&#34; rel=&#34;nofollow&#34;&gt;maps.google.com&lt;/a&gt; to the Flashblock whitelist (For regional versions of Google such as &lt;a href=&#34;http://outgoing.mozilla.org/v1/0bb2d3417cc0a2f578b15a50b79d171f0fe93bd5a629e7850280f712ee1c9db6/http%3A//maps.google.ch&#34; rel=&#34;nofollow&#34;&gt;maps.google.ch&lt;/a&gt;, &lt;a href=&#34;http://outgoing.mozilla.org/v1/066dc1145be524d056ab912f53ce7f54fafda335360b09ee98d49604c04545f7/http%3A//maps.google.fr&#34; rel=&#34;nofollow&#34;&gt;maps.google.fr&lt;/a&gt;, and &lt;a href=&#34;http://outgoing.mozilla.org/v1/647edf05914bcfbf8c0f74f0cb84b17ee15521e32d5a0fe6992f3222706c66e1/http%3A//maps.google.de&#34; rel=&#34;nofollow&#34;&gt;maps.google.de&lt;/a&gt; use &#34;maps.google&#34; as the whitelist string). The easiest way to do this is to put the Flashblock toolbar button on a toolbar and then clicking on the drop marker on the right edge of the button. Choose &#34;Allow Flash from this site&#34; while &lt;a href=&#34;http://outgoing.mozilla.org/v1/66170059ec6ba9aa157d6b10a0d1dbd25a0d071e7c41d77b1a1d23ada1058f97/http%3A//maps.google.com&#34; rel=&#34;nofollow&#34;&gt;maps.google.com&lt;/a&gt; is in your tab/window.
+
+Please read our FAQ at: &lt;a href=&#34;http://outgoing.mozilla.org/v1/e709489eb79edff8b8d5ed39cda57773967200b322fe94b20f084e8eff430ef2/http%3A//flashblock.mozdev.org/faq.html&#34; rel=&#34;nofollow&#34;&gt;http://flashblock.mozdev.org/faq.html&lt;/a&gt;
+Many common questions have answers there.
+
+Flashblock 1.5 is designed to work only with Firefox 2.0 and newer, Netscape Navigator 9 and with Flock.
+
+For other browsers such as Seamonkey 2.0, and Netscape 9, please visit our project installation page for the latest Flashblock 1.3.x.
+&lt;a href=&#34;http://outgoing.mozilla.org/v1/f973e05b7e07a5d5072bcdb7705f36b95562da57a009883bc3a7849208b6ff45/http%3A//flashblock.mozdev.org/installation2.html%23current&#34; rel=&#34;nofollow&#34;&gt;http://flashblock.mozdev.org/installation2.html#current&lt;/a&gt;
+
+For &lt;b&gt;older&lt;/b&gt; browsers such as Firefox 1.0.7, Mozilla Suite 1.7, Seamonkey 1.x, and Netscape 7/8, please visit our project installation page for Flashblock 1.3.14:
+&lt;a href=&#34;http://outgoing.mozilla.org/v1/cfb8c010514930a34cdd232ca6278504437f3a7e9c90b88c0d8f4f8e04293b2e/http%3A//flashblock.mozdev.org/installation2.htmlfb1315&#34; rel=&#34;nofollow&#34;&gt;http://flashblock.mozdev.org/installation2.htmlfb1315&lt;/a&gt;</developer_comments>
+    <reviews num="899">
+      https://addons.mozilla.org/en-US/firefox/addon/flashblock/reviews/?src=api
+    </reviews>
+    <total_downloads>17635765</total_downloads>
+    <weekly_downloads>4981</weekly_downloads>
+    <daily_users>1053007</daily_users>
+    <created epoch="1103558929">
+      2004-12-20T16:08:49Z
+    </created>
+    <last_updated epoch="1366052837">
+      2013-04-15T19:07:17Z
+    </last_updated>
+    <homepage>http://flashblock.mozdev.org/</homepage>
+    <support>http://flashblock.mozdev.org/contact.html</support>
+    <featured>0</featured>
+        <performance>
+            <application name="fx" version="8.0.1">
+                <platform name="WINNT" version="6.1">
+          <result type="ts" baseline="548.47" average="553.95"
+                  above_threshold="false" />
+        </platform>        <platform name="Fedora" version="12 - Constantine">
+          <result type="ts" baseline="479.26" average="484.37"
+                  above_threshold="false" />
+        </platform>        <platform name="MacOSX" version="10.6 (rev4)">
+          <result type="ts" baseline="637.58" average="639.42"
+                  above_threshold="false" />
+        </platform></application>      <application name="fx" version="4.0.1">
+                <platform name="MacOSX" version="10.5.8">
+          <result type="ts" baseline="687.21" average="693.63"
+                  above_threshold="false" />
+        </platform>        <platform name="WINNT" version="5.1">
+          <result type="ts" baseline="409.26" average="409.05"
+                  above_threshold="false" />
+        </platform></application>      <application name="fx" version="5.0">
+                <platform name="Fedora" version="12 - Constantine">
+          <result type="ts" baseline="506.0" average="496.05"
+                  above_threshold="false" />
+        </platform>        <platform name="WINNT" version="5.1">
+          <result type="ts" baseline="388.11" average="392.53"
+                  above_threshold="false" />
+        </platform>        <platform name="MacOSX" version="10.5.8">
+          <result type="ts" baseline="679.89" average="688.95"
+                  above_threshold="false" />
+        </platform>        <platform name="WINNT" version="6.1">
+          <result type="ts" baseline="522.0" average="524.05"
+                  above_threshold="false" />
+        </platform></application>      <application name="fx" version="6.0.2">
+                <platform name="WINNT" version="6.1">
+          <result type="ts" baseline="519.79" average="538.0"
+                  above_threshold="false" />
+        </platform>        <platform name="MacOSX" version="10.6.2">
+          <result type="ts" baseline="654.42" average="651.42"
+                  above_threshold="false" />
+        </platform>        <platform name="Fedora" version="12 - Constantine">
+          <result type="ts" baseline="476.21" average="484.53"
+                  above_threshold="false" />
+        </platform></application>      <application name="fx" version="7.0.1">
+                <platform name="WINNT" version="6.1">
+          <result type="ts" baseline="547.16" average="549.05"
+                  above_threshold="false" />
+        </platform>        <platform name="Fedora" version="12 - Constantine">
+          <result type="ts" baseline="479.68" average="489.95"
+                  above_threshold="false" />
+        </platform>        <platform name="MacOSX" version="10.6.2 (rev3)">
+          <result type="ts" baseline="667.37" average="655.79"
+                  above_threshold="false" />
+        </platform>        <platform name="MacOSX" version="10.6.2">
+          <result type="ts" baseline="671.16" average="664.84"
+                  above_threshold="false" />
+        </platform></application>      <application name="fx" version="8.0">
+                <platform name="MacOSX" version="10.6 (rev4)">
+          <result type="ts" baseline="624.84" average="626.84"
+                  above_threshold="false" />
+        </platform>        <platform name="WINNT" version="6.1">
+          <result type="ts" baseline="541.58" average="555.79"
+                  above_threshold="false" />
+        </platform>        <platform name="Fedora" version="12 - Constantine">
+          <result type="ts" baseline="477.95" average="478.74"
+                  above_threshold="false" />
+        </platform>        <platform name="MacOSX" version="10.6.2 (rev3)">
+          <result type="ts" baseline="657.21" average="663.32"
+                  above_threshold="false" />
+        </platform></application></performance>
+    </addon>
+  <addon id="3145">
+  <name>BlockSite</name>
+  <type id="1">Extension</type>
+  <guid>{dd3d7613-0246-469d-bc65-2a3cc1668adc}</guid>
+  <slug>blocksite</slug>
+  <version>1.1.8</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="6083231">
+      <name>Wips.com s.r.o.</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/wips/?src=api</link>
+    </author>      </authors>
+  <summary>BlockSite is an extension, which automagically blocks websites of your choice. Additionally, this extension will disable all hyperlinks to these websites, by just displaying the link text without the clicking functionality.</summary>
+  <description>&lt;b&gt;Blocking sites/white list problem &lt;/b&gt;
+If you are having trouble with blocking websites you don&#39;t want to block, all you need to do is switch to a Black List and you will be fine. Please address any questions to our support page. We check your suggestions every day:
+&lt;b&gt;&lt;a href=&#34;http://outgoing.mozilla.org/v1/48b83ae6ac3aa55fffc403b04f37ff859c48ea0be6d9172c0911988f23d5348b/http%3A//www.wips.com/support/block-site-addon&#34; rel=&#34;nofollow&#34;&gt;http://www.wips.com/support/block-site-addon&lt;/a&gt;&lt;/b&gt;
+
+
+&lt;b&gt;General usage&lt;/b&gt;
+You can add and/or remove websites, you don&#39;t want to visit ever again, via the BlockSite Preferences. You can open this window by clicking on the options button of BlockSite in Tools &amp;gt; Add-ons menu, or by clicking on the Preferences item in the context menu of the extension in the Extension Manager.
+
+&lt;b&gt;Wildcards&lt;/b&gt;
+You can block whole ranges of websites by using the wildcard symbol (*):
+If you want to block, for example, a lot of Microsoft websites, you can use the following line: &#34;http://*.microsoft.*&#34; and &#34;http://microsoft.*&#34; The * symbol indicates that there may be zero or more random characters at that place.
+
+&lt;b&gt;Import/Export&lt;/b&gt;
+You can import and export lists of locations via the &#39;Import&#39; and &#39;Export&#39; buttons in the &#39;BlockSite Preferences&#39; window. The first line in the file you want to import has to be the &#39;[BlockSite]&#39; in order to be read succesfully. So your file may look like:
+
+[BlockSite]
+http://*.domain.*
+&lt;a href=&#34;http://outgoing.mozilla.org/v1/f0d52c5afff0d0d7023b5742df55c357d047c941693e2b10272abd0283a0f80f/http%3A//test.com&#34; rel=&#34;nofollow&#34;&gt;http://test.com&lt;/a&gt;*
+...
+
+&lt;i&gt;If you still use Mozilla Firefox 1.5.0.*, you can use older versions of this extension.&lt;/i&gt;
+
+&lt;b&gt;Password protection&lt;/b&gt;
+If you lost your password: go to about:config (type about:config in the location bar and press enter) and reset the BlockSite.authenticate entry or clear the BlockSite.password entry.
+
+&lt;b&gt;Problems&lt;/b&gt;
+Some problems were reported about the loading latency whenever a very long list of blocked urls has to be checked. Every web site often makes more than ten HTTP calls and on every call, the long list of urls is checked. It&#39;s quite obvious and I probably won&#39;t change it.
+
+&lt;b&gt;About the developer&lt;/b&gt;
+&lt;a href=&#34;http://outgoing.mozilla.org/v1/8d2f18229d5ca8e543db82b444f2cc16d3cad98020b848176466eacc87517403/http%3A//Wips.com&#34; rel=&#34;nofollow&#34;&gt;Wips.com&lt;/a&gt; is a team of developer enthusiastic to Chrome Extensions and Mozilla Add-ons. We love developing extensions for users and we are happy to hear new ideas and any feedback from you. That is why you can write us on info@wips.com anytime and be sure that we will reply. Stay tuned for new extensions. We are planning to make a lot of them!
+ 
+With love ♥
+&lt;b&gt;&lt;a href=&#34;http://outgoing.mozilla.org/v1/8d2f18229d5ca8e543db82b444f2cc16d3cad98020b848176466eacc87517403/http%3A//Wips.com&#34; rel=&#34;nofollow&#34;&gt;Wips.com&lt;/a&gt; team &lt;/b&gt;</description><license>
+    <name>GNU General Public License, version 3.0</name>
+    <url>http://www.gnu.org/licenses/gpl-3.0.html</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/3/3145-64.png?modified=1377618718</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/3/3145-32.png?modified=1377618718</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>2.0</min_version>
+      <max_version>33.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="" width="679" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/76/76173.png?src=api&amp;modified=1345562884
+      </full>
+      <thumbnail type="" width="194" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/76/76173.png?src=api&amp;modified=1345562884
+      </thumbnail></preview><preview position="1">
+      <full type="" width="679" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/76/76171.png?src=api&amp;modified=1345562884
+      </full>
+      <thumbnail type="" width="194" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/76/76171.png?src=api&amp;modified=1345562884
+      </thumbnail></preview><preview position="2">
+      <full type="" width="700" height="383">
+        https://addons.cdn.mozilla.net/user-media/previews/full/76/76169.png?src=api&amp;modified=1345562884
+      </full>
+      <thumbnail type="" width="200" height="109">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/76/76169.png?src=api&amp;modified=1345562884
+      </thumbnail></preview></previews><rating>3</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/blocksite/?src=api</learnmore><install hash="sha256:849f6f56d1ee07d0f489d0d932942ba8a7bb0f16584089cd2ba642303de71d52"
+    os="ALL"
+    size="178761">https://addons.mozilla.org/firefox/downloads/file/220046/blocksite-1.1.8-fx.xpi?src=api</install>
+  <developer_comments>Unfortunately Noel Briggs wasn&#39;t able to co-maintain this add-on, so I took over again. Please donate if you would like to see BlockSite updated regularly.
+
+2010/02/01: The first donation pledge of $50 was reached in less than two weeks. Thanks to all who&#39;ve donated. I will be working on a major update (with probably much faster execution and certainly with less bugs). This can take a while, so don&#39;t worry if you will not see the major update shortly.
+
+2010/02/12: I&#39;ve been working on the long awaited update for a few days now. Unfortunately it needs complete restructuring with completely new code, because most of it buggy or just plain old. Thanks to all who have donated so far.</developer_comments>
+    <reviews num="462">
+      https://addons.mozilla.org/en-US/firefox/addon/blocksite/reviews/?src=api
+    </reviews>
+    <total_downloads>3926533</total_downloads>
+    <weekly_downloads>2133</weekly_downloads>
+    <daily_users>235897</daily_users>
+    <created epoch="1155123121">
+      2006-08-09T11:32:01Z
+    </created>
+    <last_updated epoch="1376093861">
+      2013-08-10T00:17:41Z
+    </last_updated>
+    <homepage>https://addons.mozilla.org/en-US/firefox/user/32208</homepage>
+    <support>http://www.wips.com/support/block-site-addon</support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="325597">
+  <name>Silent Block</name>
+  <type id="1">Extension</type>
+  <guid>SilentBlock@schuzak.jp</guid>
+  <slug>silentblock</slug>
+  <version>1.2.2</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="1390606">
+      <name>Schuzak</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/schuzak/?src=api</link>
+    </author>      </authors>
+  <summary>Minimum and fast URL blocker by regular expression.</summary>
+  <description>*Create contentblock-regex.txt in &lt;a rel=&#34;nofollow&#34; href=&#34;https://addons.mozilla.org/addon/profile-folder-button/&#34;&gt;profile folder&lt;/a&gt; and write regular expressions to block matching URLs.
+*contentblock-whitelist-regex.txt for white list.
+*Restart Firefox to reload files.
+*See error console or browser console for blocker results.
+  (Disabled by default. Toggle extensions.silentblock.logging.enabled .)
+*No GUI.
+
+
+About location of profile folder see &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/94dea492453d037480436690b358219a6fb5b80ddaa501f44e716ddac74e227e/https%3A//support.mozilla.org/kb/profiles-where-firefox-stores-user-data&#34;&gt;Mozilla Support document&lt;/a&gt;.
+
+To use custom folder, open about:config and specify the full folder path in extensions.silentblock.altdir . This is useful for mobile devices.
+
+For details of Firefox&#39;s regular expression see &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/793be400ff6382c9556112d1b1be6a9d8e445f76d5c678172741bd26d5c2a38c/https%3A//developer.mozilla.org/docs/Web/JavaScript/Guide/Regular_Expressions%23Using_Special_Characters&#34;&gt;MDN document&lt;/a&gt;.</description><license>
+    <name>License</name>
+    <url>http://www.mozilla.org/MPL/MPL-1.1.html</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/325/325597-64.png?modified=1413898919</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/325/325597-32.png?modified=1413898919</icon>
+  <compatible_applications><application>
+      <name>Thunderbird</name>
+      <application_id>18</application_id>
+      <min_version>5.0</min_version>
+      <max_version>36.0a1</max_version>
+      <appID>{3550f703-e582-4d05-9a08-453d09bdfdc6}</appID>
+    </application><application>
+      <name>Firefox for Android</name>
+      <application_id>61</application_id>
+      <min_version>11.0</min_version>
+      <max_version>36.0a1</max_version>
+      <appID>{aa3c5121-dab2-40e2-81ca-7ea25febc110}</appID>
+    </application><application>
+      <name>Mobile</name>
+      <application_id>60</application_id>
+      <min_version>4.0</min_version>
+      <max_version>36.0a1</max_version>
+      <appID>{a23983c0-fd0e-11dc-95ff-0800200c9a66}</appID>
+    </application><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>3.5</min_version>
+      <max_version>36.0a1</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application><application>
+      <name>SeaMonkey</name>
+      <application_id>59</application_id>
+      <min_version>2.1</min_version>
+      <max_version>2.33a1</max_version>
+      <appID>{92650c4d-4b8e-4d2a-b7eb-24ecf4f6b63a}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews></previews><rating>5</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/silentblock/?src=api</learnmore><install hash="sha256:bc5c1a6696b8369e312a97bdfb00274c1bf32db3d33460be621cee90ef69f451"
+    os="ALL"
+    size="9962">https://addons.mozilla.org/firefox/downloads/file/278814/silent_block-1.2.2-tb+an+fn+fx+sm.xpi?src=api</install>
+  <developer_comments></developer_comments>
+    <reviews num="16">
+      https://addons.mozilla.org/en-US/firefox/addon/silentblock/reviews/?src=api
+    </reviews>
+    <total_downloads>131108</total_downloads>
+    <weekly_downloads>221</weekly_downloads>
+    <daily_users>8363</daily_users>
+    <created epoch="1309430489">
+      2011-06-30T10:41:29Z
+    </created>
+    <last_updated epoch="1412421321">
+      2014-10-04T11:15:21Z
+    </last_updated>
+    <homepage>http://www.schuzak.jp/fx/silentblock.html</homepage>
+    <support></support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="195789">
+  <name>CensureBlock</name>
+  <type id="1">Extension</type>
+  <guid>censureblock@gmail.com</guid>
+  <slug>censureblock</slug>
+  <version>0.45</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="5379973">
+      <name>Vasiliy Temnikov</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/Vasiliy_Temnikov/?src=api</link>
+    </author>      </authors>
+  <summary>This addon blocks sites containing pornographic materials.</summary>
+  <description>&lt;b&gt;If the site is blocked, please send the address of this site to e-mail (&lt;a href=&#34;http://outgoing.mozilla.org/v1/c25d9431cb746a150bb859aad7f13ba66254df6275c13b63e1a7c9bc94839d0c/mailto%3Acensureblock%40gmail.com&#34; rel=&#34;nofollow&#34;&gt;censureblock@gmail.com&lt;/a&gt;)&lt;/b&gt;
+
+&lt;b&gt;If you dont like this addon, try &lt;a href=&#34;https://addons.mozilla.org/firefox/addon/urlfilter/&#34; rel=&#34;nofollow&#34;&gt;URLFilter&lt;/a&gt;&lt;/b&gt;
+
+I liked this addon. How I can thank you?
+______________________________________
+1. Vote for this addon and write a good opinion.
+2. Tell about this addon to friends and familiar.
+3. Donate, please!
+- &lt;a href=&#34;http://outgoing.mozilla.org/v1/4cecf66b98692650316a2ce17c9fff8ef275cebbfd194d2e535b98a51f919013/https%3A//www.paypal.com/&#34; rel=&#34;nofollow&#34;&gt;PayPal&lt;/a&gt; - you can send money to address censureblock@gmail.com
+- &lt;a href=&#34;http://outgoing.mozilla.org/v1/e5a7d65b810936c88a54ae13a438887dafbca7a400dfa57f6aced248e4cf8940/http%3A//www.wmtransfer.com/&#34; rel=&#34;nofollow&#34;&gt;WebMoney&lt;/a&gt; - you can send money to purses: Z872157455208, R354759026464, E376801080082
+- &lt;a href=&#34;http://outgoing.mozilla.org/v1/31b1f2a3c2dc7eea3e1660e946372c2bda5db936a6d65caa7c202fe9c12a0c06/https%3A//money.yandex.ru/&#34; rel=&#34;nofollow&#34;&gt;Yandex.Money&lt;/a&gt; - to purse: 41001852642663
+- Using a &lt;a href=&#34;http://outgoing.mozilla.org/v1/523f4ac3e49824b69d848bcab3d5902cbe29b2c76d8d83f656dafbf3ae04f882/https%3A//www.paypal.com/cgi-bin/webscr%3Fcmd=_donations&amp;amp;business=Q32SJUJUSKZN4&amp;amp;lc=US&amp;amp;item_name=Donation%2520for%2520the%2520addon&amp;amp;currency_code=USD&amp;amp;bn=PP%252dDonationsBF%253abtn_donateCC_LG%252egif%253aNonHosted&#34; rel=&#34;nofollow&#34;&gt;credit card or bank account&lt;/a&gt;
+
+I liked this addon. Than I can help?
+______________________________________
+1. Localization for your language.
+2. Creation of subscription taking into account of your region or language. (&lt;a href=&#34;http://outgoing.mozilla.org/v1/7c03d9cd34d5ce4f14587e1026be5547d3cc580dfb0e77b276e2ecafa4bda5aa/http%3A//censureblock.googlecode.com&#34; rel=&#34;nofollow&#34;&gt;http://censureblock.googlecode.com&lt;/a&gt;)
+
+Discuss this extension please visit: 
+&lt;a href=&#34;http://outgoing.mozilla.org/v1/7c03d9cd34d5ce4f14587e1026be5547d3cc580dfb0e77b276e2ecafa4bda5aa/http%3A//censureblock.googlecode.com&#34; rel=&#34;nofollow&#34;&gt;http://censureblock.googlecode.com&lt;/a&gt;</description><license>
+    <name>GNU General Public License, version 2.0</name>
+    <url>http://www.gnu.org/licenses/gpl-2.0.html</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/195/195789-64.png?modified=1385119113</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/195/195789-32.png?modified=1385119113</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>3.0</min_version>
+      <max_version>34.0</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application><application>
+      <name>SeaMonkey</name>
+      <application_id>59</application_id>
+      <min_version>2.0</min_version>
+      <max_version>2.31</max_version>
+      <appID>{92650c4d-4b8e-4d2a-b7eb-24ecf4f6b63a}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="image/png" width="700" height="394">
+        https://addons.cdn.mozilla.net/user-media/previews/full/50/50155.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="200" height="112">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/50/50155.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>CensureBlock</caption></preview><preview position="1">
+      <full type="" width="656" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/52/52961.png?src=api&amp;modified=1295755283
+      </full>
+      <thumbnail type="" width="187" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/52/52961.png?src=api&amp;modified=1295755283
+      </thumbnail><caption>CensureBlock</caption></preview></previews><rating>3</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/censureblock/?src=api</learnmore><install hash="sha256:3fd29634675ed4be23cad8685643428903df8fdde5deb9f22c0ef8ef0e1b267f"
+    os="ALL"
+    size="40960">https://addons.mozilla.org/firefox/downloads/file/117668/censureblock-0.45-sm+fx.xpi?src=api</install>
+  <contribution_data>
+      <link>https://addons.mozilla.org/en-US/firefox/addon/censureblock/contribute/?src=api</link>
+                <suggested_amount currency="USD" amount="1.00">
+            $1.00
+          </suggested_amount>
+            <meet_developers>
+        https://addons.mozilla.org/en-US/firefox/addon/censureblock/developers?src=api
+      </meet_developers>
+    </contribution_data><developer_comments></developer_comments>
+    <reviews num="69">
+      https://addons.mozilla.org/en-US/firefox/addon/censureblock/reviews/?src=api
+    </reviews>
+    <total_downloads>408216</total_downloads>
+    <weekly_downloads>309</weekly_downloads>
+    <daily_users>98026</daily_users>
+    <created epoch="1278853707">
+      2010-07-11T13:08:27Z
+    </created>
+    <last_updated epoch="1303143456">
+      2011-04-18T16:17:36Z
+    </last_updated>
+    <homepage>http://censureblock.googlecode.com</homepage>
+    <support>http://code.google.com/p/censureblock</support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="4476">
+  <name>LeechBlock</name>
+  <type id="1">Extension</type>
+  <guid>{a95d8332-e4b4-6e7f-98ac-20b733364387}</guid>
+  <slug>leechblock</slug>
+  <version>0.6.6</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="98949">
+      <name>James Anderson</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/james-anderson/?src=api</link>
+    </author>      </authors>
+  <summary>LeechBlock is a simple productivity tool designed to block those time-wasting sites that can suck the life out of your working day. All you need to do is specify which sites to block and when to block them.</summary>
+  <description>LeechBlock is a simple productivity tool designed to block those time-wasting sites that can suck the life out of your working day. (You know: the ones that rhyme with &#34;Blue Cube&#34;, &#34;Space Hook&#34;, &#34;Sticky Media&#34;, &#34;Quitter&#34;, and the like.) All you need to do is specify which sites to block and when to block them.
+
+You can specify up to six sets of sites to block, with different times and days for each set. You can block sites within fixed time periods (e.g., between 9am and 5pm), after a time limit (e.g., 10 minutes in every hour), or with a combination of time periods and time limit (e.g., 10 minutes in every hour between 9am and 5pm). You can also set a password for access to the extension options, just to slow you down in moments of weakness!
+
+The sites to block can be specified using wildcards (e.g., *.somesite.com) and exceptions (e.g., +&lt;a href=&#34;http://outgoing.mozilla.org/v1/737025bc58ecbbf72154a313d2578b26ff56c52a0ede22d2058f6fe55839c947/http%3A//allowme.somesite.com&#34; rel=&#34;nofollow&#34;&gt;allowme.somesite.com&lt;/a&gt;).
+
+LeechBlock also keeps track of the total amount of time you have spent browsing the sites in each block set.
+
+For more information and the latest version, go to: &lt;a href=&#34;http://outgoing.mozilla.org/v1/0c6b87fa10e01466c810be29453882fd3b971515b285e3122d088c595a99c495/http%3A//www.proginosko.com/leechblock.html&#34; rel=&#34;nofollow&#34;&gt;http://www.proginosko.com/leechblock.html&lt;/a&gt;
+
+For usage examples, go to: &lt;a href=&#34;http://outgoing.mozilla.org/v1/8fca9d1baa9ed5d78e4c29cdebf6f0f9d157014d4440339c13f02da193e51b41/http%3A//www.proginosko.com/leechblock_examples.html&#34; rel=&#34;nofollow&#34;&gt;http://www.proginosko.com/leechblock_examples.html&lt;/a&gt;
+
+For answers to frequently asked questions, go to: &lt;a href=&#34;http://outgoing.mozilla.org/v1/0326a510d8e1a7e40ab47b92656060967e70600ce85c7547fd6da3327b5dab80/http%3A//www.proginosko.com/leechblock_faq.html&#34; rel=&#34;nofollow&#34;&gt;http://www.proginosko.com/leechblock_faq.html&lt;/a&gt;
+
+For community support, go to: &lt;a href=&#34;http://outgoing.mozilla.org/v1/519fa9cf7d4de85e6bdc34acc7a935fc162b5038d120d212e9c5c5bdf615f1d4/http%3A//leechblock.freeforums.org&#34; rel=&#34;nofollow&#34;&gt;http://leechblock.freeforums.org&lt;/a&gt;</description><license>
+    <name>License</name>
+    <url>http://www.mozilla.org/MPL/MPL-1.1.html</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/4/4476-64.png?modified=1379341227</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/4/4476-32.png?modified=1379341227</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>4.0</min_version>
+      <max_version>27.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="" width="200" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/full/68/68560.png?src=api&amp;modified=1331346660
+      </full>
+      <thumbnail type="" width="200" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/68/68560.png?src=api&amp;modified=1331346660
+      </thumbnail><caption>LeechBlock</caption></preview><preview position="1">
+      <full type="" width="648" height="473">
+        https://addons.cdn.mozilla.net/user-media/previews/full/68/68561.png?src=api&amp;modified=1331346660
+      </full>
+      <thumbnail type="" width="200" height="145">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/68/68561.png?src=api&amp;modified=1331346660
+      </thumbnail><caption>LeechBlock Options (What to Block)</caption></preview><preview position="2">
+      <full type="" width="648" height="473">
+        https://addons.cdn.mozilla.net/user-media/previews/full/68/68562.png?src=api&amp;modified=1331346660
+      </full>
+      <thumbnail type="" width="200" height="145">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/68/68562.png?src=api&amp;modified=1331346660
+      </thumbnail><caption>LeechBlock Options (When to Block)</caption></preview><preview position="3">
+      <full type="" width="648" height="473">
+        https://addons.cdn.mozilla.net/user-media/previews/full/68/68563.png?src=api&amp;modified=1331346660
+      </full>
+      <thumbnail type="" width="200" height="145">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/68/68563.png?src=api&amp;modified=1331346660
+      </thumbnail><caption>LeechBlock Options (How to Block)</caption></preview><preview position="4">
+      <full type="" width="648" height="473">
+        https://addons.cdn.mozilla.net/user-media/previews/full/68/68564.png?src=api&amp;modified=1331346660
+      </full>
+      <thumbnail type="" width="200" height="145">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/68/68564.png?src=api&amp;modified=1331346660
+      </thumbnail><caption>LeechBlock Options (Access Control)</caption></preview><preview position="5">
+      <full type="" width="648" height="473">
+        https://addons.cdn.mozilla.net/user-media/previews/full/68/68565.png?src=api&amp;modified=1331346660
+      </full>
+      <thumbnail type="" width="200" height="145">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/68/68565.png?src=api&amp;modified=1331346660
+      </thumbnail><caption>LeechBlock Options (General)</caption></preview><preview position="6">
+      <full type="" width="296" height="313">
+        https://addons.cdn.mozilla.net/user-media/previews/full/68/68566.png?src=api&amp;modified=1331346660
+      </full>
+      <thumbnail type="" width="141" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/68/68566.png?src=api&amp;modified=1331346660
+      </thumbnail><caption>LeechBlock  Lockdown</caption></preview></previews><rating>5</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/leechblock/?src=api</learnmore><install hash="sha256:39144cfa77bea87f6756828aef622cd413a55a62e95c80d994fd59b68b6e1a11"
+    os="ALL"
+    size="70621">https://addons.mozilla.org/firefox/downloads/file/227915/leechblock-0.6.6-fx.xpi?src=api</install>
+  <contribution_data>
+      <link>https://addons.mozilla.org/en-US/firefox/addon/leechblock/contribute/?src=api</link>
+                <suggested_amount currency="USD" amount="5.00">
+            $5.00
+          </suggested_amount>
+            <meet_developers>
+        https://addons.mozilla.org/en-US/firefox/addon/leechblock/developers?src=api
+      </meet_developers>
+    </contribution_data><developer_comments>Please check the &lt;a href=&#34;http://outgoing.mozilla.org/v1/0326a510d8e1a7e40ab47b92656060967e70600ce85c7547fd6da3327b5dab80/http%3A//www.proginosko.com/leechblock_faq.html&#34; rel=&#34;nofollow&#34;&gt;FAQ page&lt;/a&gt;, &lt;a href=&#34;http://outgoing.mozilla.org/v1/8fca9d1baa9ed5d78e4c29cdebf6f0f9d157014d4440339c13f02da193e51b41/http%3A//www.proginosko.com/leechblock_examples.html&#34; rel=&#34;nofollow&#34;&gt;examples page&lt;/a&gt;, and &lt;a href=&#34;http://outgoing.mozilla.org/v1/83b6ad67f7f0038dbf425b94c810696aca0d5fcd4fbeb51df2980b3d8aa408fa/http%3A//leechblock.freeforums.org/&#34; rel=&#34;nofollow&#34;&gt;community support forum&lt;/a&gt; before emailing support queries to the developer. Thanks!</developer_comments>
+    <reviews num="430">
+      https://addons.mozilla.org/en-US/firefox/addon/leechblock/reviews/?src=api
+    </reviews>
+    <total_downloads>1087876</total_downloads>
+    <weekly_downloads>794</weekly_downloads>
+    <daily_users>86936</daily_users>
+    <created epoch="1170847382">
+      2007-02-07T11:23:02Z
+    </created>
+    <last_updated epoch="1379341167">
+      2013-09-16T14:19:27Z
+    </last_updated>
+    <homepage>http://www.proginosko.com/leechblock.html</homepage>
+    <support>http://www.proginosko.com/leechblock_faq.html</support>
+    <featured>1</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="247581">
+  <name>TrackerBlock</name>
+  <type id="1">Extension</type>
+  <guid>trackerblock@privacychoice.org</guid>
+  <slug>trackerblock</slug>
+  <version>2.2</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="4731080">
+      <name>PrivacyChoice.org</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/privacychoice/?src=api</link>
+    </author>      </authors>
+  <summary>Complete control over online tracking using multiple methods, including cookie blocking, persistent opt-out cookies, Flash and HTML5 control, and Do Not Track signals. Visit us to learn more: &lt;a href=&#34;http://outgoing.mozilla.org/v1/dc20e41fa213fb6c7b028fe515a4ae5bb9d85932/http%3A//www.privacychoice.org&#34; rel=&#34;nofollow&#34;&gt;http://www.privacychoice.org&lt;/a&gt;</summary>
+  <description>TrackerBlock gives you complete control over online tracking, deploying multiple forms of protection:
+
+Cookie Blocking and Deletion - TrackerBlock can stop over 550 tracking companies from reading or writing cookies on your computer, and deletes other tracking tags they may leave behind (Flash cookies and HTML5 storage).
+
+Do Not Track - With each browser request you can send a signal that you do not want to be tracked.
+
+Opt-out Cookies - Keeps opt-out cookies in place for hundreds of companies, which turns off targeted advertising and, with some companies, data collection.
+
+HTML5 Control - Shows you which companies are using HTML5 to store data on your computer, and lets you delete any or all of it.
+
+Independent Add-on - TrackerBlock 2.1 requires no interaction with our servers, providing even greater privacy. 
+
+Track the Trackers (optional) - Logs when tracking companies try to access your computer to support our crowd-sourced tracking database.
+
+NOTE: For fast resolution, please report any issues directly to contact@privacychoice.org and not in the reviews here.
+
+Recommendations:
+
+Wall Street Journal:
+&lt;a href=&#34;http://outgoing.mozilla.org/v1/032e87a41f4eafac0c3bb5e2a6cae814e2dcc821/http%3A//online.wsj.com/article/SB10001424052702303714704576385700129279210.html&#34; rel=&#34;nofollow&#34;&gt;http://online.wsj.com/article/SB10001424052702303714704576385700129279210.html&lt;/a&gt;
+
+MacLife:
+&lt;a href=&#34;http://outgoing.mozilla.org/v1/37c5dce2e87442437dfb8ce82c275bbecb8cfcf9/http%3A//www.maclife.com/article/howtos/how_stop_advertisers_tracking_your_browsing_habits&#34; rel=&#34;nofollow&#34;&gt;http://www.maclife.com/article/howtos/how_stop_advertisers_tracking_your_browsing_habits&lt;/a&gt;
+
+Huffington Post:
+&lt;a href=&#34;http://outgoing.mozilla.org/v1/b35e430c5a6fd2606009b1456b18bf08a13be4a8/http%3A//www.huffingtonpost.com/2011/02/25/stop-online-tracking_n_828289.html&#34; rel=&#34;nofollow&#34;&gt;http://www.huffingtonpost.com/2011/02/25/stop-online-tracking_n_828289.html&lt;/a&gt;
+
+Learn more about us:
+&lt;a href=&#34;http://outgoing.mozilla.org/v1/49a72c82d144f5c8ecb9df66f10c09215fa63922/http%3A//www.privacychoice.org/faq&#34; rel=&#34;nofollow&#34;&gt;http://www.privacychoice.org/faq&lt;/a&gt;</description><license>
+    <name>Please contact us for licensing</name>
+    <url>https://addons.mozilla.org/en-US/firefox/addon/trackerblock/license/2.2</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/247/247581-64.png?modified=1352761954</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/247/247581-32.png?modified=1352761954</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>3.5</min_version>
+      <max_version>19.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="" width="446" height="442">
+        https://addons.cdn.mozilla.net/user-media/previews/full/59/59584.png?src=api&amp;modified=1308849608
+      </full>
+      <thumbnail type="" width="151" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/59/59584.png?src=api&amp;modified=1308849608
+      </thumbnail><caption>TrackerBlock includes the Do Not Track setting to tell companies you do not want to be tracked across websites. Also (optional) you can log tracking attempts with the PrivacyChoice crowd-sourced tracking database.</caption></preview><preview position="1">
+      <full type="" width="445" height="440">
+        https://addons.cdn.mozilla.net/user-media/previews/full/59/59585.png?src=api&amp;modified=1308849616
+      </full>
+      <thumbnail type="" width="151" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/59/59585.png?src=api&amp;modified=1308849616
+      </thumbnail><caption>TrackerBlock keeps hundreds of opt-out cookies in place even if you clear cookies from your browser.</caption></preview><preview position="2">
+      <full type="" width="443" height="438">
+        https://addons.cdn.mozilla.net/user-media/previews/full/59/59586.png?src=api&amp;modified=1308849609
+      </full>
+      <thumbnail type="" width="151" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/59/59586.png?src=api&amp;modified=1308849609
+      </thumbnail><caption>TrackerBlock prevents over 425 companies from reading or writing cookies on your browser. You don&#39;t need to turn off all third-party cookies, which interferes with some non-tracking services.</caption></preview><preview position="3">
+      <full type="" width="443" height="440">
+        https://addons.cdn.mozilla.net/user-media/previews/full/59/59587.png?src=api&amp;modified=1308849612
+      </full>
+      <thumbnail type="" width="151" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/59/59587.png?src=api&amp;modified=1308849612
+      </thumbnail><caption>TrackerBlock controls Flash cookies and HTML5 local storage, which can be used to track you. You can see your entire HTML store and remove any or all of it from your browser.</caption></preview></previews><rating>3</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/trackerblock/?src=api</learnmore><install hash="sha256:3c4a3e161b75a1eab2eac530c7dd95b43797f9d4397f341e76f3a8b7ecb4f82c"
+    os="ALL"
+    size="49152">https://addons.mozilla.org/firefox/downloads/file/144451/trackerblock-2.2-fx.xpi?src=api</install>
+  <developer_comments>Please report any bugs to support@privacychoice.org.</developer_comments>
+    <reviews num="41">
+      https://addons.mozilla.org/en-US/firefox/addon/trackerblock/reviews/?src=api
+    </reviews>
+    <total_downloads>457602</total_downloads>
+    <weekly_downloads>219</weekly_downloads>
+    <daily_users>27381</daily_users>
+    <created epoch="1288486623">
+      2010-10-31T00:57:03Z
+    </created>
+    <last_updated epoch="1329439617">
+      2012-02-17T00:46:57Z
+    </last_updated>
+    <homepage>http://www.privacychoice.org</homepage>
+    <support>http://www.privacychoice.org/faq</support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="5613">
+  <name>Image Block</name>
+  <type id="1">Extension</type>
+  <guid>imageblock@hemantvats.com</guid>
+  <slug>image-block</slug>
+  <version>2.1</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="214633">
+      <name>Hemant Vats</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/hemant-vats/?src=api</link>
+    </author>      </authors>
+  <summary>Image Block adds a toggle button that conditionally blocks/allows loading of images on webpages. Blocking images results in faster browsing, especially helpful on handheld devices or slower connections like GSM/GPRS/EDGE dial-up etc. </summary>
+  <description>Image Block adds a toggle button that conditionally blocks/allows loading of images on webpages. The toggle button is added to the navigation toolbar (extreme right) by default. Blocking images results in faster browsing, especially helpful on handheld devices or slower connections like GSM/GPRS/EDGE dial-up etc. 
+
+Recently in a review one user (thanks dellvin!) pointed out that Image Block is quite useful when you visit websites which show dirty and adult advertisements, while also containing useful information. If you are not sure of what you are about to see on a webpage, just block images to avoid possible embarrassment.
+
+It can also be used at work where your boss doesn&#39;t allow you to surf the web or social networking websites!! They look very different (hard to see which site you are viewing) with image blocking on.
+
+- Version 2.1 fixes a couple of bugs, adds tooltip and french language ( thanks to Vincent Caron for this update).
+- Version 2.0 fixes compatibility issues with Firefox 3.5, it also adds the button to the navigation toolbar by default.
+
+Very simple image blocking extension, hopefully useful! 
+
+This is my the first extension, I always try to &#34;Keep It Simple, Stupid&#34;</description><license>
+    <name>GNU Lesser General Public License, version 2.1</name>
+    <url>http://www.gnu.org/licenses/lgpl-2.1.html</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/5/5613-64.png?modified=1377582333</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/5/5613-32.png?modified=1377582333</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>1.5</min_version>
+      <max_version>27.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="image/png">
+        https://addons.cdn.mozilla.net/user-media/previews/full/22/22295.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/22/22295.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>Facebook with Image Block OFF</caption></preview><preview position="1">
+      <full type="image/png">
+        https://addons.cdn.mozilla.net/user-media/previews/full/22/22296.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/22/22296.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>Facebook with Image Block ON</caption></preview></previews><rating>4</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/image-block/?src=api</learnmore><install hash="sha256:902ee2065b2725bcaec4758e3929d1e2645fa0152a0cd1855945d68d59520a8d"
+    os="ALL"
+    size="18432">https://addons.mozilla.org/firefox/downloads/file/100379/imageblock-2.1-fx.xpi?src=api</install>
+  <developer_comments>Version 2.1:
+This update is made possible by the efforts of Vincent CARON (20100.caron@gmail.com), he fixed a couple of bugs, added tooltip and french language. I did nothing :p 
+
+All issues / bugs mentioned in the reviews have been fixed for now. Thanks to all the reviewers for taking out the time to send us the bugs. 
+
+Thanks Caron!
+
+
+Version 2.0:
+
+I&#39;m sorry for a long delayed update, I appreciate the interest shown by all the users (especially people who wrote to me, if it was not  for you guys I would have never updated this addon!)
+
+Please send bugs and comments to mozilla@hemantvats.com
+
+PS: I something doesn&#39;t work for you, please write me a mail instead of just writing a bad review (not that I really care!) A review doesn&#39;t give me any information to solve your problem.</developer_comments>
+    <reviews num="111">
+      https://addons.mozilla.org/en-US/firefox/addon/image-block/reviews/?src=api
+    </reviews>
+    <total_downloads>711989</total_downloads>
+    <weekly_downloads>962</weekly_downloads>
+    <daily_users>56017</daily_users>
+    <created epoch="1188473807">
+      2007-08-30T11:36:47Z
+    </created>
+    <last_updated epoch="1286258202">
+      2010-10-05T05:56:42Z
+    </last_updated>
+    <homepage>http://hemantvats.com/?p=12</homepage>
+    <support>http://hemantvats.com/?p=12</support>
+    <featured>1</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="384785">
+  <name>Flash Block</name>
+  <type id="1">Extension</type>
+  <guid>{95ab36d4-fb6f-47b0-8b8d-e5f3bd547953}</guid>
+  <slug>flash-block</slug>
+  <version>4.20.13</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="6307327">
+      <name>Henry Perez</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/Henry_Perez/?src=api</link>
+    </author>      </authors>
+  <summary>Native Flash Block for Firefox</summary>
+  <description>Native Flash Block for Firefox. No any other tool than Firefox. Firefox block Flash and other plugins by itself now.</description><license>
+    <name>License</name>
+    <url>http://www.mozilla.org/MPL/MPL-1.1.html</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/384/384785-64.png?modified=1358793102</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/384/384785-32.png?modified=1358793102</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>14.0</min_version>
+      <max_version>33.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews></previews><rating>3</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/flash-block/?src=api</learnmore><install hash="sha256:6482c8d6deeb75d77cc04f3f6224f1c59638f19292a6f7b494e19401d4986900"
+    os="ALL"
+    size="29019">https://addons.mozilla.org/firefox/downloads/file/188484/flash_block-4.20.13-fx.xpi?src=api</install>
+  <developer_comments></developer_comments>
+    <reviews num="42">
+      https://addons.mozilla.org/en-US/firefox/addon/flash-block/reviews/?src=api
+    </reviews>
+    <total_downloads>416849</total_downloads>
+    <weekly_downloads>634</weekly_downloads>
+    <daily_users>41921</daily_users>
+    <created epoch="1342975749">
+      2012-07-22T16:49:09Z
+    </created>
+    <last_updated epoch="1358877578">
+      2013-01-22T17:59:38Z
+    </last_updated>
+    <homepage></homepage>
+    <support></support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="352292">
+  <name>Blocksi</name>
+  <type id="1">Extension</type>
+  <guid>Block.si@block.si</guid>
+  <slug>blocksi</slug>
+  <version>0.9.7.7</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="5991764">
+      <name>Blocksi</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/Blocksi/?src=api</link>
+    </author>      </authors>
+  <summary>Web filter and Parental Control application. Protects your family from inappropriate content.</summary>
+  <description>Blocksi is web URL and content filtering application adding professional web filtering functionality to the Firefox browser. Supports 79 Web Categories and database with 76 million rated web sites, and more then 20+ billion rated Web pages.
+For home users can be used as parental control protecting children from adult and  porn web sites.
+For enterprise users can be used for URL filtering with granular category blocking settings. Administration is supported with the Blocksi-Manager application. This application is available on Google application marketplace and can be used as central configuration and filter settings repository. Additionally it also provides Web Analytics reports
+
+79 categories are organized into the following 6 main groups:
+
+Controversial: Abortion, Adult Materials, Advocacy Groups, Alcohol, Alternative Beliefs, Dating, Extremist Groups, Gambling, Homosexuality, Lingerie and Swimsuit, Marijuana, Nudity and Risque, Pornography, Sex Education, Sport Hunting and War Games, Tobacco, Weapons
+
+Potentially  Liable: Abortion, Adult Materials, Advocacy Groups, Alcohol, Alternative Beliefs, Dating, Extremist Groups, Gambling, Homosexuality, Lingerie and Swimsuit, Marijuana, Nudity and Risque, Pornography, Sex Education, Sport Hunting and War Games, Tobacco, Weapons
+
+Security Risk: Malicious Websites, Phishing, Spam URLs
+
+General Interest - Business: Armed Forces, Business, Finance and Banking, General Organizations, Government and Legal Organizations, Information and Computer Security, Information Technology, Search Engines and Portals, Secure Websites, Web Hosting, Web-based Applications
+
+General Interest - Personal: Advertising, Arts and Culture, Brokerage and Trading, Child Education, Content Servers, Digital Postcards, Domain Parking, Dynamic Content, Education, Entertainment, Folklore, Games, Global Religion, Health and Wellness, Instant Messaging, Job Search, Medicine, Miscellaneous, News and Media, Newsgroups and Message Boards, Personal Privacy, Personal Vehicles, Personal Websites and Blogs, Political Organizations, Real Estate, Reference, Restaurants and Dining, Shopping and Auction, Social Networking, Society and Lifestyles, Sports, Travel, Web Chat, Web-based Email
+
+Bandwidth Consuming:  File Sharing and Storage, Freeware and Software Downloads, Internet Radio and TV, Internet Telephony, Peer-to-Peer File Sharing, Streaming Media and Downloads
+
+PRIVACY: Blocksi add-on sends URL rating request to the Blocksi cloud service. We do not log or track users URLs. Logging and analytic is only provided when user op-in for Blocksi Manager service. We strictly respect users privacy and do not provide URLs logs to any third party organization, like marketing and advertising.</description>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/352/352292-64.png?modified=1354799674</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/352/352292-32.png?modified=1354799674</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>4.0</min_version>
+      <max_version>32.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula>Terms &amp;amp; Conditions
+
+Welcome to Blocksi. By using our site, you are agreeing to comply and be bound by all terms and conditions herein. Please review the following terms carefully. If you do not agree to these terms, you should not use this site. 
+This Agreement is a legal document which sets out your rights and obligations, and those of Askend d.o.o., the owner of Blocksi, a company registered in Slovenia (&#34;Blocksi&#34;, “Company”, &#34;we&#34;, &#34;us&#34; or “our”), in relation to the Blocksi website (the “Site” or “Website”) and the services offered by Blocksi through it.
+Acceptance of Agreement
+
+You agree to the terms and conditions outlined in this Terms and Conditions Agreement. 
+We reserve the right to update or revise these Terms without giving you any notice. Please check the Terms periodically for changes. Your continued use of our Website following the posting of any changes to the Terms constitutes acceptance of those changes.
+Copyright
+
+Company alone shall own all right, title and interest, including all related intellectual property rights, in and to our technology, the content and the service and any suggestions, ideas, enhancement requests, feedback, recommendations or other information provided by you or any other party relating to the Blocksi. The company name, the company logo, and the product names associated with the Blocksi are trademarks of company or third parties, and no right or license is granted to use them. The copying, redistribution, use or publication by you of any such matters or any part of the Blocksi is strictly prohibited. You do not acquire ownership rights to any content, document or other materials viewed through the Blocksi. The posting of information or materials on the Blocksi does not constitute a waiver of any right in such information and materials. Some of the content on the site is the copyrighted work of third parties.
+Privacy
+
+Privacy and security policies may be viewed at Blocksi Privacy Policy. We reserve the right to modify our privacy and security policies in our reasonable discretion from time to time. Note that because the Blocksi is online application, we occasionally may need to notify all users of important announcements regarding the operation of the Blocksi.
+Use of your information
+
+The Company does not own any data, information or material that you or other users submit. You shall have sole responsibility for the accuracy, quality, integrity, legality, reliability, appropriateness, and intellectual property ownership or right to use any and all customer data that you submit, and Company shall not be responsible or liable for the deletion, correction, destruction, damage, loss or failure to store any customer data. Upon request by the applicable Administrator, the Company may remove, modify, edit or otherwise alter any applicable customer data. The Administrator shall also have the power to block, delete or otherwise modify the access of users under its applicable account, and shall be solely responsible for the addition and removal of users under its account. 
+Company reserves the right to withhold, remove and/or discard customer data without notice for any breach of the Agreement. Upon termination for breach of the Agreement, your right to access or use customer data immediately ceases, and we shall have no obligation to maintain or forward any customer data.
+Your Responsibilities
+
+All activity occurring under your user account are your responsibility and shall abide by all applicable local, state, national and foreign laws, treaties and regulations in connection with your use of the Blocksi, including those related to data privacy, international communications and the transmission of technical or personal data. In addition, you shall be responsible for abiding by any and all internal policies, procedures and regulations which are required by your employer and/or the applicable administrator(s) of your account. You shall (1) notify us immediately of any unauthorised use of any password or account or any other known or suspected breach of security; (2) report to us immediately and use reasonable efforts to stop immediately any copying or distribution of content that is known or suspected by you or other users to violate this agreement or the intellectual property rights of third parties; (3) and not impersonate another user or provide false identity information to gain access to or use the Blocksi.
+Permitted uses and License Grant
+
+Company grants you a non-exclusive, non-transferable, worldwide right to use the Blocksi, solely for your own internal business purposes, subject to the terms and conditions of this Agreement. All rights not expressly granted to you are reserved by Blocksi and its licensors. 
+You shall not (1) license, sublicense, sell, resell, transfer, assign, distribute or otherwise commercially exploit or make available to any third party the Blocksi or the content in any way; (2) modify or make derivative works based upon the Blocksi or the content; (3) create Internet &#34;links&#34; to the Blocksi or &#34;frame&#34; or &#34;mirror&#34; any content on any other server or wireless or Internet-based device; (4) or reverse engineer or access the Blocksi in order to (a) build a competitive product or service, (b) build a product using similar ideas, features, functions or graphics of the Blocksi, or (c) copy any ideas, features, functions or graphics of the Blocksi. 
+You may use the Blocksi only for your internal business purposes and shall not: (1) send spam or otherwise duplicative or unsolicited messages in violation of applicable laws; (2) send or store infringing, obscene, threatening, libelous, or otherwise unlawful or tortuous material, including material harmful to children or in violation of third party privacy rights; (3) send or store material containing software viruses, worms, Trojan horses or other harmful computer code, files, scripts, agents or programs; (4) interfere with or disrupt the integrity or performance of the Service or the data contained therein; or (5) attempt to gain unauthorised access to the Service or its related systems or networks.
+Payment
+
+Blocksi is currently free. There might be a premium service annonced in the future that will be payable.
+Termination
+
+In case of unauthorised use of the Company technology or Blocksi, will be deemed a material breach of this Agreement. If you breach or otherwise fail to comply with this Agreement, the Company may terminate your password, account or use of the Blocksi. 
+You agree and acknowledge that Company has no obligation to retain the customer data, and may delete such customer data, if you have materially breached this Agreement.
+Third Party Content
+
+Third party content may appear on the Blocksi or may be accessible via links. Any such activity, and any terms, conditions, warranties or representations associated with such activity, is solely between you and the applicable third-party. Company and its licensors shall have no liability, obligation or responsibility for any such correspondence, purchase or promotion between you and any such third-party. We do not endorse any sites on the Internet that are linked through the Blocksi, and in no event shall Company or its licensors be responsible for any content, products, or other materials on or available from such sites. We provide the Blocksi to you pursuant to the terms and conditions of this Agreement. You recognise, however, that certain third-party providers of ancillary software, hardware or services may require your agreement to additional or different license or other terms prior to your use of or access to such software, hardware or services.
+Indemnification
+
+You agree to indemnify and hold Company, its licensors and each such party&#39;s parent organisations, subsidiaries, affiliates, officers, directors, employees, attorneys and agents harmless from and against any and all claims, costs, damages, losses, liabilities and expenses (including attorneys&#39; fees and costs) arising out of or in connection with: (1) a claim alleging that use of the customer data infringes the rights of, or has caused harm to, a third party; (2) a claim, which if true, would constitute a violation by you of your representations and warranties; or (3) a claim arising from the breach by you or other users of this Agreement, provided in any such case that Company (a) gives written notice of the claim promptly to you; (b) gives you sole control of the defence and settlement of the claim (provided that you may not settle or defend any claim unless you unconditionally release Company of all liability and such settlement does not affect company&#39;s business or service); (c) provides to you all available information and assistance; (d) and has not compromised or settled such claim.
+Representations and Warranties
+
+Each party represents and warrants that it has the legal power and authority to enter into this Agreement. Company represents and warrants that it will provide the Blocksi in a manner consistent with general industry standards reasonably applicable to the provision thereof and that the Blocksi will perform substantially in accordance with the online company help documentation under normal use and circumstances. 
+You represent and warrant that you have not falsely identified yourself nor provided any false information to gain access to the Blocksi and that your billing information is correct.
+Disclaimer
+
+Company and its licensors make no representation, warranty or guaranty as to the reliability, timeliness, quality, suitability, truth, availability, accuracy or completeness of the service or any content. Company and its licensors do not represent or warrant that (1) THE USE OF THE SERVICE WILL BE SECURE, TIMELY, UNINTERRUPTED OR ERROR-FREE OR OPERATE IN COMBINATION WITH ANY OTHER HARDWARE, SOFTWARE, SYSTEM OR DATA, (2) THE SERVICE WILL MEET YOUR REQUIREMENTS OR EXPECTATIONS, (3) ANY STORED DATA WILL BE ACCURATE OR RELIABLE, (4) THE QUALITY OF ANY PRODUCTS, SERVICES, INFORMATION, OR OTHER MATERIAL PURCHASED OR OBTAINED BY YOU THROUGH THE SERVICE WILL MEET YOUR REQUIREMENTS OR EXPECTATIONS, (5) ERRORS OR DEFECTS WILL BE CORRECTED, OR (6) THE SERVICE OR THE SERVER(S) THAT MAKE THE SERVICE AVAILABLE ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS. The service and all content is provided to you strictly on »as is« basis. ALL CONDITIONS, REPRESENTATIONS AND WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT OF THIRD PARTY RIGHTS, ARE HEREBY DISCLAIMED TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW BY COMPANY AND ITS LICENSORS.
+Internet delays
+
+Blocksi’s services may be subjected to limitations, delays and other problems inherent in the use of the internet and electronic communications. Company IS NOT RESPONSIBLE FOR ANY DELAYS, DELIVERY FAILURES, OR OTHER DAMAGE RESULTING FROM SUCH PROBLEMS.
+Limitation of Liability
+
+Company shall not be liable for any loss, injury, claim, liability or damage of any kind resulting in any way from (a) any errors or omissions from the Blocksi, (b) the unavailability or interruption of the Blocksi or any features thereof , (c) your use of the Blocksi, (d) the content contained on the Blocksi, or (e) any delay or failure in performance beyond our control.
+Laws
+
+The interpretation of and any legal questions in connection with the use of Blocksi shall be subject exclusively to the application of English law. Any claims or disputes in connection with the use of the Blocksi shall be resolved by the competent court in England and Wales. 
+By using the Blocksi, you represent and warrant that you are not located in, under the control of, or a national or resident of an Embargoed Country or Designated National. You agree to comply strictly with all European Union export laws and assume sole responsibility for obtaining licenses to export or re-export as may be required. 
+Company and its licensors make no representation that the Blocksi is appropriate or available for use in other locations. If you use the Blocksi from outside England and Wales, you are solely responsible for compliance with all applicable laws, including without limitation export and import regulations of other countries. Any diversion of the content contrary to European Union (including European Union Member States) law is prohibited.
+Changes in terms and conditions
+
+Company reserves the right to modify the terms and conditions of this Agreement or its policies relating to the Blocksi at any time, effective upon posting of an updated version of this Agreement on the Blocksi. You are responsible for regularly reviewing this Agreement. Continued use of the Blocksi after any such changes shall constitute your consent to such changes.
+Assignment
+
+This Agreement may not be assigned by you without the prior written approval of Company but may be assigned without your consent by Company to (a) a parent or subsidiary, (b) an acquirer of assets, or (c) a successor by merger. Any purported assignment in violation of this section shall be void.
+General
+
+This Agreement shall be governed by European Union export laws, without regard to the choice or conflicts of law provisions of any jurisdiction, and any disputes, actions, claims or causes of action arising out of or in connection with this Agreement or the Blocksi shall be subject to the exclusive jurisdiction. No text or information set forth on any other purchase order, pre-printed form or document shall add to or vary the terms and conditions of this Agreement. If any provision of this Agreement is held by a court of competent jurisdiction to be invalid or unenforceable, then such provision(s) shall be construed, as nearly as possible, to reflect the intentions of the invalid or unenforceable provision(s), with all other provisions remaining in full force and effect. No joint venture, partnership, employment, or agency relationship exists between you and Company as a result of this agreement or use of the Blocksi. The failure of Company to enforce any right or provision in this Agreement shall not constitute a waiver of such right or provision unless acknowledged and agreed to by Company in writing. This Agreement, together with any applicable Invoices, comprises the entire agreement between you and Company and supersedes all prior or contemporaneous negotiations, discussions or agreements, whether written or oral, between the parties regarding the subject matter contained herein.
+Definitions
+
+By &#34;content&#34; we mean the audio and visual information, documents, software, products and services contained or made available to you by the Company in the course of using the Blocksi.
+By &#34;Company technology&#34; we mean all of company&#39;s proprietary technology (including software, hardware, products, processes, algorithms, user interfaces, know-how, techniques, designs and other tangible or intangible technical material or information) made available to you by company.
+By &#34;customer data&#34; we mean any data, information or material provided or submitted by you to the Blocksi in the course of using the Blocksi.
+By &#34;intellectual property rights&#34; we mean unpatented inventions, patent applications, patents, design rights, copyrights, trademarks, service marks, trade names, domain name rights, mask work rights, know-how and other trade secret rights, and all other intellectual property rights, derivatives thereof, and forms of protection of a similar nature anywhere in the world.
+By &#34;license term(s)&#34; we mean the period(s) during which you are licensed to use the Blocksi pursuant to this Agreement and any applicable order form(s).
+By &#34;User&#34; we mean an individual authorised to use the Blocksi and have been supplied user identifications and passwords (or by Company at your request or the applicable Administrator’s request).</eula><previews><preview position="0">
+      <full type="" width="700" height="385">
+        https://addons.cdn.mozilla.net/user-media/previews/full/84/84026.png?src=api&amp;modified=1354828478
+      </full>
+      <thumbnail type="" width="200" height="110">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/84/84026.png?src=api&amp;modified=1354828478
+      </thumbnail><caption>Blocksi extension</caption></preview><preview position="1">
+      <full type="" width="620" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/84/84028.png?src=api&amp;modified=1354828478
+      </full>
+      <thumbnail type="" width="177" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/84/84028.png?src=api&amp;modified=1354828478
+      </thumbnail><caption>Quick filter (Preferences)</caption></preview><preview position="2">
+      <full type="" width="615" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/84/84030.png?src=api&amp;modified=1354828477
+      </full>
+      <thumbnail type="" width="176" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/84/84030.png?src=api&amp;modified=1354828477
+      </thumbnail><caption>Advance filter (Preferences)</caption></preview><preview position="3">
+      <full type="" width="614" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/84/84032.png?src=api&amp;modified=1354828478
+      </full>
+      <thumbnail type="" width="175" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/84/84032.png?src=api&amp;modified=1354828478
+      </thumbnail><caption>Options (Preferences)</caption></preview><preview position="4">
+      <full type="" width="621" height="518">
+        https://addons.cdn.mozilla.net/user-media/previews/full/84/84034.png?src=api&amp;modified=1354828477
+      </full>
+      <thumbnail type="" width="180" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/84/84034.png?src=api&amp;modified=1354828477
+      </thumbnail><caption>Password lock (Preferences)</caption></preview></previews><rating>4</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/blocksi/?src=api</learnmore><install hash="sha256:2d4381e6db8bcca4bb72180c19624078f45474dca4aff67f534a507a2eaa5b47"
+    os="ALL"
+    size="34103">https://addons.mozilla.org/firefox/downloads/file/280708/blocksi-0.9.7.7-fx.xpi?src=api</install>
+  <developer_comments></developer_comments>
+    <reviews num="6">
+      https://addons.mozilla.org/en-US/firefox/addon/blocksi/reviews/?src=api
+    </reviews>
+    <total_downloads>89248</total_downloads>
+    <weekly_downloads>135</weekly_downloads>
+    <daily_users>9751</daily_users>
+    <created epoch="1322670275">
+      2011-11-30T16:24:35Z
+    </created>
+    <last_updated epoch="1413530782">
+      2014-10-17T07:26:22Z
+    </last_updated>
+    <homepage>http://www.block.si</homepage>
+    <support>http://www.block.si</support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="8631">
+  <name>HistoryBlock</name>
+  <type id="1">Extension</type>
+  <guid>historyblock@kain</guid>
+  <slug>historyblock</slug>
+  <version>1.4.0.5</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="6349">
+      <name> Kain</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/kain/?src=api</link>
+    </author>      </authors>
+  <summary>Cover your tracks!</summary>
+  <description>This tool will allow the user to specify a list of hosts to be blocked from the history tab, the recently closed tabs list, and the download manager (ctrl+j). HistoryBlock is a Firefox Add-on that works comparably to the newly created Chrome&#39;s Incognito mode, but without the necessity of switching modes while using the browser (or opening in new windows, etc).
+
+
+Click the &#34;Options&#34; button under the addon and add a hostname to be blocked.
+
+Examples
+------------
+ebay.com, worldofwarcraft.com, games.yahoo.com
+
+ Alternatively, now you can simply right-click on a page and hit &#34;Block This!&#34; to automatically add the hostname and/or subdomain of the current page to the blacklist. 
+
+
+How HistoryBlock differs from other addons
+------------------------------------------------------
+Addons like Stealther enable a mode which can be turned on or off, whereas HistoryBlock is constantly blocking blacklisted domains. Other addons will block all history/downloads/etc, not just those which you would like blocked. Additionally, HistoryBlock does not require the user to remember to turn on or off the blacklisting (perfect if you want to hide that you are hiding something as it is impossible to forget to turn it off again).
+
+
+Why I created HistoryBlock
+----------------------------------
+At work, I have a lot of downtime, for one, so it was easy filling that time with my personal development work. Secondly, I frequent less-than-reputable websites while at work, and have occasionally needed to step away from my computer without locking it, leaving such sites in the history. I wanted an addon that would block my known frequented sites from showing in the history/downloads/etc, but leave the other stuff. If a boss walked by and looked at my computer before, he&#39;d see all sorts of nonsense that I would be reprimanded for (no doubt), and if I used an addon like Stealther, he would see NO browsing history which would raise flags and cause more spying on my activities.
+
+HOWEVER, with HistoryBlock, he cannot 1) see any history/downloads/etc that I have blocked the hostname of, 2) see a lack of websites being visited (he would see slashdot, but not wowarmory, for instance), and 3) cannot easily see any icons or otherwise which would make him believe I am hiding something.
+
+Important facts
+-------------------
+* HistoryBlock keeps all blacklisted data hashed, so the about:config page will NOT reveal any information to anyone who gains access to your computer.
+* HistoryBlock blocks:
+---- history entries
+---- recently closed tab entries
+---- download manager entries
+---- cache entries
+---- cookie entries
+
+Additional comments
+--------------------------
+I am always looking to improve HistoryBlock. If there is a feature that you feel is missing or a bug that you have found, feel free and email me (at the support email) and let me know about it. I will get back to you as soon as I can and hopefully fix/add those suggestions in future releases.</description>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/8/8631-64.png?modified=1321649051</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/8/8631-32.png?modified=1321649051</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>4.0b7</min_version>
+      <max_version>20.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="image/png" width="598" height="213">
+        https://addons.cdn.mozilla.net/user-media/previews/full/25/25551.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="200" height="71">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/25/25551.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>Simply block a hostname</caption></preview></previews><rating>4</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/historyblock/?src=api</learnmore><install hash="sha256:d52dd24bf96b839f9c0692165d400295cdf25e33235378d132f75450fbcd555b"
+    os="ALL"
+    size="18432">https://addons.mozilla.org/firefox/downloads/file/137355/historyblock-1.4.0.5-fx.xpi?src=api</install>
+  <developer_comments></developer_comments>
+    <reviews num="118">
+      https://addons.mozilla.org/en-US/firefox/addon/historyblock/reviews/?src=api
+    </reviews>
+    <total_downloads>169704</total_downloads>
+    <weekly_downloads>64</weekly_downloads>
+    <daily_users>6659</daily_users>
+    <created epoch="1219779847">
+      2008-08-26T19:44:07Z
+    </created>
+    <last_updated epoch="1321649047">
+      2011-11-18T20:44:07Z
+    </last_updated>
+    <homepage></homepage>
+    <support></support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="368987">
+  <name>YouTube Unblocker</name>
+  <type id="1">Extension</type>
+  <guid>youtubeunblocker@unblocker.yt</guid>
+  <slug>youtube-unblocker</slug>
+  <version>0.5.4</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="10395512">
+      <name>Jaken3rd</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/Jaken3rd/?src=api</link>
+    </author>      </authors>
+  <summary>Watch blocked YouTube videos – YouTube proxy-server, only if needed!
+
+✓ free unblocking of YouTube videos /-search
+✓ unblock embedded videos (e.g. Facebook)
+✓ unblocking via proxy (no VPN)
+✓ fast unblocking + fast streaming (HD)
+✓ totally legal</summary>
+  <description>&lt;strong&gt;=&amp;gt; please use the lastest version 0.6.4 from &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/cac70835c3c3330ef1ff8bbc890224f838da5643ac9c61f4ee38b6e46f8cb274/http%3A//www.unblocker.yt&#34;&gt;www.unblocker.yt&lt;/a&gt; or &lt;a rel=&#34;nofollow&#34; href=&#34;https://addons.mozilla.org/en-US/firefox/addon/youtube-unblocker/versions/&#34;&gt;https://addons.mozilla.org/en-US/firefox/addon/youtube-unblocker/versions/&lt;/a&gt; until verification &amp;lt;=&lt;/strong&gt;
+
+Unblock all YouTube videos, the search results and embedded videos easily and fast.
+
+
+&lt;i&gt;&lt;strong&gt;Features:&lt;/strong&gt;&lt;/i&gt;
+--------------------------------------------------------------------
+ ✓  automated unblocking of disabled videos (e.g. from VEVO) and enabling the loading of the YouTube search engine 
+      with US, UK and FR proxy servers to specifically find disabled videos
+ ✓  recognition and unblocking of embedded videos, whether they are blocked (YouTube&#39;s Content ID System) or 
+      not allowed to be embedded, on other websites and even on Facebook
+ ✓  targeted usage of proxy servers only for the necessary content allows HD streaming in 1080p + 
+      no proxy or VPN usage on other websites at all 
+ ✓  fast and easy unlocking of disabled content by intelligent recognition of the blocked video and unblocking 
+      without continuous reloading of the video-page
+ ✓  avoiding the YouTube geo-targeted blocking with this add-on is not illegal in any way, neither can the usage 
+      be sanctioned by law (&lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/c73223b3ced8902061cf98a08e6b7bd05b1966efe285d73882dd24e6aba383c9/http%3A//www.tinyurl.com/lso9cue&#34;&gt;www.tinyurl.com/lso9cue&lt;/a&gt;)  
+
+
+&lt;i&gt;&lt;strong&gt;Languages:&lt;/strong&gt;&lt;/i&gt;
+--------------------------------------------------------------------
+German, English
+
+
+&lt;i&gt;&lt;strong&gt;YouTube Unblocker for Mozilla Firefox&lt;/strong&gt;&lt;/i&gt;
+--------------------------------------------------------------------
+The YouTube Unblocker is a small add-on for avoiding the geo-targeted blocking of certain videos as well as the blocking by the ouTube&#39;s Content ID System with the intelligent usage of proxy settings within Firefox. The IP-address of the user is disguised and altered. Videos, which can&#39;t be embedded in certain websites, the add-on changes the referrer (= YouTube) to bypass the lock-out.
+
+For YouTube videos and embedded Youtube videos on other websites, the YouTube Unblocker automatically checks if the video content is locked. Then, the video is either automatically or after the activation of the add-on unblocked with the help of a foreign proxy.
+
+Depending on whether or not a suited proxy server is available, this server is used to enable the video.
+
+In addition to the unblocking of video content, the plugin is also capable of loading the YouTube search engine with the help of a proxy server (e.g. US, UK and FR). By searching with the help of a proxy, videos, which are normally not shown within the search results, are displayed. Provided it is not blocked in the chosen country.
+
+The add-on is using very targeted proxy settings. Like this, content is only loaded with the aid of proxy servers, if it has to. Thus, the speed of other websites and YouTube is not influenced at all. In addition to the speed of the browser, HD streaming with 1080p via a proxy server is possible with this setting.
+
+
+&lt;i&gt;&lt;strong&gt;Latest changes&lt;/strong&gt;&lt;/i&gt;
+--------------------------------------------------------------------
+&lt;i&gt;1. Ready to use ...&lt;/i&gt;
+Mozilla Firefox does not need to be restarted after the initial installation of the YouTube Unblocker. The add-on is totally bootstrapped. The deactivation or the deletion of the YouTube Unblocker does not require a restart as well. The newest version of the add-on (SDK 1.17) is completely compatible with the current and future Firefox buildings.
+
+&lt;i&gt;2. Better recognition, faster and more targeted unblocking ...&lt;/i&gt;
+The recognition of blocked video content, which takes place in the background via the YouTube-API, was optimized: The proxy server is chosen automatically in order to use the right proxy location. Thus, the unblocking of disabled content is faster and more reliable now.
+
+All potential proxies are tested without reloading the website itself. As soon as the video is successfully unblocked, the add-on saves the used proxy server. This means that the video can be reloaded in the future without an additional check of all proxy servers. The unblocked video can be played even faster the second time.
+
+&lt;i&gt;3. Working and working ...&lt;/i&gt;
+The YouTube Unblocker supports more than just YouTube itself. On all websites the add-on checks for disabled videos uploaded with YouTube. Even on Facebook the disabled videos can be „activated“ and, after checking the proxy servers and being unblocked, are started.
+
+&lt;i&gt;4. Enabling the YouTube search engine ...&lt;/i&gt;
+With the current build it is possible to fully enable the YouTube search engine.
+However, it is now possible to specifically chose a geo-targeted proxy server. The chosen proxy is used for the whole search and on the search result list and can be removed with only one click.
+
+&lt;i&gt;5. Easy management ...&lt;/i&gt;
+The toolbar-icon is now displaying the current status of the YouTube Unblocker. 
+The settings can be changed with a single click on the toolbar-icon, e.g. the activation or deactivation of the add-on. If you find any problems within the YouTube Unblocker, especially with new versions of it, we would be pleased if you could send us detailed feedback. Just use the button within the menu. It will take you directly to our feedback form.
+
+
+&lt;i&gt;&lt;strong&gt;How to support us and the add-on?&lt;/strong&gt;&lt;/i&gt;
+--------------------------------------------------------------------
+Due to higher costs for development, maintenance and operating, we integrate trusted-links on several search engines (e.g. &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/f4f8128fbd77e854dc396c27ed5c3f2cee9b4316f71f90018cbdfef019b90403/http%3A//www.google.com&#34;&gt;www.google.com&lt;/a&gt;). By emphasizing certain search results, we hope to offer additional value to our users without changing the search results nor the link target at all.
+
+For each click on such an affiliate link and the corresponding sales, we are compensated by the merchant. With the money, we finance the add-on and cover the recurring expenses. However, in order to use the YouTube unblocker, it is not necessary to pay money. The emphasizing of links can be deactivated within the settings of the add-on with a single click.
+
+If you decide to support us financially, please make sure to activate the „Trusted Links“ option by clicking the toolbar-icon or make a small donation – all help is appreciated! Thank you in advance!
+
+
+With the installation of this add-on you confirm to have read and taken note in the &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/624f85063d97e761ce5afe83d4d227f10f387dc645fc6130d533d37550f918e6/http%3A//www.unblocker.yt/en/privacy/&#34;&gt;privacy policy&lt;/a&gt; and the &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/921eea28d08b61819081c97f6370507b8e30a2ed95b83227b2362a4f95c34199/http%3A//www.unblocker.yt/en/eula/&#34;&gt;terms of use&lt;/a&gt;.
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+Please do not use ratings if you experience any kind of problem with the add-on. 
+For a quick response to your inquiries use the feedback form (&lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/4e004563dc5cf1007be2975d36236ff4530180de1fac757d1d645647a073e708/http%3A//www.unblocker.yt/en/feedback/firefox/&#34;&gt;http://www.unblocker.yt/en/feedback/firefox/&lt;/a&gt;)
+or our Facebook fanpage (&lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/d2bcb405a4e02229ddd68ec7ec933cc123118288045b42336683001cfe9ea217/https%3A//www.facebook.com/YouTubeUnblocker%29&#34;&gt;https://www.facebook.com/YouTubeUnblocker)&lt;/a&gt;.
+-----------------------------------------------------------------------------------------------------------------------------------</description><license>
+    <name>Mozilla Public License, version 2.0</name>
+    <url>http://www.mozilla.org/MPL/2.0/</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/368/368987-64.png?modified=1413615707</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/368/368987-32.png?modified=1413615707</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>19.0</min_version>
+      <max_version>20.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="" width="700" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/143/143080.png?src=api&amp;modified=1410789406
+      </full>
+      <thumbnail type="" width="200" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/143/143080.png?src=api&amp;modified=1410789406
+      </thumbnail><caption>Due to the assumed violation of intellectual property rights a lot of YouTube videos are disabled by default.</caption></preview><preview position="1">
+      <full type="" width="700" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/143/143062.png?src=api&amp;modified=1410789406
+      </full>
+      <thumbnail type="" width="200" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/143/143062.png?src=api&amp;modified=1410789406
+      </thumbnail><caption>All blocked YouTube videos, playlists and the YouTube Mix are automatically detected and can be unblocked with the use of a proxy.</caption></preview><preview position="2">
+      <full type="" width="700" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/143/143076.png?src=api&amp;modified=1410789406
+      </full>
+      <thumbnail type="" width="200" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/143/143076.png?src=api&amp;modified=1410789406
+      </thumbnail><caption>The YouTube search engine can be loaded via proxy servers to get search results from the UK, US or FR.</caption></preview><preview position="3">
+      <full type="" width="700" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/143/143082.png?src=api&amp;modified=1410789406
+      </full>
+      <thumbnail type="" width="200" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/143/143082.png?src=api&amp;modified=1410789406
+      </thumbnail><caption>Embedded YouTube videos, which are blocked, are automatically detected and loaded - even on Facebook!</caption></preview><preview position="4">
+      <full type="" width="700" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/143/143094.png?src=api&amp;modified=1410789406
+      </full>
+      <thumbnail type="" width="200" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/143/143094.png?src=api&amp;modified=1410789406
+      </thumbnail><caption>The add-on can easily be activated, deactivated and configured with a single click on the toolbar-icon.</caption></preview><preview position="5">
+      <full type="" width="700" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/143/143096.png?src=api&amp;modified=1410789406
+      </full>
+      <thumbnail type="" width="200" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/143/143096.png?src=api&amp;modified=1410789406
+      </thumbnail><caption>To support our work and project financially, you can voluntarily activate the „Trusted Link“ function or donate some money.</caption></preview></previews><rating>4</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/youtube-unblocker/?src=api</learnmore><install hash="sha256:3c04ee8273ba9483b8b49b018b45c6d13a357a8bd7a5bcb04d2ea16e293ca295"
+    os="ALL"
+    size="335310">https://addons.mozilla.org/firefox/downloads/file/240495/youtube_unblocker-0.5.4-fx.xpi?src=api</install>
+  <developer_comments></developer_comments>
+    <reviews num="109">
+      https://addons.mozilla.org/en-US/firefox/addon/youtube-unblocker/reviews/?src=api
+    </reviews>
+    <total_downloads>2371999</total_downloads>
+    <weekly_downloads>3496</weekly_downloads>
+    <daily_users>248808</daily_users>
+    <created epoch="1332533084">
+      2012-03-23T20:04:44Z
+    </created>
+    <last_updated epoch="1390443001">
+      2014-01-23T02:10:01Z
+    </last_updated>
+    <homepage>http://www.unblocker.yt</homepage>
+    <support>http://www.unblocker.yt/en/feedback/</support>
+    <featured>1</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="509336">
+  <name>Facebook Ads Block</name>
+  <type id="1">Extension</type>
+  <guid>jid1-CGxMej0nDJTjwQ@jetpack</guid>
+  <slug>facebook-ads-block</slug>
+  <version>1.0</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="10825728">
+      <name>Cem Arslan</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/VHunters/?src=api</link>
+    </author>      </authors>
+  <summary>Facebook Ads Blocker</summary>
+  <description>This Addon works inside of the Facebook website. It blocks advertisements.</description><license>
+    <name>Mozilla Public License, version 2.0</name>
+    <url>http://www.mozilla.org/MPL/2.0/</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/509/509336-64.png?modified=1410684141</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/509/509336-32.png?modified=1410684141</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>29.0</min_version>
+      <max_version>33.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews></previews><rating>5</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/facebook-ads-block/?src=api</learnmore><install hash="sha256:7ca413867b45da88675cdba370041436ac5bbcb1852d2715b5c00ce3af674a85"
+    os="ALL"
+    size="26250">https://addons.mozilla.org/firefox/downloads/file/257664/facebook_ads_block-1.0-fx.xpi?src=api</install>
+  <developer_comments></developer_comments>
+    <reviews num="10">
+      https://addons.mozilla.org/en-US/firefox/addon/facebook-ads-block/reviews/?src=api
+    </reviews>
+    <total_downloads>166287</total_downloads>
+    <weekly_downloads>559</weekly_downloads>
+    <daily_users>34432</daily_users>
+    <created epoch="1399539422">
+      2014-05-08T08:57:02Z
+    </created>
+    <last_updated epoch="1399562506">
+      2014-05-08T15:21:46Z
+    </last_updated>
+    <homepage></homepage>
+    <support></support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="221484">
+  <name>Image and Flash Blocker</name>
+  <type id="1">Extension</type>
+  <guid>imgflashblocker@shimon.chohen</guid>
+  <slug>image-and-flash-blocker</slug>
+  <version>0.7</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="5444776">
+      <name>shimi100</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/shimi100/?src=api</link>
+    </author>      </authors>
+  <summary>Allows user to block images and/or flash elements on a page. ,In 1 click you can choose if you want to see images or flash,it can help you to free fast surf , and stop seeing ads.</summary>
+  <description>you can choose in 1 click 
+Make right click on your mouse then you will see the &#34;Image flash block&#34; then you can choose between 4 
+
+&#34;Images on, Flash on&#34;
+or
+&#34;Images off, Flash on&#34;
+or
+&#34;Images on, Flash off&#34;
+or
+&#34;Images off, Flash off&#34;</description><license>
+    <name>License</name>
+    <url>http://www.mozilla.org/MPL/MPL-1.1.html</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/221/221484-64.png?modified=1355391258</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/221/221484-32.png?modified=1355391258</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>3.0</min_version>
+      <max_version>33.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="image/png" width="181" height="144">
+        https://addons.cdn.mozilla.net/user-media/previews/full/48/48467.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="181" height="144">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/48/48467.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>choose in 1 click if you want to see image or flash</caption></preview><preview position="1">
+      <full type="image/png" width="700" height="386">
+        https://addons.cdn.mozilla.net/user-media/previews/full/49/49238.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="200" height="110">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/49/49238.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>Image on ,Flash on </caption></preview><preview position="1">
+      <full type="image/png" width="700" height="394">
+        https://addons.cdn.mozilla.net/user-media/previews/full/49/49239.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="200" height="112">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/49/49239.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>In 1 click - 1 second - without refresh! - you get Image off ,Flash off </caption></preview></previews><rating>3</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/image-and-flash-blocker/?src=api</learnmore><install hash="sha256:f3fb0e11fd84462bda3628439db2faa6dc65573c3ba8b2118baf5a3d2419d40c"
+    os="ALL"
+    size="22528">https://addons.mozilla.org/firefox/downloads/file/124634/addon-0.7-fx.xpi?src=api</install>
+  <contribution_data>
+      <link>https://addons.mozilla.org/en-US/firefox/addon/image-and-flash-blocker/contribute/?src=api</link>
+                <suggested_amount currency="USD" amount="4.99">
+            $4.99
+          </suggested_amount>
+            <meet_developers>
+        https://addons.mozilla.org/en-US/firefox/addon/image-and-flash-blocker/developers?src=api
+      </meet_developers>
+    </contribution_data><developer_comments>To block images or flash - you have to make right click in themouseand you will see the line with &#34;Image flash blocker&#34; then to choose what sort of blocking you want.</developer_comments>
+    <reviews num="29">
+      https://addons.mozilla.org/en-US/firefox/addon/image-and-flash-blocker/reviews/?src=api
+    </reviews>
+    <total_downloads>341532</total_downloads>
+    <weekly_downloads>307</weekly_downloads>
+    <daily_users>36126</daily_users>
+    <created epoch="1282744317">
+      2010-08-25T13:51:57Z
+    </created>
+    <last_updated epoch="1309431265">
+      2011-06-30T10:54:25Z
+    </last_updated>
+    <homepage></homepage>
+    <support></support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="356529">
+  <name>Gif Block</name>
+  <type id="1">Extension</type>
+  <guid>GifBlock@endless.ir</guid>
+  <slug>gif-block</slug>
+  <version>1.0</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="5589937">
+      <name>Arash Jafari</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/arashrj/?src=api</link>
+    </author>      </authors>
+  <summary>Allows user to block gif images on a web page.</summary>
+  <description>There is a lot of web page that has some Gif files. These file consume users bandwidth. With this add-on users can disable Gif files and avoid them from being appear. however users can change the setting and view the Gif files again.</description><license>
+    <name>License</name>
+    <url>http://www.mozilla.org/MPL/MPL-1.1.html</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/356/356529-64.png?modified=1352925170</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/356/356529-32.png?modified=1352925170</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>3.5</min_version>
+      <max_version>26.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="" width="541" height="259">
+        https://addons.cdn.mozilla.net/user-media/previews/full/66/66345.png?src=api&amp;modified=1325605028
+      </full>
+      <thumbnail type="" width="200" height="95">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/66/66345.png?src=api&amp;modified=1325605028
+      </thumbnail></preview></previews><rating>3</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/gif-block/?src=api</learnmore><install hash="sha256:c742e34364fcba39536fd648e5c91d5f4ee08a6ca80bc4d3a12657aecc71b1aa"
+    os="ALL"
+    size="17408">https://addons.mozilla.org/firefox/downloads/file/140569/gif_block-1.0-fx-windows.xpi?src=api</install>
+  <developer_comments></developer_comments>
+    <reviews num="9">
+      https://addons.mozilla.org/en-US/firefox/addon/gif-block/reviews/?src=api
+    </reviews>
+    <total_downloads>94392</total_downloads>
+    <weekly_downloads>122</weekly_downloads>
+    <daily_users>8420</daily_users>
+    <created epoch="1325603970">
+      2012-01-03T15:19:30Z
+    </created>
+    <last_updated epoch="1326840054">
+      2012-01-17T22:40:54Z
+    </last_updated>
+    <homepage>http://www.endless.ir/</homepage>
+    <support></support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="360079">
+  <name>ProxMate - unblock the Internet!</name>
+  <type id="1">Extension</type>
+  <guid>jid1-QpHD8URtZWJC2A@jetpack</guid>
+  <slug>proxmate</slug>
+  <version>2.3.3</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="6060415">
+      <name>personalitycores.com</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/dabido/?src=api</link>
+    </author>      </authors>
+  <summary>Removes country restrictions for FREE! Just like that.</summary>
+  <description>ProxMate is the swiss knife for accessing pages! A free application that boosts and proxies page content for you. Just like that!
+
+To give a little summary, ProxMate works on...
+
+* ...Grooveshark
+* ...Pandora
+* ...MTV
+* ...Crunchyroll
+* ...Turntable.FM
+* ...Netflix
+* ...Songza
+* ...brings you the full US google play store
+* ...allows you to set your own proxy
+
+... and much much more!
+
+ProxMate will become bigger and bigger based on your requests!
+Do you have any other sites you&#39;d like to see in proxmate? Just contact us!
+
+Wanna help ProxMate? Write a review, tell your friends, donate (&amp;lt;3) or do whatever you want :)
+
+Links:
+- our Website: &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/b8ffd9ee9145dc9331907cb429df4912dff6be349b0dce1479572c0b4ead8fc3/http%3A//proxmate.dave.cx/&#34;&gt;http://proxmate.dave.cx/&lt;/a&gt;
+- our Facebook Page: &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/6f1b21c9e59f205d1b10c889951edffcc029ab26504595183798ad5dabbe3760/https%3A//www.facebook.com/ProxMate/&#34;&gt;https://www.facebook.com/ProxMate/&lt;/a&gt;
+
+
+ProxMate - Improve your Internet!
+
+By using ProxMate, you agree with our Terms of Use - &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/109d45105c039ed70d57710637780ca5aa870dd2084bdeafdbe43b9ada477288/http%3A//proxmate.dave.cx/terms/&#34;&gt;http://proxmate.dave.cx/terms/&lt;/a&gt;</description><license>
+    <name>License</name>
+    <url>http://www.mozilla.org/MPL/MPL-1.1.html</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/360/360079-64.png?modified=1404196366</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/360/360079-32.png?modified=1404196366</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>4.0</min_version>
+      <max_version>27.0</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="" width="700" height="402">
+        https://addons.cdn.mozilla.net/user-media/previews/full/67/67063.png?src=api&amp;modified=1348981056
+      </full>
+      <thumbnail type="" width="200" height="114">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/67/67063.png?src=api&amp;modified=1348981056
+      </thumbnail><caption>Youtube Videos</caption></preview><preview position="1">
+      <full type="" width="700" height="407">
+        https://addons.cdn.mozilla.net/user-media/previews/full/67/67064.png?src=api&amp;modified=1348981056
+      </full>
+      <thumbnail type="" width="200" height="116">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/67/67064.png?src=api&amp;modified=1348981056
+      </thumbnail><caption>Youtube Search</caption></preview><preview position="2">
+      <full type="" width="700" height="401">
+        https://addons.cdn.mozilla.net/user-media/previews/full/67/67061.png?src=api&amp;modified=1348981056
+      </full>
+      <thumbnail type="" width="200" height="114">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/67/67061.png?src=api&amp;modified=1348981056
+      </thumbnail><caption>Grooveshark</caption></preview></previews><rating>3</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/proxmate/?src=api</learnmore><install hash="sha256:aa768ee7ad3e62e5044f4ef573635c0d57c81aa086daae6c0796853377b70e88"
+    os="ALL"
+    size="377153">https://addons.mozilla.org/firefox/downloads/file/228255/proxmate_unblock_the_internet-2.3.3-fx.xpi?src=api</install>
+  <contribution_data>
+      <link>https://addons.mozilla.org/en-US/firefox/addon/proxmate/contribute/?src=api</link>
+                <suggested_amount currency="USD" amount="3.99">
+            $3.99
+          </suggested_amount>
+            <meet_developers>
+        https://addons.mozilla.org/en-US/firefox/addon/proxmate/developers?src=api
+      </meet_developers>
+    </contribution_data><developer_comments></developer_comments>
+    <reviews num="96">
+      https://addons.mozilla.org/en-US/firefox/addon/proxmate/reviews/?src=api
+    </reviews>
+    <total_downloads>978457</total_downloads>
+    <weekly_downloads>1540</weekly_downloads>
+    <daily_users>119280</daily_users>
+    <created epoch="1327598110">
+      2012-01-26T17:15:10Z
+    </created>
+    <last_updated epoch="1379513860">
+      2013-09-18T14:17:40Z
+    </last_updated>
+    <homepage>http://proxmate.dave.cx/</homepage>
+    <support>http://proxmate.dave.cx/</support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="515226">
+  <name>Strict Pop-up Blocker</name>
+  <type id="1">Extension</type>
+  <guid>jid1-P34HaABBBpOerQ@jetpack</guid>
+  <slug>strict-pop-up-blocker</slug>
+  <version>0.2</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="6209726">
+      <name>Nikos Asimakis</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/anikos/?src=api</link>
+    </author>      </authors>
+  <summary>Quickly toggle between blocking all pop-up windows and allowing some pop-ups</summary>
+  <description>By default Firefox blocks most pop-up windows but allows some to appear.
+This add-on adds a button on the toolbar to toggle between: &lt;ul&gt;&lt;li&gt;the default Firefox behavior of allowing some pop-ups, and&lt;/li&gt;&lt;li&gt;blocking all pop-up windows.&lt;/li&gt;&lt;/ul&gt;</description><license>
+    <name>Mozilla Public License, version 2.0</name>
+    <url>http://www.mozilla.org/MPL/2.0/</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/515/515226-64.png?modified=1403081655</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/515/515226-32.png?modified=1403081655</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>29.0</min_version>
+      <max_version>33.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="" width="160" height="160">
+        https://addons.cdn.mozilla.net/user-media/previews/full/136/136284.png?src=api&amp;modified=1400585852
+      </full>
+      <thumbnail type="" width="150" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/136/136284.png?src=api&amp;modified=1400585852
+      </thumbnail><caption>All pop-up windows are blocked</caption></preview><preview position="1">
+      <full type="" width="160" height="160">
+        https://addons.cdn.mozilla.net/user-media/previews/full/136/136286.png?src=api&amp;modified=1400585852
+      </full>
+      <thumbnail type="" width="150" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/136/136286.png?src=api&amp;modified=1400585852
+      </thumbnail><caption>Some pop-up windows allowed (default Firefox behavior)</caption></preview></previews><rating>4</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/strict-pop-up-blocker/?src=api</learnmore><install hash="sha256:4d775eaa0c52336b5775f655a3ef79ba3656e458bbe36569ee2e7c9cc93dd8b9"
+    os="ALL"
+    size="11042">https://addons.mozilla.org/firefox/downloads/file/267570/strict_pop_up_blocker-0.2-fx.xpi?src=api</install>
+  <developer_comments></developer_comments>
+    <reviews num="32">
+      https://addons.mozilla.org/en-US/firefox/addon/strict-pop-up-blocker/reviews/?src=api
+    </reviews>
+    <total_downloads>421026</total_downloads>
+    <weekly_downloads>1199</weekly_downloads>
+    <daily_users>94195</daily_users>
+    <created epoch="1400585477">
+      2014-05-20T11:31:17Z
+    </created>
+    <last_updated epoch="1405859974">
+      2014-07-20T12:39:34Z
+    </last_updated>
+    <homepage></homepage>
+    <support></support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="992">
+  <name>RefreshBlocker</name>
+  <type id="1">Extension</type>
+  <guid>{55ce2530-61df-4ddc-b287-feae64e70575}</guid>
+  <slug>refreshblocker</slug>
+  <version>0.8</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="367">
+      <name>Clemens Fuchslocher</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/clemens-fuchslocher/?src=api</link>
+    </author>      </authors>
+  <summary>RefreshBlocker is a small extension for the Firefox  web browser. This extension will prevent your browser from following the forwarding specified by the refresh parameter of the META  tag element.</summary>
+  <description>RefreshBlocker is a small extension for the Firefox  web browser. This extension will prevent your browser from following the forwarding specified by the refresh parameter of the META  tag element. If such a refresh parameter is given on a web page, an infobox will be displayed at the top of the page.
+
+Note: This extension does not block JavaScript-based and HTTP-based redirects. If you know a way how to do this, please let me know. </description><license>
+    <name>GNU General Public License, version 2.0</name>
+    <url>http://www.gnu.org/licenses/gpl-2.0.html</url>
+  </license>  <icon size="64"></icon>
+  <icon size="32"></icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>1.0</min_version>
+      <max_version>27.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="image/png" width="441" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/40/40940.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="126" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/40/40940.png?src=api&amp;modified=1331247702
+      </thumbnail></preview><preview position="1">
+      <full type="image/png" width="430" height="331">
+        https://addons.cdn.mozilla.net/user-media/previews/full/40/40941.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="194" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/40/40941.png?src=api&amp;modified=1331247702
+      </thumbnail></preview></previews><rating>4</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/refreshblocker/?src=api</learnmore><install hash="sha256:f8e71c4bec936ae631350a1dbd408217b87efc78ae69af3dd056b643878a6761"
+    os="ALL"
+    size="9216">https://addons.mozilla.org/firefox/downloads/file/107761/refreshblocker-0.8-fx.xpi?src=api</install>
+  <developer_comments>Please see &lt;a href=&#34;http://outgoing.mozilla.org/v1/b7333881abe0a6d96b4258a3d78bd9b151939897/http%3A//www.vakuumverpackt.de/refreshblocker/&#34;&gt;http://www.vakuumverpackt.de/refreshblocker/&lt;/a&gt; for configuration details.</developer_comments>
+    <reviews num="50">
+      https://addons.mozilla.org/en-US/firefox/addon/refreshblocker/reviews/?src=api
+    </reviews>
+    <total_downloads>112129</total_downloads>
+    <weekly_downloads>37</weekly_downloads>
+    <daily_users>4604</daily_users>
+    <created epoch="1121861534">
+      2005-07-20T12:12:14Z
+    </created>
+    <last_updated epoch="1294920383">
+      2011-01-13T12:06:23Z
+    </last_updated>
+    <homepage>http://www.vakuumverpackt.de/refreshblocker/</homepage>
+    <support>http://www.vakuumverpackt.de/refreshblocker/</support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="7984">
+  <name>BlockNote</name>
+  <type id="1">Extension</type>
+  <guid>{43c507fe-30de-47e0-8449-3fc7770c0634}</guid>
+  <slug>blocknote</slug>
+  <version>2.2.4</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="36684">
+      <name>Carmine Chiarelli</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/carmine-chiarelli/?src=api</link>
+    </author>      </authors>
+  <summary>The BlockNote is a quick and easy extension that allows you to take more notes during the navigation, mark text, url, etc.. and retrieve them and edit them at a later time without interrupting your work.</summary>
+  <description>The BlockNote is a quick and easy extension that allows you to take more notes during the navigation, mark text, url, etc.. and retrieve them and edit them at a later time without interrupting your work.</description><license>
+    <name>License</name>
+    <url>http://www.mozilla.org/MPL/MPL-1.1.html</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/7/7984-64.png?modified=1358288607</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/7/7984-32.png?modified=1358288607</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>3.6</min_version>
+      <max_version>36.0</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>WINNT</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="" width="373" height="336">
+        https://addons.cdn.mozilla.net/user-media/previews/full/86/86924.png?src=api&amp;modified=1357885365
+      </full>
+      <thumbnail type="" width="167" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/86/86924.png?src=api&amp;modified=1357885365
+      </thumbnail><caption>option and quickguide</caption></preview><preview position="1">
+      <full type="" width="290" height="320">
+        https://addons.cdn.mozilla.net/user-media/previews/full/86/86922.png?src=api&amp;modified=1357885365
+      </full>
+      <thumbnail type="" width="136" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/86/86922.png?src=api&amp;modified=1357885365
+      </thumbnail><caption>appearance</caption></preview><preview position="2">
+      <full type="image/png" width="407" height="328">
+        https://addons.cdn.mozilla.net/user-media/previews/full/37/37773.png?src=api&amp;modified=1357858282
+      </full>
+      <thumbnail type="image/png" width="186" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/37/37773.png?src=api&amp;modified=1357858282
+      </thumbnail><caption>menu</caption></preview><preview position="3">
+      <full type="image/png" width="560" height="426">
+        https://addons.cdn.mozilla.net/user-media/previews/full/37/37772.png?src=api&amp;modified=1357858282
+      </full>
+      <thumbnail type="image/png" width="197" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/37/37772.png?src=api&amp;modified=1357858282
+      </thumbnail><caption>button for toolbar</caption></preview></previews><rating>4</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/blocknote/?src=api</learnmore><install hash="sha256:f25e7796090b38c17ad9b39871e02e665404dfa02637095301d7c601c2313030"
+    os="WINNT"
+    size="20213">https://addons.mozilla.org/firefox/downloads/file/190306/blocknote-2.2.4-fx-windows.xpi?src=api</install>
+  <developer_comments></developer_comments>
+    <reviews num="13">
+      https://addons.mozilla.org/en-US/firefox/addon/blocknote/reviews/?src=api
+    </reviews>
+    <total_downloads>38995</total_downloads>
+    <weekly_downloads>38</weekly_downloads>
+    <daily_users>1020</daily_users>
+    <created epoch="1215026418">
+      2008-07-02T19:20:18Z
+    </created>
+    <last_updated epoch="1359967322">
+      2013-02-04T08:42:02Z
+    </last_updated>
+    <homepage>http://www.marotochi.it/blocknote.php</homepage>
+    <support></support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+    </searchresults>

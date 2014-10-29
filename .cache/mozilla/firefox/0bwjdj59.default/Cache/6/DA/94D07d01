@@ -1,0 +1,2140 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<searchresults total_results="118">
+          <addon id="5977">
+  <name>Redfly SEO Global For Google Search™</name>
+  <type id="1">Extension</type>
+  <guid>{B97F57B9-1B42-4aed-9475-0022600C62DC}</guid>
+  <slug>google-global</slug>
+  <version>3.0</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="179968">
+      <name>RedFly</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/redfly/?src=api</link>
+    </author>      </authors>
+  <summary>SEO Global For Google Search™ (Formerly Google Global) is an unobtrusive Firefox extension that allows you to see what the Google search results that you are viewing look like from different geographical locations.</summary>
+  <description>Google Global allows users to quickly and easily see organic and paid Google search results as they appear in different countries, cities, regions, ZIP codes and IP addresses.
+
+Once installed, Google Global will add a default and user defined context menu to all Google search results allowing the user to view what the results will look like in different locations. Users can set unlimited custom &#34;locations&#34; and open them all in new tabs if required for easy comparison.</description>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/5/5977-64.png?modified=1362178877</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/5/5977-32.png?modified=1362178877</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>1.5</min_version>
+      <max_version>33.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="image/png" width="700" height="282">
+        https://addons.cdn.mozilla.net/user-media/previews/full/17/17483.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="200" height="80">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/17/17483.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>Google Global Preview </caption></preview><preview position="1">
+      <full type="image/png" width="700" height="391">
+        https://addons.cdn.mozilla.net/user-media/previews/full/17/17484.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="200" height="111">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/17/17484.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>Google Global Settings Preview </caption></preview><preview position="1">
+      <full type="image/png" width="700" height="489">
+        https://addons.cdn.mozilla.net/user-media/previews/full/17/17485.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="200" height="139">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/17/17485.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>Google Global Search Usage Preview </caption></preview><preview position="1">
+      <full type="image/png" width="700" height="489">
+        https://addons.cdn.mozilla.net/user-media/previews/full/43/43323.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="200" height="139">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/43/43323.png?src=api&amp;modified=1331247702
+      </thumbnail></preview><preview position="1">
+      <full type="image/png" width="700" height="489">
+        https://addons.cdn.mozilla.net/user-media/previews/full/43/43325.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="200" height="139">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/43/43325.png?src=api&amp;modified=1331247702
+      </thumbnail></preview><preview position="1">
+      <full type="image/png" width="520" height="380">
+        https://addons.cdn.mozilla.net/user-media/previews/full/43/43326.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="200" height="146">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/43/43326.png?src=api&amp;modified=1331247702
+      </thumbnail></preview></previews><rating>4</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/google-global/?src=api</learnmore><install hash="sha256:6674feae9c31b7d7c808e9f94f11c5991e952f7966cd760081f4df3963a96986"
+    os="ALL"
+    size="120189">https://addons.mozilla.org/firefox/downloads/file/195158/seo_global_for_google_searchtm-3.0-fx.xpi?src=api</install>
+  <developer_comments></developer_comments>
+    <reviews num="53">
+      https://addons.mozilla.org/en-US/firefox/addon/google-global/reviews/?src=api
+    </reviews>
+    <total_downloads>148953</total_downloads>
+    <weekly_downloads>109</weekly_downloads>
+    <daily_users>8917</daily_users>
+    <created epoch="1194526900">
+      2007-11-08T13:01:40Z
+    </created>
+    <last_updated epoch="1362045999">
+      2013-02-28T10:06:39Z
+    </last_updated>
+    <homepage>http://www.redflymarketing.com/internet-marketing-tools/google-global/</homepage>
+    <support>http://www.redflymarketing.com/</support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="102178">
+  <name>SEO Doctor</name>
+  <type id="1">Extension</type>
+  <guid>seodoctor@prelovac.com</guid>
+  <slug>seo-doctor</slug>
+  <version>1.6.5</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="1763758">
+      <name>vprelovac</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/vprelovac/?src=api</link>
+    </author>      </authors>
+  <summary>SEO Doctor allows easy SEO diagnosis and problem solving for webmasters.</summary>
+  <description>SEO Doctor is made with both beginners and experienced SEOs in mind and it&#39;s scoring system and recommendations are based on official SEO documents, namely Google Webmaster guidelines, Google Image guidelines and Google SEO starter guide as well as my own experience.
+
+Main features of SEO Doctor are:
+
+    * Points out to potential problems and assigns a score for your pages based on currently accepted SEO methodology
+    * Shows link structure and helps track page rank flow for your pages
+    * Detects and warns you about pages not indexable by search engines using most comprehensive methods available in any tool
+    * One-click access to most popular SEO tools allows you to additionally inspect a site
+    * Fully customizable</description><license>
+    <name>License</name>
+    <url>http://www.mozilla.org/MPL/MPL-1.1.html</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/102/102178-64.png?modified=1364232024</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/102/102178-32.png?modified=1364232024</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>4.0</min_version>
+      <max_version>33.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="image/png" width="700" height="430">
+        https://addons.cdn.mozilla.net/user-media/previews/full/50/50532.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="200" height="123">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/50/50532.png?src=api&amp;modified=1331247702
+      </thumbnail></preview><preview position="1">
+      <full type="image/png" width="242" height="314">
+        https://addons.cdn.mozilla.net/user-media/previews/full/43/43695.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="115" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/43/43695.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>Status bar appearance</caption></preview><preview position="1">
+      <full type="image/png" width="700" height="263">
+        https://addons.cdn.mozilla.net/user-media/previews/full/43/43696.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="200" height="75">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/43/43696.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>SEO Doctor in action diagnosing site</caption></preview><preview position="1">
+      <full type="image/png" width="308" height="367">
+        https://addons.cdn.mozilla.net/user-media/previews/full/43/43697.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="125" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/43/43697.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>Quick SEO links</caption></preview><preview position="1">
+      <full type="image/png" width="700" height="257">
+        https://addons.cdn.mozilla.net/user-media/previews/full/43/43700.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="200" height="73">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/43/43700.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>Show link statisics</caption></preview></previews><rating>4</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/seo-doctor/?src=api</learnmore><install hash="sha256:69a561b4552b4c48439cb356b8afd3fa7c46d98e1b096e31f738c176d14d6f25"
+    os="ALL"
+    size="70591">https://addons.mozilla.org/firefox/downloads/file/259300/seo_doctor-1.6.5-fx.xpi?src=api</install>
+  <contribution_data>
+      <link>https://addons.mozilla.org/en-US/firefox/addon/seo-doctor/contribute/?src=api</link>
+                <suggested_amount currency="USD" amount="1.99">
+            $1.99
+          </suggested_amount>
+            <meet_developers>
+        https://addons.mozilla.org/en-US/firefox/addon/seo-doctor/developers?src=api
+      </meet_developers>
+    </contribution_data><developer_comments>Full manual is available on &lt;a href=&#34;http://outgoing.mozilla.org/v1/da33bad1635793ab8d7923b7da01cb7d8ca488cb/http%3A//www.prelovac.com/vladimir/browser-addons/seo-doctor&#34;&gt;SEO Doctor&lt;/a&gt; official page.</developer_comments>
+    <reviews num="64">
+      https://addons.mozilla.org/en-US/firefox/addon/seo-doctor/reviews/?src=api
+    </reviews>
+    <total_downloads>391507</total_downloads>
+    <weekly_downloads>219</weekly_downloads>
+    <daily_users>25237</daily_users>
+    <created epoch="1268904196">
+      2010-03-18T09:23:16Z
+    </created>
+    <last_updated epoch="1401074091">
+      2014-05-26T03:14:51Z
+    </last_updated>
+    <homepage>http://www.prelovac.com/vladimir/browser-addons/seo-doctor</homepage>
+    <support>http://www.prelovac.com/vladimir/</support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="3036">
+  <name>SeoQuake SEO extension</name>
+  <type id="1">Extension</type>
+  <guid>{317B5128-0B0B-49b2-B2DB-1E7560E16C74}</guid>
+  <slug>seoquake-seo-extension</slug>
+  <version>2.8.15</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="31958">
+      <name>SeoQuake Team</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/seoquake-team/?src=api</link>
+    </author>      </authors>
+  <summary>Seoquake is a Firefox SEO extension aimed primarily at helping web masters who deal with search engine optimization (SEO), social media optimization (SMO) and internet promotion. Seoquake allows to investigate many important SEO parameters.</summary>
+  <description>Seoquake is a Mozilla Firefox SEO extension aimed primarily at helping web masters who deal with search engine optimization (SEO) and internet promotion of web sites. Seoquake allows to obtain and investigate many important SEO parameters of the internet project under study on the fly, save them for future work, compare them with the results, obtained for other, competitive, projects.
+facebook page: &lt;a href=&#34;http://outgoing.mozilla.org/v1/70c1561bb2b71c0652154c4bfeb3e6e4e92c25ae/http%3A//www.facebook.com/SeoQuakeTeam&#34;&gt;http://www.facebook.com/SeoQuakeTeam&lt;/a&gt;
+
+Beginner web masters and seos will find SeoQuake useful for estimating effectiveness and competitive ability of their SEO efforts. In the hands of professional SeoQuake will become a powerful and indispensable tool for analyzing optimization and promotion level of internet web-projects.
+
+SeoQuake can be distinguished from similar projects by a wide range of parameters available for analysis, simplicity of use and also a tool for creation of custom parameters.
+
+SeoQuake consists of two functional parts. The first one is SeoBar. The second part is the computation of the parameters for search results and its inclusion into search engine result pages – SERPs – for the most popular search engines.
+
+SeoBar
+SeoBar can be described as an additional toolbar, which shows the values of selected parameters for the page currently opened in the browser window. Set of parameters shown by SeoBar is fully customizable by user.
+
+Inclusion of parameters in SERPs 
+After submission of the query into the search engine user is presented with SERP with search results. SeoQuake shows values of the parameters for search results under each search result shown on SERP. Set of parameters shown is fully customizable by user. Loading of parameters can be handled in two different ways – simultaneously with the loading of the SERP or after SERP loading, by user demand. Ranking of the results by selected parameter in ascending/descending order and storing results in file are available features.
+
+Parameters
+While having a wide range of default parameters, SeoQuake also gives users the opportunity to create their own parameters and also group them into presets and switch between these presets on the fly, during the work.
+
+General set of parameters consists of such parameters as Google PR (Google PageRank of current page), Google Index (Number of indexed pages. Google version), Google link (Number of links, pointed to the current page. Google version (Except links from concerned domain)), similar parameters for many other search engines (Yahoo, MNS, Yandex, Rambler, Baidu) and some other miscellaneous parameters.
+
+There is also a tool for creation of custom parameters at user’s disposal. These parameters can be saved and used for future research, whatever it may be.
+
+All SeoQuake parameters can be turned on/off to be shown in SeoBar or on SERPs.
+
+Miscellaneous
+SeoQuake submits a query to search engine every time when it needs to obtain a value for a new parameter (that is not in a cache yet), defined by this search engine. Frequent use of big amount of the parameters may lead to the ban of user’s IP address from search engine. In this case, you will need to delete cookies or change proxy server.
+
+Full description of all SeoQuake functions and parameters can be found on official site of addon: &lt;a href=&#34;http://outgoing.mozilla.org/v1/e022e024841e50ac9d233ea1550c47bd8d25859b/http%3A//www.seoquake.com/guide.php%3Fsln%3Den&#34;&gt;http://www.seoquake.com/guide.php?sln=en&lt;/a&gt;
+Warning! Extension is using the advertisement block in results of search engines. Please, read Privacy Policy, before install &lt;a href=&#34;http://outgoing.mozilla.org/v1/5af622c1a079d134a826190e1c01d989cdb2109f/http%3A//www.seoquake.com/policy.html&#34;&gt;http://www.seoquake.com/policy.html&lt;/a&gt;
+</description><license>
+    <name>License</name>
+    <url>http://www.mozilla.org/MPL/MPL-1.1.html</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/3/3036-64.png?modified=1353862872</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/3/3036-32.png?modified=1353862872</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>3.5</min_version>
+      <max_version>35.0</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="image/png">
+        https://addons.cdn.mozilla.net/user-media/previews/full/8/8890.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/8/8890.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>Seoquake in SERP</caption></preview><preview position="1">
+      <full type="image/png">
+        https://addons.cdn.mozilla.net/user-media/previews/full/8/8892.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/8/8892.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>Seoquake tollbar</caption></preview><preview position="1">
+      <full type="image/png">
+        https://addons.cdn.mozilla.net/user-media/previews/full/8/8893.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/8/8893.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>Seoquake settings</caption></preview><preview position="1">
+      <full type="image/png">
+        https://addons.cdn.mozilla.net/user-media/previews/full/8/8895.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/8/8895.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>Seoquake in SERP</caption></preview><preview position="1">
+      <full type="image/png" width="124" height="353">
+        https://addons.cdn.mozilla.net/user-media/previews/full/24/24351.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="52" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/24/24351.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>Vertical mode of Seotoolbar</caption></preview><preview position="1">
+      <full type="image/png" width="700" height="348">
+        https://addons.cdn.mozilla.net/user-media/previews/full/29/29771.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="200" height="99">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/29/29771.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>AdWords keywords</caption></preview><preview position="1">
+      <full type="image/png" width="700" height="392">
+        https://addons.cdn.mozilla.net/user-media/previews/full/29/29772.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="200" height="112">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/29/29772.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>Keyword density</caption></preview><preview position="1">
+      <full type="image/png" width="566" height="450">
+        https://addons.cdn.mozilla.net/user-media/previews/full/29/29773.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="188" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/29/29773.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>SeoQuake Plugins</caption></preview></previews><rating>4</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/seoquake-seo-extension/?src=api</learnmore><install hash="sha256:7e21a21050a51daaca1de20967442f53c66ac4b876d240e7937d3ac84cf06794"
+    os="ALL"
+    size="288459">https://addons.mozilla.org/firefox/downloads/file/274310/seoquake_seo_extension-2.8.15-fx.xpi?src=api</install>
+  <developer_comments></developer_comments>
+    <reviews num="195">
+      https://addons.mozilla.org/en-US/firefox/addon/seoquake-seo-extension/reviews/?src=api
+    </reviews>
+    <total_downloads>2418409</total_downloads>
+    <weekly_downloads>865</weekly_downloads>
+    <daily_users>82972</daily_users>
+    <created epoch="1153904529">
+      2006-07-26T09:02:09Z
+    </created>
+    <last_updated epoch="1409709811">
+      2014-09-03T02:03:31Z
+    </last_updated>
+    <homepage>http://seoquake.com/</homepage>
+    <support>http://blog.seoquake.com/</support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="52177">
+  <name>WebRank SEO Toolbar</name>
+  <type id="1">Extension</type>
+  <guid>webrank-toolbar@probcomp.com</guid>
+  <slug>webrank-seo-toolbar</slug>
+  <version>4.4.1</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="4974925">
+      <name>ProbCOMP</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/probcomp/?src=api</link>
+    </author>      </authors>
+  <summary>A toolbar that gives Google Pagerank, Alexa, Compete and Quantcast Rank, pages indexed and backlinks in Google, Bing and Yahoo. Bookmark webpages at &lt;a href=&#34;http://outgoing.mozilla.org/v1/6f7277dd3e7286854251cc838fc488b12f1b2943f3f8b72fd0125f3082bfc7c3/http%3A//PickMeWeb.com&#34; rel=&#34;nofollow&#34;&gt;PickMeWeb.com&lt;/a&gt;, view similar websites at &lt;a href=&#34;http://outgoing.mozilla.org/v1/a4fcf148daa9a999f2c253aca2a148c7634281a23a1207ab83168b50b9c96cec/http%3A//SimilarSites.com&#34; rel=&#34;nofollow&#34;&gt;SimilarSites.com&lt;/a&gt;. Delicious, Digg and Tweet Count.</summary>
+  <description>&lt;b&gt;Version 4.4&lt;/b&gt;  — November 4, 2012
+* Added a &#34;Diff Stats&#34; button to check progress of your website. You can enable this feature from Settings-&amp;gt;Tools.
+* Added Website Safety Check - Web of Trust (WOT), McAfee SiteAdvisor and Norton Safeweb. You can enable this feature from Settings-&amp;gt;Tools.
+* Removed Digg count as the API was removed by Digg.
+* Added StumbleUpon count.
+* Minor issues fixed. 
+
+Version 4.3  — June 13, 2012
+* Minor issues fixed.
+* Added Facebook Like and Google Plus count.
+
+For regular updates follow us on &lt;a href=&#34;http://outgoing.mozilla.org/v1/4fb22824ff7468a32d1b204d4620e775d2245c3998bed651f877764901b9f724/http%3A//www.webrankstats.com/twitter/&#34; rel=&#34;nofollow&#34;&gt;Twitter&lt;/a&gt;. You can also try &lt;a href=&#34;http://outgoing.mozilla.org/v1/fa14a3c5fe3d3e8b6544c3fe0047057eb2ed2773ab4ef6450e31fc0a0a9cb460/https%3A//chrome.google.com/extensions/detail/mkhilblbmkdnapffblmecglknalglfji&#34; rel=&#34;nofollow&#34;&gt;WebRank SEO&lt;/a&gt; for Google Chrome from the official website and &lt;a href=&#34;http://outgoing.mozilla.org/v1/a373f8a6f393c72c0940620c2e199612c6fa185b68d057c848be4ecd2d067cc8/http%3A//www.iegallery.com/Addons/Details/15722&#34; rel=&#34;nofollow&#34;&gt;WebRank SEO Toolbar&lt;/a&gt; for Internet Explorer from the official website.
+The same user experience and website analysis, now available on Android. Click here to go to &lt;a href=&#34;http://outgoing.mozilla.org/v1/6b73521713f790cf61bce2e0dfdffc48dc799e4c340e3ee7fd3233b84b4986fc/https%3A//play.google.com/store/apps/details%3Fid=com.probcomp.webrankstats&#34; rel=&#34;nofollow&#34;&gt;Android Market&lt;/a&gt;.
+
+A toolbar that gives you automatically website rank, pages indexed and backlinks in various search engines. Find webpages share count at Twitter, Facebook, Google Plus, StumbleUpon and Delicious using the SocioMeter. You can click on each of the buttons to get in-depth information about the website. You can even Bookmark the website at &lt;a href=&#34;http://outgoing.mozilla.org/v1/76d11bfb374411e4d6b10485477d77b32734bdeec3e1139efa81ae12c3c83629/http%3A//www.pickmeweb.com&#34; rel=&#34;nofollow&#34;&gt;PickMeWeb.com&lt;/a&gt;. Also find websites offering similar content or services at &lt;a href=&#34;http://outgoing.mozilla.org/v1/a4fcf148daa9a999f2c253aca2a148c7634281a23a1207ab83168b50b9c96cec/http%3A//SimilarSites.com&#34; rel=&#34;nofollow&#34;&gt;SimilarSites.com&lt;/a&gt;. It is a tool for SEO and website analysis too. It includes:-
+&lt;ol&gt;&lt;li&gt;Google Pagerank&lt;/li&gt;&lt;li&gt;Alexa Rank&lt;/li&gt;&lt;li&gt;Compete Rank&lt;/li&gt;&lt;li&gt;Quantcast Rank&lt;/li&gt;&lt;li&gt;Pages indexed in Google&lt;/li&gt;&lt;li&gt;Pages indexed in Bing&lt;/li&gt;&lt;li&gt;Pages indexed in Yahoo&lt;/li&gt;&lt;li&gt;Backlinks according to Google&lt;/li&gt;&lt;li&gt;Backlinks according to Bing&lt;/li&gt;&lt;li&gt;Backlinks according to Yahoo&lt;/li&gt;&lt;li&gt;Backlinks according to Alexa&lt;/li&gt;&lt;li&gt;Bookmark your favourite websites or webpages at &lt;a href=&#34;http://outgoing.mozilla.org/v1/76d11bfb374411e4d6b10485477d77b32734bdeec3e1139efa81ae12c3c83629/http%3A//www.pickmeweb.com&#34; rel=&#34;nofollow&#34;&gt;PickMe Web&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Check whether website is secure on WOT, McAfee SiteAdvisor and Norton Safeweb.&lt;/li&gt;&lt;li&gt;Find websites offering similar content or services at &lt;a href=&#34;http://outgoing.mozilla.org/v1/a4fcf148daa9a999f2c253aca2a148c7634281a23a1207ab83168b50b9c96cec/http%3A//SimilarSites.com&#34; rel=&#34;nofollow&#34;&gt;SimilarSites.com&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Share count at Twitter, Facebook, Google Plus, StumbleUpon and Delicious using the SocioMeter.&lt;/li&gt;&lt;li&gt;Customize the toolbar the way you want, complete customization.&lt;/li&gt;&lt;li&gt;Update data after a particular period of time, you can change it from the settings.&lt;/li&gt;&lt;li&gt;Reload option to reload the data of the toolbar.&lt;/li&gt;&lt;li&gt;More button to get more information about the domain in a single page.&lt;/li&gt;&lt;/ol&gt;And click on each button to get more information about rank or pages indexed.
+
+You can also view website ranks, number of pages indexed and back links in search engines online at &lt;a href=&#34;http://outgoing.mozilla.org/v1/20685aefeb46337014b484032ff466ace2c47a77da28b02ef1b20ba6d2eaca95/http%3A//www.webrankstats.com&#34; rel=&#34;nofollow&#34;&gt;WebRank&lt;/a&gt; or &lt;a href=&#34;http://outgoing.mozilla.org/v1/20685aefeb46337014b484032ff466ace2c47a77da28b02ef1b20ba6d2eaca95/http%3A//www.webrankstats.com&#34; rel=&#34;nofollow&#34;&gt;http://www.webrankstats.com&lt;/a&gt;.</description><license>
+    <name>GNU General Public License, version 3.0</name>
+    <url>http://www.gnu.org/licenses/gpl-3.0.html</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/52/52177-64.png?modified=1386595386</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/52/52177-32.png?modified=1386595386</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>0.3</min_version>
+      <max_version>33.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="" width="700" height="360">
+        https://addons.cdn.mozilla.net/user-media/previews/full/53/53014.png?src=api&amp;modified=1296981259
+      </full>
+      <thumbnail type="" width="200" height="103">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/53/53014.png?src=api&amp;modified=1296981259
+      </thumbnail><caption>WebRank Toolbar v4 with Statusbar Button</caption></preview><preview position="1">
+      <full type="" width="700" height="55">
+        https://addons.cdn.mozilla.net/user-media/previews/full/53/53015.png?src=api&amp;modified=1296981259
+      </full>
+      <thumbnail type="" width="200" height="15">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/53/53015.png?src=api&amp;modified=1296981259
+      </thumbnail><caption>WebRank Toolbar with All Option Enabled</caption></preview><preview position="2">
+      <full type="" width="170" height="116">
+        https://addons.cdn.mozilla.net/user-media/previews/full/53/53016.png?src=api&amp;modified=1296981259
+      </full>
+      <thumbnail type="" width="170" height="116">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/53/53016.png?src=api&amp;modified=1296981259
+      </thumbnail><caption>Certified by SOFTPEDIA</caption></preview><preview position="3">
+      <full type="" width="700" height="56">
+        https://addons.cdn.mozilla.net/user-media/previews/full/53/53017.png?src=api&amp;modified=1296981259
+      </full>
+      <thumbnail type="" width="200" height="16">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/53/53017.png?src=api&amp;modified=1296981259
+      </thumbnail><caption>Customized WebRank Toolbar - Reload and Review Button is Removed</caption></preview><preview position="4">
+      <full type="" width="700" height="368">
+        https://addons.cdn.mozilla.net/user-media/previews/full/53/53018.png?src=api&amp;modified=1296981259
+      </full>
+      <thumbnail type="" width="200" height="105">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/53/53018.png?src=api&amp;modified=1296981259
+      </thumbnail><caption>WebRank Toolbar Option and Settings</caption></preview><preview position="5">
+      <full type="" width="118" height="118">
+        https://addons.cdn.mozilla.net/user-media/previews/full/53/53636.png?src=api&amp;modified=1296981259
+      </full>
+      <thumbnail type="" width="118" height="118">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/53/53636.png?src=api&amp;modified=1296981259
+      </thumbnail><caption>Famous Software Award</caption></preview></previews><rating>4</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/webrank-seo-toolbar/?src=api</learnmore><install hash="sha256:675373bef271472ae8f89b8c996e3d8d87b5566b272e7b042cfd938af1b8a262"
+    os="ALL"
+    size="71156">https://addons.mozilla.org/firefox/downloads/file/234998/webrank_toolbar_pagerank_alexa_compete_and_quantcast_rank_pages_indexed_and_backlinks_checker-4.4.1-fx.xpi?src=api</install>
+  <contribution_data>
+      <link>https://addons.mozilla.org/en-US/firefox/addon/webrank-seo-toolbar/contribute/?src=api</link>
+                <suggested_amount currency="USD" amount="4.99">
+            $4.99
+          </suggested_amount>
+            <meet_developers>
+        https://addons.mozilla.org/en-US/firefox/addon/webrank-seo-toolbar/developers?src=api
+      </meet_developers>
+    </contribution_data><developer_comments></developer_comments>
+    <reviews num="57">
+      https://addons.mozilla.org/en-US/firefox/addon/webrank-seo-toolbar/reviews/?src=api
+    </reviews>
+    <total_downloads>599691</total_downloads>
+    <weekly_downloads>327</weekly_downloads>
+    <daily_users>28649</daily_users>
+    <created epoch="1259488230">
+      2009-11-29T09:50:30Z
+    </created>
+    <last_updated epoch="1385910810">
+      2013-12-01T15:13:30Z
+    </last_updated>
+    <homepage>http://www.webrankstats.com/</homepage>
+    <support>http://www.webrankstats.com/</support>
+    <featured>1</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="275281">
+  <name>SEO Analysis</name>
+  <type id="1">Extension</type>
+  <guid>contact@domainhammer.com</guid>
+  <slug>seo-analysis</slug>
+  <version>2.2</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="5611157">
+      <name>Domain Hammer</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/rlopes/?src=api</link>
+    </author>      </authors>
+  <summary>Displays Google Page Rank, Alexa Rank, DMOZ directory listings, Sedo for sale status, Yahoo backlinks (disabled) and Domain age of the active tab URL.
+
+Now it can also highlight nofollow links in the active page!</summary>
+  <description>Displays Google Page Rank, Alexa Rank, DMOZ directory listings, Sedo for sale status and Domain age of the active tab URL. You can find more details about it on our &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/c1ef0ada7748f55e2de1f99b54f46ae0dcc28619af31ed2e73f014d17d122222/http%3A//www.domainhammer.com&#34;&gt;Bulk Domain Checker&lt;/a&gt; website.
+
+Now you can also enable SEO Analysis to highlight no-follow backlinks!
+
+Yahoo backlinks count was disabled as the service is not available anymore.
+
+PS: If you updated to Firefox 29, SEO Analysis will not show up by default. Please install the following addon to ge it back to work: &lt;a rel=&#34;nofollow&#34; href=&#34;https://addons.mozilla.org/pt-BR/firefox/addon/the-addon-bar/&#34;&gt;https://addons.mozilla.org/pt-BR/firefox/addon/the-addon-bar/&lt;/a&gt;</description><license>
+    <name>License</name>
+    <url>http://www.mozilla.org/MPL/MPL-1.1.html</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/275/275281-64.png?modified=1399223836</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/275/275281-32.png?modified=1399223836</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>2.0</min_version>
+      <max_version>33.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="" width="382" height="366">
+        https://addons.cdn.mozilla.net/user-media/previews/full/53/53454.png?src=api&amp;modified=1305812102
+      </full>
+      <thumbnail type="" width="156" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/53/53454.png?src=api&amp;modified=1305812102
+      </thumbnail></preview><preview position="1">
+      <full type="" width="302" height="76">
+        https://addons.cdn.mozilla.net/user-media/previews/full/53/53455.png?src=api&amp;modified=1305812105
+      </full>
+      <thumbnail type="" width="200" height="50">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/53/53455.png?src=api&amp;modified=1305812105
+      </thumbnail></preview></previews><rating>4</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/seo-analysis/?src=api</learnmore><install hash="sha256:71ae2438db4c3ea4cd1c631ed65773dea2f0b94dd2af7d8e411543eee897b8a8"
+    os="ALL"
+    size="23427">https://addons.mozilla.org/firefox/downloads/file/259816/seo_analysis-2.2-fx.xpi?src=api</install>
+  <contribution_data>
+      <link>https://addons.mozilla.org/en-US/firefox/addon/seo-analysis/contribute/?src=api</link>
+                <suggested_amount currency="USD" amount="4.99">
+            $4.99
+          </suggested_amount>
+            <meet_developers>
+        https://addons.mozilla.org/en-US/firefox/addon/seo-analysis/developers?src=api
+      </meet_developers>
+    </contribution_data><developer_comments></developer_comments>
+    <reviews num="10">
+      https://addons.mozilla.org/en-US/firefox/addon/seo-analysis/reviews/?src=api
+    </reviews>
+    <total_downloads>71390</total_downloads>
+    <weekly_downloads>51</weekly_downloads>
+    <daily_users>4207</daily_users>
+    <created epoch="1295552032">
+      2011-01-20T19:33:52Z
+    </created>
+    <last_updated epoch="1400745053">
+      2014-05-22T07:50:53Z
+    </last_updated>
+    <homepage>http://www.domainhammer.com</homepage>
+    <support>http://www.domainhammer.com</support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="13927">
+  <name>SEO Toolbar</name>
+  <type id="1">Extension</type>
+  <guid>{2e710e6b-5e9d-44ba-8f4e-09a040978b49}</guid>
+  <slug>seo-toolbar-13927</slug>
+  <version>1.3.5.1</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="4880146">
+      <name>Trellian</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/trellian/?src=api</link>
+    </author>      </authors>
+  <summary>The SEO Toolbar shows PageRank, Alexa, Popularity Index, Compete &amp;amp; SEMRush Rank for any website you visit - all on the one toolbar. Other SEO features include Search Engine view, server header view, Wayback Machine button and handy website links.</summary>
+  <description>The SEO Toolbar is fully customizable. You can change its location easily from the options menu and even move it down on to the statusbar. There are several different views available, including icons and text, icons only or page ranks only (PageRank, Alexa Rank, PI Rank, Compete Rank and SEMRush). You can even hide ranks you don&#39;t wish to see.
+
+See the screenshots for examples of different views.
+
+Server header view and search engine view are handy tools for any web developer or SEO. Server header view will help you identify any security risks or issues with your webserver. Search engine view can be used to help optimize your webpages for search engines.
+
+The toolbar includes handy shortcuts to popular PPC Engines, SEO tools and forums, Keyword Research tools, and domain tools, including (just to name a few):
+
+PPC Engines
+-Trellian Direct Search Network
+-Google Adsense
+-Google Adwords
+-Microsoft adCenter
+-Yahoo
+-Ask
+
+SEO Tools / Keyword Research Tools
+-Competitive Intelligence
+-UrlTrends
+-Keyword Discovery
+-Google Adwords keyword suggestion tool
+-Priority Submit
+-Alexa
+-PI Rank
+-SEO Toolkit
+
+Whois
+-&lt;a href=&#34;http://outgoing.mozilla.org/v1/8eb4e733f564360234f9fa478fbbd20d0db2efa18a3a661398c65a83cbc09785/http%3A//Above.com&#34; rel=&#34;nofollow&#34;&gt;Above.com&lt;/a&gt;
+-Moniker
+-Domain Tools
+-Register
+-Network Solutions
+-Planet Domain
+
+Registrars
+-&lt;a href=&#34;http://outgoing.mozilla.org/v1/8eb4e733f564360234f9fa478fbbd20d0db2efa18a3a661398c65a83cbc09785/http%3A//Above.com&#34; rel=&#34;nofollow&#34;&gt;Above.com&lt;/a&gt;
+-Moniker
+-&lt;a href=&#34;http://outgoing.mozilla.org/v1/b51cf3efd555145f6aa5a977dd956a303ec95a562dbf806aa75ddeef66ded29a/http%3A//Register.com&#34; rel=&#34;nofollow&#34;&gt;Register.com&lt;/a&gt;
+-euroDNS
+
+Domain Parking
+-Above Parking Manger
+-Sedo
+-Parked
+-NameDrive
+
+SEO Forums
+-&lt;a href=&#34;http://outgoing.mozilla.org/v1/032066d81ffb4a1dc9719e363bf0c758ff34ffbcca409168c6105d1d179e88db/http%3A//Addme.com&#34; rel=&#34;nofollow&#34;&gt;Addme.com&lt;/a&gt;
+-SEO News
+-Webmaster World
+-WebProWorld
+
+The latest release (Version 1.3) adds some new features:
+- Added Compete Rank
+- Added SEMRush Rank
+- Added options to hide particular ranks
+
+If you can think of anything to make our toolbar even better, we always welcome your feedback.
+Please contact us here: &lt;a href=&#34;http://outgoing.mozilla.org/v1/fd8bd0e91c617c0b4d49bac3d259d50731aa259911e41b9ed5b2fc95d9d4c1ee/http%3A//www.toolbarbrowser.com/support.htm&#34; rel=&#34;nofollow&#34;&gt;http://www.toolbarbrowser.com/support.htm&lt;/a&gt;</description><license>
+    <name>License</name>
+    <url>http://www.mozilla.org/MPL/MPL-1.1.html</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/13/13927-64.png?modified=1378362475</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/13/13927-32.png?modified=1378362475</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>1.5</min_version>
+      <max_version>33.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="1">
+      <full type="" width="700" height="436">
+        https://addons.cdn.mozilla.net/user-media/previews/full/53/53053.png?src=api&amp;modified=1295924780
+      </full>
+      <thumbnail type="" width="200" height="124">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/53/53053.png?src=api&amp;modified=1295924780
+      </thumbnail><caption>Normal toolbar view</caption></preview><preview position="1">
+      <full type="" width="633" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/53/53054.png?src=api&amp;modified=1295924781
+      </full>
+      <thumbnail type="" width="181" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/53/53054.png?src=api&amp;modified=1295924781
+      </thumbnail><caption>Page ranks only view next to menu bar</caption></preview><preview position="1">
+      <full type="" width="700" height="73">
+        https://addons.cdn.mozilla.net/user-media/previews/full/53/53055.png?src=api&amp;modified=1295924781
+      </full>
+      <thumbnail type="" width="200" height="20">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/53/53055.png?src=api&amp;modified=1295924781
+      </thumbnail><caption>Show only page ranks status bar view</caption></preview><preview position="1">
+      <full type="" width="700" height="18">
+        https://addons.cdn.mozilla.net/user-media/previews/full/53/53056.png?src=api&amp;modified=1295924781
+      </full>
+      <thumbnail type="" width="200" height="5">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/53/53056.png?src=api&amp;modified=1295924781
+      </thumbnail><caption>Normal toolbar view</caption></preview><preview position="1">
+      <full type="" width="665" height="26">
+        https://addons.cdn.mozilla.net/user-media/previews/full/53/53057.png?src=api&amp;modified=1295924781
+      </full>
+      <thumbnail type="" width="200" height="7">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/53/53057.png?src=api&amp;modified=1295924781
+      </thumbnail><caption>Icons only view</caption></preview><preview position="1">
+      <full type="" width="664" height="110">
+        https://addons.cdn.mozilla.net/user-media/previews/full/53/53058.png?src=api&amp;modified=1295924781
+      </full>
+      <thumbnail type="" width="200" height="33">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/53/53058.png?src=api&amp;modified=1295924781
+      </thumbnail><caption>Toolbar view in browser</caption></preview></previews><rating>4</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/seo-toolbar-13927/?src=api</learnmore><install hash="sha256:06bb1b5ad418c36d7f66e05a9b72d7d5c1746726a1ff47f1620fb1bec0c12395"
+    os="ALL"
+    size="37580">https://addons.mozilla.org/firefox/downloads/file/226761/seo_toolbar-1.3.5.1-fx.xpi?src=api</install>
+  <developer_comments>We are always adding new features and welcome your suggestions.
+
+Please contact us here for any feedback and bug reports:
+&lt;a href=&#34;http://outgoing.mozilla.org/v1/fd8bd0e91c617c0b4d49bac3d259d50731aa259911e41b9ed5b2fc95d9d4c1ee/http%3A//www.toolbarbrowser.com/support.htm&#34; rel=&#34;nofollow&#34;&gt;http://www.toolbarbrowser.com/support.htm&lt;/a&gt;</developer_comments>
+    <reviews num="12">
+      https://addons.mozilla.org/en-US/firefox/addon/seo-toolbar-13927/reviews/?src=api
+    </reviews>
+    <total_downloads>151812</total_downloads>
+    <weekly_downloads>80</weekly_downloads>
+    <daily_users>5204</daily_users>
+    <created epoch="1251256617">
+      2009-08-26T03:16:57Z
+    </created>
+    <last_updated epoch="1379458713">
+      2013-09-17T22:58:33Z
+    </last_updated>
+    <homepage>http://www.toolbarbrowser.com</homepage>
+    <support>http://www.toolbarbrowser.com/support.htm</support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="56804">
+  <name>SEO Status PageRank/Alexa Toolbar</name>
+  <type id="1">Extension</type>
+  <guid>seostatus@rubyweb</guid>
+  <slug>seo-status-pagerankalexa-toolb</slug>
+  <version>1.5.9</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="168160">
+      <name>Ruby Web</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/ruby-web/?src=api</link>
+    </author>      </authors>
+  <summary>See Google Pagerank (PR) and Alexa rank for each website you visit. Simple and customizable. You can see and use everything the toolbar offers, or strip it down to the bare essentials and place it in the status bar.  Simple, quick, and very useful.</summary>
+  <description>Allows a user to view the Google PR (Pagerank) and Alexa rank for every website they visit.  Also has built in functionality to find the backlinks of a certain page, see who owns a domain, valuate the domain in terms of $$, and more. </description><license>
+    <name>License</name>
+    <url>http://www.mozilla.org/MPL/MPL-1.1.html</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/56/56804-64.png?modified=1352248372</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/56/56804-32.png?modified=1352248372</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>1.5</min_version>
+      <max_version>26.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="image/png" width="647" height="112">
+        https://addons.cdn.mozilla.net/user-media/previews/full/40/40204.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="200" height="34">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/40/40204.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>This is the default toolbar.  Any of the components can be removed/hidden.  The PR and Alexa ranks can be put in the status bar if desired.</caption></preview></previews><rating>4</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/seo-status-pagerankalexa-toolb/?src=api</learnmore><install hash="sha256:76ca2770c22c6781a8c9a2fe5a30455564c103222fd464ba51e6b872aff0e56b"
+    os="ALL"
+    size="206848">https://addons.mozilla.org/firefox/downloads/file/140841/seo_status_pagerankalexa_toolbar-1.5.9-fx.xpi?src=api</install>
+  <developer_comments></developer_comments>
+    <reviews num="49">
+      https://addons.mozilla.org/en-US/firefox/addon/seo-status-pagerankalexa-toolb/reviews/?src=api
+    </reviews>
+    <total_downloads>525587</total_downloads>
+    <weekly_downloads>263</weekly_downloads>
+    <daily_users>27842</daily_users>
+    <created epoch="1261973909">
+      2009-12-28T04:18:29Z
+    </created>
+    <last_updated epoch="1325845786">
+      2012-01-06T10:29:46Z
+    </last_updated>
+    <homepage>http://www.rubyweb.org/seo-status-toolbar/firefox-toolbar/</homepage>
+    <support></support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="161725">
+  <name>SEO &amp; Website Analysis</name>
+  <type id="1">Extension</type>
+  <guid>{8BCA0E8A-E57B-425b-A05B-CD3868EB577E}</guid>
+  <slug>seo-website-analysis</slug>
+  <version>1.2</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="835790">
+      <name>WooRank.com</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/woorankcom/?src=api</link>
+    </author>      </authors>
+  <summary>WooRank provides a deep SEO &amp;amp; Website Analysis reviewing more that 50 SEO criterias.</summary>
+  <description>SEO WooRank is en extension that provides a very deep SEO &amp;amp; Website Analysis report for any given website. When you click on the SEO WooRank AddOn icon, we will generate the SEO report for your website.
+
+The Add-on shows a &#34;Wolf icon&#34; on the Firefox status bar (upper right), and in right-click drop down menu. When you click on this &#34;Wolf icon&#34;, you will be sent to the full SEO analysis of the website covering the following in-page and outside the page criteria:
+
+Visitors:
+ Traffic Estimations 
+ Traffic Rank 
+ Distinctive Audience 
+ Adwords Traffic 
+ Visitors Localization 
+
+Social Monitoring:
+ Social Impact 
+ Twitter™ Account 
+ Latest Tweets 
+ LinkedIn™ Account 
+
+Mobile:
+ Mobile Load Time 
+ Mobile Rendering 
+ Mobile Optimization 
+
+SEO Basics:
+ WWW Resolve 
+ URL Rewrite 
+ IP Canonicalization 
+ robots.txt 
+ XML Sitemap 
+ Underscores in the URLs
+
+SEO Content:
+ Title 
+ Description 
+ Meta Keywords 
+ Headings 
+ Images 
+ Text/HTML Ratio 
+ Flash 
+ Frames 
+ Blog 
+ Inside Pages Analysis 
+
+SEO Links:
+ In-Page Links 
+
+SEO Keywords:
+ Keywords Cloud 
+ Keywords Consistency 
+ Google™ Ranking 
+ Competitors in Google™ 
+
+SEO Authority:
+ PageRank 
+ Related Websites 
+ Indexed Pages 
+ Domain 1st Registered 
+ Domain Expiration 
+ Popular Pages 
+
+SEO Backlinks:
+ Backlinks Counter 
+ Top Anchor Texts 
+ DMOZ 
+
+Usability:
+ URL 
+ Favicon 
+ 404 Error Page 
+ Printability 
+ Conversion Forms 
+ Page Size 
+ Load Time 
+ Language 
+ Microformats 
+ Dublin Core 
+
+Security:
+ Server IP 
+ Spam Block 
+ Trust Indicators 
+ Safe Browsing 
+ Domain Availability 
+ Typo Availability 
+ Whois Privacy 
+ Email Privacy 
+ Directory Browsing 
+ Server Signature 
+
+Technologies
+ Google™ Analytics 
+ Technologies 
+ W3C Validity 
+ Doctype 
+ Encoding 
+ Deprecated HTML 
+ Speed Tips 
+
+Detail of the aspects covered:
+- SEO
+- Traffic estimation
+- Alexa rank
+- Compete rank
+- Keywords analysis
+- Indexed pages in Google and Yahoo
+- Title and URL analysis
+- Meta Description recommendation 
+- Headings
+- Alt in Images analysis
+- Text/HTML ratio
+- Frame
+- Robots.txt
+- XML Sitemap
+- Flash
+- Ajax
+- Language
+- Doctype
+- W3C validity
+- Google Analytics installed
+- Microformats
+- Dublin core
+- Backlinks analysis
+- DMOZ directory
+- Yahoo Directory
+- Delicious links
+- Wikipedia bakclinks
+- Twitter account
+- Number of tweets
+- Rss Feed
+- Readability level
+- Load time
+- gzip
+- WHOIS
+- Competitor analysis
+- Usability
+- Favicon
+- IP number and Country gelocalization
+
+Well, this is a lot of information just one click away and FREE. 
+
+You can export the report in PDF format.
+
+Enjoy :)</description><license>
+    <name>License</name>
+    <url>http://www.mozilla.org/MPL/MPL-1.1.html</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/161/161725-64.png?modified=1403265798</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/161/161725-32.png?modified=1403265798</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>1.5</min_version>
+      <max_version>33.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="" width="700" height="438">
+        https://addons.cdn.mozilla.net/user-media/previews/full/96/96624.png?src=api&amp;modified=1365787400
+      </full>
+      <thumbnail type="" width="200" height="125">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/96/96624.png?src=api&amp;modified=1365787400
+      </thumbnail><caption>Website Review in the right margin, next to the analyzed website</caption></preview><preview position="1">
+      <full type="image/png" width="170" height="116">
+        https://addons.cdn.mozilla.net/user-media/previews/full/45/45672.png?src=api&amp;modified=1365762197
+      </full>
+      <thumbnail type="image/png" width="170" height="116">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/45/45672.png?src=api&amp;modified=1365762197
+      </thumbnail><caption>Tested by SOFTPEDIA: 100% clean, no spyware, no adware, no viruses.</caption></preview></previews><rating>4</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/seo-website-analysis/?src=api</learnmore><install hash="sha256:40fd0092920eb1436472a0b73f4576babfc97be3f188384eaba9e56bc0fd7aab"
+    os="ALL"
+    size="30258">https://addons.mozilla.org/firefox/downloads/file/263718/seo_website_analysis-1.2-fx.xpi?src=api</install>
+  <developer_comments></developer_comments>
+    <reviews num="31">
+      https://addons.mozilla.org/en-US/firefox/addon/seo-website-analysis/reviews/?src=api
+    </reviews>
+    <total_downloads>147858</total_downloads>
+    <weekly_downloads>145</weekly_downloads>
+    <daily_users>13000</daily_users>
+    <created epoch="1273583232">
+      2010-05-11T13:07:12Z
+    </created>
+    <last_updated epoch="1404128153">
+      2014-06-30T11:35:53Z
+    </last_updated>
+    <homepage>http://www.woorank.com</homepage>
+    <support>http://www.woorank.com</support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="306207">
+  <name>The SEO Engine</name>
+  <type id="1">Extension</type>
+  <guid>info@SEOEngine.com</guid>
+  <slug>the-seo-engine</slug>
+  <version>1.6</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="5706982">
+      <name>The SEO Engine</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/seoengine/?src=api</link>
+    </author>      </authors>
+  <summary>Ever wanted to peek inside Google, Yahoo!, or Bing to see why a specific search result ranked the way it did?  Now, finding out is as simple as clicking the SEO Engine link below any search result!!</summary>
+  <description>Adds a link entitled &#39;SEO Score&#39; underneath each search result on all major Search Engines, which leads you directly into the belly of the Search Engine process of ranking and scoring that Webpage. With unique access to every algorithm going on inside major Search Engines, you&#39;ll know how much you need to improve to increase your ranking results. And with the SEO Engine Interface, as always, you will be able to continue to &#34;surf&#34; through the eyes of a Search Engine!</description><license>
+    <name>GNU General Public License, version 3.0</name>
+    <url>http://www.gnu.org/licenses/gpl-3.0.html</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/306/306207-64.png?modified=1351495200</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/306/306207-32.png?modified=1351495200</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>3.5</min_version>
+      <max_version>16.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="" width="500" height="109">
+        https://addons.cdn.mozilla.net/user-media/previews/full/56/56453.png?src=api&amp;modified=1302549010
+      </full>
+      <thumbnail type="" width="200" height="43">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/56/56453.png?src=api&amp;modified=1302549010
+      </thumbnail><caption>The SEO Score link is added below each search results on Google, Yahoo!, and Bing.</caption></preview></previews><rating>4</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/the-seo-engine/?src=api</learnmore><install hash="sha256:b42756b9e2c552aa7958593edbc6daa109c6d8ee4aa4781ad23731aca025d473"
+    os="ALL"
+    size="6144">https://addons.mozilla.org/firefox/downloads/file/132401/the_seo_engine-1.6-fx.xpi?src=api</install>
+  <developer_comments></developer_comments>
+    <reviews num="10">
+      https://addons.mozilla.org/en-US/firefox/addon/the-seo-engine/reviews/?src=api
+    </reviews>
+    <total_downloads>52874</total_downloads>
+    <weekly_downloads>42</weekly_downloads>
+    <daily_users>2868</daily_users>
+    <created epoch="1302548502">
+      2011-04-11T19:01:42Z
+    </created>
+    <last_updated epoch="1316998542">
+      2011-09-26T00:55:42Z
+    </last_updated>
+    <homepage>http://www.SEOEngine.com/</homepage>
+    <support></support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="158850">
+  <name>SEO Info</name>
+  <type id="1">Extension</type>
+  <guid>{cfe230D6-d69b-c07f-fe3c-5ca5c9f0ca30}</guid>
+  <slug>seo-info</slug>
+  <version>1.1</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="4902687">
+      <name>frimas</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/frimas/?src=api</link>
+    </author>      </authors>
+  <summary>Provides some information on the site you visit: indexed pages, backlinks, link report, pages reported on social network, pagerank, alexa rank, whois, and much more.</summary>
+  <description>Provides some information on the site you visit: indexed pages, backlinks, link report, pages reported on social network, pagerank, alexa rank, whois, and much more.</description>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/158/158850-64.png?modified=1309431246</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/158/158850-32.png?modified=1309431246</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>1.5</min_version>
+      <max_version>26.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="image/png" width="343" height="240">
+        https://addons.cdn.mozilla.net/user-media/previews/full/45/45340.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="200" height="139">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/45/45340.png?src=api&amp;modified=1331247702
+      </thumbnail></preview><preview position="1">
+      <full type="image/png" width="286" height="252">
+        https://addons.cdn.mozilla.net/user-media/previews/full/45/45341.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="170" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/45/45341.png?src=api&amp;modified=1331247702
+      </thumbnail></preview></previews><rating>5</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/seo-info/?src=api</learnmore><install hash="sha256:f4b6fccf1bd5225ea0980e47a02f287fff6da5f1c2c1e3b63876f4af15d2e623"
+    os="ALL"
+    size="15360">https://addons.mozilla.org/firefox/downloads/file/124635/seo_info-1.1-fx.xpi?src=api</install>
+  <developer_comments></developer_comments>
+    <reviews num="1">
+      https://addons.mozilla.org/en-US/firefox/addon/seo-info/reviews/?src=api
+    </reviews>
+    <total_downloads>15335</total_downloads>
+    <weekly_downloads>14</weekly_downloads>
+    <daily_users>2417</daily_users>
+    <created epoch="1272756335">
+      2010-05-01T23:25:35Z
+    </created>
+    <last_updated epoch="1309431232">
+      2011-06-30T10:53:52Z
+    </last_updated>
+    <homepage>http://www.frimas.com/software/firefox-plugins/seo-info/</homepage>
+    <support></support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="9440">
+  <name>Foxy SEO Tool</name>
+  <type id="1">Extension</type>
+  <guid>foxyseotool@foxyseotool.com</guid>
+  <slug>foxy-seo-tool</slug>
+  <version>0.8.7</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="3110211">
+      <name>McNulty</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/mcnulty/?src=api</link>
+    </author>      </authors>
+  <summary>Foxy SEO Tool offers tools for search engine optimization (SEO), web traffic and page analysis for webmasters and web professionals.</summary>
+  <description>Foxy SEO Tool is a free, open source toolbar that provides quick and easy access to a multitude of search engine functions such as Google Site, Yahoo! Site Explorer, Live Fromlinks. Also included are famous web traffic analysis sites such as Alexa, Compete, Quantcast, popular statistic aggregators like Quarkbase and WebSiteOutlook. You can check a site&#39;s listing in important directories like Dmoz and Yahoo! Directory, buzzing Web 2.0 sites such as Technocrati, Wikipedia, Digg, Delicious and links to useful network functions like Whois, Geotool, Internet Archive, etc.
+
+The tools menu currently offer a Spider Simulator function which displays a web page just as a search engine would read it, in the order of the html code of the page, without the layout code. The experts will appreciate.
+
+The toolbar also has convenient links to many big name sites publishing hot topics for niche ideas and links to the always necessary keywords research services.
+
+If your Firefox menu is already cluttered with a lot of indispensable toolbars, you can easily disable it and just use the contextual pop menu instead (right click menu). I may take it personally, however, since I worked very hard on those little cute icons ;-)
+
+Foxy SEO Tool also supports a french localised version. </description><license>
+    <name>GNU General Public License, version 3.0</name>
+    <url>http://www.gnu.org/licenses/gpl-3.0.html</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/9/9440-64.png?modified=1309299041</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/9/9440-32.png?modified=1309299041</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>2.0</min_version>
+      <max_version>27.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="image/png" width="700" height="64">
+        https://addons.cdn.mozilla.net/user-media/previews/full/29/29706.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="200" height="18">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/29/29706.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>General view of the toolbar</caption></preview><preview position="1">
+      <full type="image/png" width="700" height="343">
+        https://addons.cdn.mozilla.net/user-media/previews/full/29/29707.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="200" height="98">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/29/29707.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>Google function related to the current site</caption></preview><preview position="1">
+      <full type="image/png" width="700" height="235">
+        https://addons.cdn.mozilla.net/user-media/previews/full/29/29708.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="200" height="67">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/29/29708.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>The Search Spider Simulator view</caption></preview><preview position="1">
+      <full type="image/png" width="700" height="268">
+        https://addons.cdn.mozilla.net/user-media/previews/full/29/29709.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="200" height="76">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/29/29709.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>Function related to a keyword selected on the page</caption></preview></previews><rating>5</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/foxy-seo-tool/?src=api</learnmore><install hash="sha256:21a9899774bef05387a3d0eac19f58c08ea39effdb0a78c11d1731b105a57206"
+    os="ALL"
+    size="61702">https://addons.mozilla.org/firefox/downloads/file/250404/foxy_seo_tool-0.8.7-fx.xpi?src=api</install>
+  <developer_comments></developer_comments>
+    <reviews num="19">
+      https://addons.mozilla.org/en-US/firefox/addon/foxy-seo-tool/reviews/?src=api
+    </reviews>
+    <total_downloads>183393</total_downloads>
+    <weekly_downloads>42</weekly_downloads>
+    <daily_users>6934</daily_users>
+    <created epoch="1225427477">
+      2008-10-31T04:31:17Z
+    </created>
+    <last_updated epoch="1395577535">
+      2014-03-23T12:25:35Z
+    </last_updated>
+    <homepage>http://www.foxyseotool.com/</homepage>
+    <support>http://www.foxyseotool.com/</support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="14581">
+  <name>RDS bar (seo: pr, dmoz, alexa, seomoz)</name>
+  <type id="1">Extension</type>
+  <guid>{40AC5270-A9D0-11DE-B979-F0B655D89593}</guid>
+  <slug>rds-bar</slug>
+  <version>4.1.20140627</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="4928986">
+      <name>Recipdonor</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/recipdonor/?src=api</link>
+    </author>      </authors>
+  <summary>RDS seo toolbar  (pr, dmoz, alexa, seomoz ... ) – is a useful tool for fast analysis of website and page SEO indicators, designed for webmasters and optimizers. And also with a range of useful functions for ordinary users.</summary>
+  <description>&lt;acronym title=&#34;&#34;&gt;&lt;strong&gt;What RDS bar can do (Options given in the plug-in toolbar)&lt;/strong&gt;&lt;/acronym&gt;
+
+&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;G-index&#34;&lt;/acronym&gt; – reveals the number of website pages indexed by Google. Allows to choose your Google region in additional settings. You can also check the number pages that Google use in search results, except “snivel” pages (Supplemental Index) in % ratio.&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;G-index Page&#34;&lt;/acronym&gt; - Indexing and cache date of the given website page in Google.&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;PR&#34;&lt;/acronym&gt; -Google Page Rank of the relevant page. Allows to view the PR of the current page and Home page in the brackets. Fake PR check is performed after page PR check and for the value of PR&amp;gt;0 only to save on number of queries. Allows to check the history of changes of this option. (Authorization is required)&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;Dmoz&#34;&lt;/acronym&gt; – checks the presence of the website in Dmoz - the largest catalog in the net. If present in Dmoz, PR is highlighted in bold type.   &lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;WebArch&#34;&lt;/acronym&gt; – is the month and the year of the first log in WebArchive. This is the service that tracks the age of the website and the history of its changes. It also allows to download (recover) previous versions of the website.&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;SEOMoz&#34;&lt;/acronym&gt; - Authority of current page and the domain in SeoMoz base.&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;Age&#34;&lt;/acronym&gt; - Minimal value on domain date registration or first log in &lt;a href=&#34;http://outgoing.mozilla.org/v1/04f044a7755cc6cfd1865088060082a7a36eb7424d133f10c30d0bcc3b5104c2/http%3A//web.archive.org&#34; rel=&#34;nofollow&#34;&gt;web.archive.org&lt;/a&gt;. This data is free of charge and is taken from the RDS base. By clicking on “Age” option one can view whois of the domain, search for the websites with identical WHOIS data, view the history of whois changes and hosting provider. (Authorization is required)&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;Back Google&#34;&lt;/acronym&gt; - is the quantity of the most important inbound links to the website in Google search engine (link:). Usually pages with great weight and high PR are shown. Bear in mind that the results are given for individual pages, not the website in general.&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;Bing outcome&#34;&lt;/acronym&gt; -is the number of outbound links from the website by Bing search engine (linkfromdomain:).&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;B-index&#34;&lt;/acronym&gt; – is the number of website pages indexed by Bing including subdomains.&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;Back Bing&#34;&lt;/acronym&gt; - Number of members of the most tangible links to a site according to Bing.&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;Alexa&#34;&lt;/acronym&gt; - is the rating by Alexa, based on data received from the users that use Alexa Toolbar. The less the number the more visitors the site has.&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;Back Alexa&#34;&lt;/acronym&gt; - Number of members of the most tangible links to a site according to Alexa.&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;Index Aol&#34;&lt;/acronym&gt; - Number of pages in the search index is caught Aol, including subdomains.&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;Images&#34;&lt;/acronym&gt; - A number of website pictures that are indexed by Google and Aol search engines. Might be useful to those who has photo-websites or site where main traffic is generated by picture downloads.&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;MJ&#34;&lt;/acronym&gt; - Number of inbound links by &lt;a href=&#34;http://outgoing.mozilla.org/v1/621c52135e12ad3baf4048001560e2c07df6c131e416ab363bd38f3757c4ee71/http%3A//MajesticSeo.com&#34; rel=&#34;nofollow&#34;&gt;MajesticSeo.com&lt;/a&gt;. &lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;Twitter&#34;&lt;/acronym&gt; - Number of domain citations in Twitter&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;Technorati&#34;&lt;/acronym&gt; - English search engine specializing in blogs and RSS feeds.&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;Semrush&#34;&lt;/acronym&gt; – Semrush data. Website rating according to the number of visitors that come from the first 20 Google search results. Search traffic – Number of visitors that come from the first 20 Google search results per month. Price – approximate cost of purchasing the same amount of traffic (visitors). &lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;Feedburner&#34;&lt;/acronym&gt; – Number of subscribers for website RSS in Feedburner for the previous day.&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;Google Adplaner&#34;&lt;/acronym&gt; – Estimate of website traffic, a diagram of number of visitors change per month, visitors’ geography, users’ search queries, websites-competitors.&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;Google Trends&#34;&lt;/acronym&gt; - Analytical service from Google to compare changes in popularity (trend). Displays the approximate estimation of site traffic, user geography, competing sites.&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;Compete&#34;&lt;/acronym&gt; - Rankings and the average number of visitors from the United States on the day according to Compete.&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;Quantcast&#34;&lt;/acronym&gt; - Rankings and the average number of visitors from the United States on the day according to Quantcast.&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;Ahrefs&#34;&lt;/acronym&gt; – Number of incoming links in Ahrefs base.&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;Google +1&#34;&lt;/acronym&gt; – Number of visitors, who clicked the button. Google +1 for current page and for Home page in brackets. One can use the button even if there is no such function on the actual page.&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;Social networks&#34;&lt;/acronym&gt; – Citation of the website in Facebook and Twitter social networks.&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;Context purchase&#34;&lt;/acronym&gt; – Number of unique context proclamations, that use current website for advertising in Google Adsense system. Date of the beginning and the end of advertising campaign. Opportunity to view the proclamation text. Displaying of RDS icon opposite websites in Google Adsense advertisement blocks. The number of advertisements of this website in RDS base is shown in brackets. This option can be used to make your own contextual advertisements.&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;Duplicates&#34;&lt;/acronym&gt; – Number of duplicate pages according to Google.&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;Modified&#34;&lt;/acronym&gt; – Current page’s last update date (basically for static website pages)&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;IP&#34;&lt;/acronym&gt; - Server IP address hosting website.&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;On IP in Bing&#34;&lt;/acronym&gt; – Number of websites per IP address according to Bing. Mostly IP hosts several websites. It may be a network of websites created as satellites to promote the main website or the websites of the same web-studio or the same hosting company.&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;On IP in RDS&#34;&lt;/acronym&gt; – Number of websites on IP according to RDS data.&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;Virus&#34;&lt;/acronym&gt; – Website virus check according to Google data.&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;Website cost&#34;&lt;/acronym&gt; - Approximate value of the website according to specialized services.&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;Host&#34;&lt;/acronym&gt; - Host (domain name) is the name of the computer for this IP address. Helps to identify the company hosting the website.&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;Provider&#34;&lt;/acronym&gt; - The name of the hoster behind this IP address, where the website is hosted. (Authorization is required)&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;Geography&#34;&lt;/acronym&gt; - Country and city where the website server is located. (Authorization is required)&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;CMS website engine&#34;&lt;/acronym&gt; - Analyzing the content of the page identifies which of the main popular CMS are used: WP, Joomla, Drupal, TYPO3, DLE, Magento and others. The function is based on &lt;a href=&#34;http://outgoing.mozilla.org/v1/0a23b5c3348d2fa028d246d0860ab8029439466e8f319f9ab474338c3f1530ec/http%3A//wappalyzer.com&#34; rel=&#34;nofollow&#34;&gt;wappalyzer.com&lt;/a&gt; plug-in that was later improved and adjusted for a number of other Russian CMS engines. &lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;Page size&#34;&lt;/acronym&gt; - The size of the html code of the page (without pictures, css and uploaded javascript content)&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;Loading time&#34;&lt;/acronym&gt; - Current page loading time.&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;Number of words/symbols&#34;&lt;/acronym&gt; - Calculates the number of words and symbols (with and without space) in selected text.&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;Validator&#34;&lt;/acronym&gt; - Checks the validity of page’s make up according to &lt;a href=&#34;http://outgoing.mozilla.org/v1/84bd875adc3539006d171c969c5a930a1f8bc0db8a1f4b48a01b6f34c5d0737d/http%3A//validator.w3.org&#34; rel=&#34;nofollow&#34;&gt;validator.w3.org&lt;/a&gt; standards.&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;Links in/out&#34;&lt;/acronym&gt;- internal (unique) and outbound (except rel=&#34;nofollow&#34;, noscript, textarea, subdomains) links of current page. Also the function of Header answer receiving for the pages http-status of which is not equal to 200. It is of special actuality for sape users with errors in links “Page returns http-status different from 200”. The value is displayed in links, when aiming the error code description appears.&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;Website traffic&#34;&lt;/acronym&gt; - Website registration check in the most popular systems of website statistics. Their availability for unauthorized users. Traffic value for the last 24 hours or for the previous day. In case Google Analytics counter is present on the website, after clicking on “Statistics” option the quantity of websites in RDS base, which are on the same Google Analytics account, will be shown. (Authorization is required).&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;RSS feeds&#34;&lt;/acronym&gt; - Availability of RSS feeds on the page.&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;Website info&#34;&lt;/acronym&gt; – Fast analysis of basic website indicators at clicking “info” button. (WEBSITE INFO)&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;Robots.txt&#34;&lt;/acronym&gt; - Availability of robots.txt file in the website root, at aiming the editing dates are displayed.&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;PL&#34;&lt;/acronym&gt; - page nesting level [1,2,3 +]&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;Sitemap&#34;&lt;/acronym&gt; - Availability of sitemap.xml file in website root.&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;Seo-tag displaying&#34;&lt;/acronym&gt; – Seo-tag displaying (title, description,keywords,h1..h6) of current page, the call is also available by pressing ctrl+shift+f hot-keys. &lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;Home page&#34;&lt;/acronym&gt; - Transition to the Home page of current website in a new tab.&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;Source code&#34;&lt;/acronym&gt; - Current page source code viewing in a new tab. Analogue to Ctrl+U.&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;Data base&#34;&lt;/acronym&gt; – Opportunity to view data base plug-in content in a convenient format of tables, directly in web-browser, to use filters and export.&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;Synonymiser&#34;&lt;/acronym&gt; – Fast use of text unicity function with the use of RDS base of synonyms.&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;Settings&#34;&lt;/acronym&gt; - Hiding of unused options in plug-in bar, adjustment of value receiving methods, adjustment of tag illumination on the page, change of data displaying and language version, message sending to a support service.&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;Cache clean&#34;&lt;/acronym&gt; - Cache clean for current page. There is a caching of the same queries in the plug-in. If somehow the values haven&#39;t been defined improperly or haven&#39;t been defined at all, you can restart the process by clicking on the recycling bin “Cache clean”.&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;Number of requests&#34;&lt;/acronym&gt; - Number of fulfilled BG queries (loaded pages) that are necessary for receiving of all selected data.&lt;/li&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;li&gt;&lt;acronym title=&#34;&#34;&gt;&#34;I want a new option!&#34;&lt;/acronym&gt; - You can offer us to add a new option. Describe its importance to you and how it can be useful to other users, where it can be taken from and how it may be carried out.&lt;/li&gt;&lt;/blockquote&gt;
+
+&lt;acronym title=&#34;&#34;&gt;&lt;strong&gt;Highlighting and substitution of contents on website pages:&lt;/strong&gt;&lt;/acronym&gt;
+
+- rel=&#34;nofollow&#34; tag highlighting. Opportunity to set an allocation style by yourself.
+- Inbound link highlighting. Opportunity to set an allocation style by yourself and exclude those websites where this check and highlighting is not necessary.
+- RDS icon displaying in Google Adsense advertising blocks. There is the number of websites with the same ID of advertiser in the “&lt;a href=&#34;http://outgoing.mozilla.org/v1/e7e9156be1763f8c50e327c33c99ffa5480ccd23f5774bc30285db6d21cacafb/http%3A//Recipdonor.com&#34; rel=&#34;nofollow&#34;&gt;Recipdonor.com&lt;/a&gt;” base in the brackets. This option can be used to search the websites of the same owner. (Authorization is required).
+- Allocation of blocks taken to display:none style; mostly used to reveal inbound links hidden on the website.
+- RDS icon displaying opposite websites in Google Adsense advertising blocks for the purpose of displaying number of their contextual announcements in RDS base.
+
+
+&lt;acronym title=&#34;&#34;&gt;&lt;strong&gt;Work with Google search engine results:&lt;/strong&gt;&lt;/acronym&gt;
+
+- Displaying of full page URL in results, if it had been cut or if “grain crumbs” were pasted to the address. Opportunity to copy search results of current search page to a clipboard by means of ctrl+y hot-keys, or of all base on encached pages by pressing ctrl+m.
+- Recipients list output in the plug-in menu and allocation of Recipients in search results with green filling.
+- Opportunity to display a full paging on search result pages.
+- Opportunity to display maximum 100 search results on output pages without the use of advanced search.
+- Highlighting of websites that buy SEO links and take part in search result link sale exchange.
+- Opportunity to set in settings the quantity of first websites for analysis, to avoid bans.
+- Opportunity to switch off the advertisements on search pages.
+- Enumeration of website positions in Google output.
+- PR update date output on Google search pages.
+- The use of search prompts during the query input with 
+displaying of their frequency in RDS base.
+
+
+&lt;acronym title=&#34;&#34;&gt;&lt;strong&gt;Additional options in the plug-in:&lt;/strong&gt;&lt;/acronym&gt;
+
+- Authorization on &lt;a href=&#34;http://outgoing.mozilla.org/v1/230e48cba322c0d4d2d281c5cdc4c0dd0fcb4ea3bf711c8585f7f14770c32482/http%3A//recipdonor.com&#34; rel=&#34;nofollow&#34;&gt;recipdonor.com&lt;/a&gt; website using the plug-in allows to control the balance in system, go to necessary website sections, use a range of additional paid functions.
+- Displaying by the plug-in of encached values to avoid 
+ requery. Opportunity to set an inclined font for such values. Opportunity to view the content of plug-in data base in convenient format, directly in web-browser, use filters and export.
+- Opportunity to select larger view of options on the plug-in bar.
+- Option of additional settings for options and receiving of &#34;problematic&#34; data through API RDS to avoid periodical captcha. It is especially actual for “G-index”, “Page G-index” and other values. Queries are sent to our &lt;a href=&#34;http://outgoing.mozilla.org/v1/e7e9156be1763f8c50e327c33c99ffa5480ccd23f5774bc30285db6d21cacafb/http%3A//Recipdonor.com&#34; rel=&#34;nofollow&#34;&gt;Recipdonor.com&lt;/a&gt; service, after processing you receive the final result. For details about flow of fund on the account and service cost see our website. This method will prevent Google ban of your IP and will save the time for captcha input. Gaining of values can take from 2 to 15 seconds.
+- Opportunity to switch off javascript, cache, meta-redirection, referrers, cookies, styles on the page. Fast page style switch off using ctrl+shift+s key combination.
+- Opportunity to view the information about cookies and also delete cookies of domain and session in plug-in menu.
+- Opportunity to change the window size convenient for 
+page makeup testing.
+- Substitution function Useragenta: Googlebot, Msn bot, Yahoo! Slurp, Internet Explorer, Opera and mobile: Apple iPad, iPhone 3.0, Blackberry, HTC, LG.
+- Function of fast switch on and off of the plug-in in the form of an icon in the status-bar.
+- Plug-in can work in &#34;by button&#34; mode, that is to send queries about option identification for current page on demand, not always, as in standard mode while tag browsing.
+- Massage sending to support directly by means of the plug-in with additional data: kind of problem, page address, prescreen, about:config content with adjusted settings and list of installed plug-ins.
+
+
+&lt;acronym title=&#34;&#34;&gt;&lt;strong&gt;About product, cooperation and support&lt;/strong&gt;&lt;/acronym&gt;
+
+Plugin is available for up to 8 language versions: English, Russian, German, French, Polish, Italian, Portuguese, Spanish.
+
+Plugin is distributed free of charge for everyone.
+
+To receive BG values queries are sent to correspondent sources of these data (Google, Dmoz, Liveinternet, Bing, Web Arch and others)
+
+The use of this software product means your agreement with application rules (licenses) of search systems, queries you make by means of this software. 
+Attention! If breaking the rules penalties are possible from the site of search systems in form of captchas or temporary restriction of access.
+
+Flash and video instruction of plug-in application are put here: &lt;a href=&#34;http://outgoing.mozilla.org/v1/0634c311fe153a2b9d2ee14aedea739ccc3468d41f72f3f9ac87c5d2b7333a5e/http%3A//www.recipdonor.com/bar&#34; rel=&#34;nofollow&#34;&gt;http://www.recipdonor.com/bar&lt;/a&gt;
+
+It is also possible to improve current plug-in for your tasks: adding of options most important to you, creation of fast links. Plug-in creation for your websites, plug-ins that optimize the work in Sape.
+
+We offer a cooperation to companies and projects that work on the market of search optimization. And we hope to be useful for each other.
+
+Send your questions and suggestions to  support@recipdonor.com  or &lt;a href=&#34;http://outgoing.mozilla.org/v1/510524ad7b988d32a758839cb6a6e2b3f127643615bb49e3435bd74ab48fcfc2/http%3A//www.recipdonor.com/barfeedback&#34; rel=&#34;nofollow&#34;&gt;http://www.recipdonor.com/barfeedback&lt;/a&gt;
+Follow us to &lt;a href=&#34;http://outgoing.mozilla.org/v1/9810f85b8df12659f10e1ccd2bef5c1a955236af2c4b007879cdd72000e7ba58/http%3A//twitter.com/recipdonor&#34; rel=&#34;nofollow&#34;&gt;http://twitter.com/recipdonor&lt;/a&gt;</description>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/14/14581-64.png?modified=1367428149</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/14/14581-32.png?modified=1367428149</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>14.0</min_version>
+      <max_version>31.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="image/png" width="200" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/full/40/40467.png?src=api&amp;modified=1367427735
+      </full>
+      <thumbnail type="image/png" width="200" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/40/40467.png?src=api&amp;modified=1367427735
+      </thumbnail></preview><preview position="1">
+      <full type="image/png" width="322" height="211">
+        https://addons.cdn.mozilla.net/user-media/previews/full/40/40536.png?src=api&amp;modified=1367427735
+      </full>
+      <thumbnail type="image/png" width="200" height="131">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/40/40536.png?src=api&amp;modified=1367427735
+      </thumbnail></preview><preview position="2">
+      <full type="image/png" width="617" height="268">
+        https://addons.cdn.mozilla.net/user-media/previews/full/40/40538.png?src=api&amp;modified=1367427735
+      </full>
+      <thumbnail type="image/png" width="200" height="86">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/40/40538.png?src=api&amp;modified=1367427735
+      </thumbnail></preview><preview position="3">
+      <full type="image/png" width="694" height="428">
+        https://addons.cdn.mozilla.net/user-media/previews/full/43/43959.png?src=api&amp;modified=1367427735
+      </full>
+      <thumbnail type="image/png" width="200" height="123">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/43/43959.png?src=api&amp;modified=1367427735
+      </thumbnail></preview><preview position="4">
+      <full type="image/png" width="679" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/43/43960.png?src=api&amp;modified=1367427735
+      </full>
+      <thumbnail type="image/png" width="194" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/43/43960.png?src=api&amp;modified=1367427735
+      </thumbnail></preview><preview position="5">
+      <full type="image/png" width="568" height="392">
+        https://addons.cdn.mozilla.net/user-media/previews/full/43/43961.png?src=api&amp;modified=1367427735
+      </full>
+      <thumbnail type="image/png" width="200" height="138">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/43/43961.png?src=api&amp;modified=1367427735
+      </thumbnail></preview><preview position="6">
+      <full type="image/png" width="394" height="235">
+        https://addons.cdn.mozilla.net/user-media/previews/full/43/43962.png?src=api&amp;modified=1367427735
+      </full>
+      <thumbnail type="image/png" width="200" height="119">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/43/43962.png?src=api&amp;modified=1367427735
+      </thumbnail></preview><preview position="7">
+      <full type="image/png" width="669" height="53">
+        https://addons.cdn.mozilla.net/user-media/previews/full/44/44803.png?src=api&amp;modified=1367427735
+      </full>
+      <thumbnail type="image/png" width="200" height="15">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/44/44803.png?src=api&amp;modified=1367427735
+      </thumbnail></preview><preview position="8">
+      <full type="image/png" width="252" height="234">
+        https://addons.cdn.mozilla.net/user-media/previews/full/44/44804.png?src=api&amp;modified=1367427735
+      </full>
+      <thumbnail type="image/png" width="161" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/44/44804.png?src=api&amp;modified=1367427735
+      </thumbnail></preview><preview position="9">
+      <full type="image/png" width="451" height="321">
+        https://addons.cdn.mozilla.net/user-media/previews/full/44/44805.png?src=api&amp;modified=1367427735
+      </full>
+      <thumbnail type="image/png" width="200" height="142">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/44/44805.png?src=api&amp;modified=1367427735
+      </thumbnail></preview><preview position="10">
+      <full type="image/png" width="620" height="490">
+        https://addons.cdn.mozilla.net/user-media/previews/full/45/45856.png?src=api&amp;modified=1367427735
+      </full>
+      <thumbnail type="image/png" width="189" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/45/45856.png?src=api&amp;modified=1367427735
+      </thumbnail></preview><preview position="11">
+      <full type="image/png" width="700" height="373">
+        https://addons.cdn.mozilla.net/user-media/previews/full/45/45857.png?src=api&amp;modified=1367427735
+      </full>
+      <thumbnail type="image/png" width="200" height="106">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/45/45857.png?src=api&amp;modified=1367427735
+      </thumbnail></preview><preview position="12">
+      <full type="image/png" width="605" height="248">
+        https://addons.cdn.mozilla.net/user-media/previews/full/47/47698.png?src=api&amp;modified=1367427735
+      </full>
+      <thumbnail type="image/png" width="200" height="81">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/47/47698.png?src=api&amp;modified=1367427735
+      </thumbnail></preview><preview position="13">
+      <full type="image/png" width="435" height="311">
+        https://addons.cdn.mozilla.net/user-media/previews/full/48/48125.png?src=api&amp;modified=1367427736
+      </full>
+      <thumbnail type="image/png" width="200" height="142">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/48/48125.png?src=api&amp;modified=1367427736
+      </thumbnail></preview><preview position="14">
+      <full type="image/png" width="451" height="229">
+        https://addons.cdn.mozilla.net/user-media/previews/full/48/48126.png?src=api&amp;modified=1367427736
+      </full>
+      <thumbnail type="image/png" width="200" height="101">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/48/48126.png?src=api&amp;modified=1367427736
+      </thumbnail></preview><preview position="15">
+      <full type="image/png" width="516" height="200">
+        https://addons.cdn.mozilla.net/user-media/previews/full/48/48737.png?src=api&amp;modified=1367427736
+      </full>
+      <thumbnail type="image/png" width="200" height="77">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/48/48737.png?src=api&amp;modified=1367427736
+      </thumbnail></preview><preview position="16">
+      <full type="image/png" width="380" height="253">
+        https://addons.cdn.mozilla.net/user-media/previews/full/48/48738.png?src=api&amp;modified=1367427736
+      </full>
+      <thumbnail type="image/png" width="200" height="133">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/48/48738.png?src=api&amp;modified=1367427736
+      </thumbnail></preview><preview position="17">
+      <full type="image/png" width="700" height="374">
+        https://addons.cdn.mozilla.net/user-media/previews/full/48/48739.png?src=api&amp;modified=1367427736
+      </full>
+      <thumbnail type="image/png" width="200" height="106">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/48/48739.png?src=api&amp;modified=1367427736
+      </thumbnail></preview><preview position="18">
+      <full type="image/png" width="532" height="514">
+        https://addons.cdn.mozilla.net/user-media/previews/full/50/50628.png?src=api&amp;modified=1367427736
+      </full>
+      <thumbnail type="image/png" width="155" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/50/50628.png?src=api&amp;modified=1367427736
+      </thumbnail></preview><preview position="19">
+      <full type="image/png" width="700" height="423">
+        https://addons.cdn.mozilla.net/user-media/previews/full/51/51991.png?src=api&amp;modified=1367427736
+      </full>
+      <thumbnail type="image/png" width="200" height="121">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/51/51991.png?src=api&amp;modified=1367427736
+      </thumbnail></preview><preview position="20">
+      <full type="image/png" width="548" height="442">
+        https://addons.cdn.mozilla.net/user-media/previews/full/52/52143.png?src=api&amp;modified=1367427736
+      </full>
+      <thumbnail type="image/png" width="185" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/52/52143.png?src=api&amp;modified=1367427736
+      </thumbnail></preview><preview position="21">
+      <full type="" width="700" height="418">
+        https://addons.cdn.mozilla.net/user-media/previews/full/61/61531.png?src=api&amp;modified=1367427736
+      </full>
+      <thumbnail type="" width="200" height="119">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/61/61531.png?src=api&amp;modified=1367427736
+      </thumbnail></preview><preview position="22">
+      <full type="" width="617" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/55/55565.png?src=api&amp;modified=1367427736
+      </full>
+      <thumbnail type="" width="176" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/55/55565.png?src=api&amp;modified=1367427736
+      </thumbnail></preview><preview position="23">
+      <full type="" width="700" height="320">
+        https://addons.cdn.mozilla.net/user-media/previews/full/55/55566.png?src=api&amp;modified=1367427736
+      </full>
+      <thumbnail type="" width="200" height="91">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/55/55566.png?src=api&amp;modified=1367427736
+      </thumbnail></preview><preview position="24">
+      <full type="" width="700" height="520">
+        https://addons.cdn.mozilla.net/user-media/previews/full/56/56252.png?src=api&amp;modified=1367427736
+      </full>
+      <thumbnail type="" width="200" height="148">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/56/56252.png?src=api&amp;modified=1367427736
+      </thumbnail></preview><preview position="25">
+      <full type="" width="700" height="483">
+        https://addons.cdn.mozilla.net/user-media/previews/full/56/56253.png?src=api&amp;modified=1367427736
+      </full>
+      <thumbnail type="" width="200" height="138">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/56/56253.png?src=api&amp;modified=1367427736
+      </thumbnail></preview><preview position="26">
+      <full type="" width="700" height="455">
+        https://addons.cdn.mozilla.net/user-media/previews/full/59/59365.png?src=api&amp;modified=1367427736
+      </full>
+      <thumbnail type="" width="200" height="130">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/59/59365.png?src=api&amp;modified=1367427736
+      </thumbnail></preview><preview position="27">
+      <full type="" width="550" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/59/59367.png?src=api&amp;modified=1367427736
+      </full>
+      <thumbnail type="" width="157" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/59/59367.png?src=api&amp;modified=1367427736
+      </thumbnail></preview><preview position="28">
+      <full type="" width="488" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/63/63798.png?src=api&amp;modified=1367427736
+      </full>
+      <thumbnail type="" width="139" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/63/63798.png?src=api&amp;modified=1367427736
+      </thumbnail></preview><preview position="29">
+      <full type="" width="488" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/63/63800.png?src=api&amp;modified=1367427736
+      </full>
+      <thumbnail type="" width="139" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/63/63800.png?src=api&amp;modified=1367427736
+      </thumbnail></preview><preview position="30">
+      <full type="" width="489" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/65/65113.png?src=api&amp;modified=1367427736
+      </full>
+      <thumbnail type="" width="139" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/65/65113.png?src=api&amp;modified=1367427736
+      </thumbnail></preview><preview position="31">
+      <full type="" width="700" height="446">
+        https://addons.cdn.mozilla.net/user-media/previews/full/65/65114.png?src=api&amp;modified=1367427736
+      </full>
+      <thumbnail type="" width="200" height="127">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/65/65114.png?src=api&amp;modified=1367427736
+      </thumbnail></preview><preview position="32">
+      <full type="" width="569" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/65/65116.png?src=api&amp;modified=1367427736
+      </full>
+      <thumbnail type="" width="162" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/65/65116.png?src=api&amp;modified=1367427736
+      </thumbnail></preview><preview position="33">
+      <full type="" width="700" height="464">
+        https://addons.cdn.mozilla.net/user-media/previews/full/65/65502.png?src=api&amp;modified=1367427736
+      </full>
+      <thumbnail type="" width="200" height="132">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/65/65502.png?src=api&amp;modified=1367427736
+      </thumbnail></preview><preview position="34">
+      <full type="" width="700" height="521">
+        https://addons.cdn.mozilla.net/user-media/previews/full/65/65503.png?src=api&amp;modified=1367427736
+      </full>
+      <thumbnail type="" width="200" height="149">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/65/65503.png?src=api&amp;modified=1367427736
+      </thumbnail></preview><preview position="35">
+      <full type="" width="621" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/65/65504.png?src=api&amp;modified=1367427736
+      </full>
+      <thumbnail type="" width="177" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/65/65504.png?src=api&amp;modified=1367427736
+      </thumbnail></preview><preview position="36">
+      <full type="" width="699" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/65/65506.png?src=api&amp;modified=1367427736
+      </full>
+      <thumbnail type="" width="199" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/65/65506.png?src=api&amp;modified=1367427736
+      </thumbnail></preview><preview position="37">
+      <full type="" width="700" height="455">
+        https://addons.cdn.mozilla.net/user-media/previews/full/66/66649.png?src=api&amp;modified=1367427736
+      </full>
+      <thumbnail type="" width="200" height="130">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/66/66649.png?src=api&amp;modified=1367427736
+      </thumbnail></preview><preview position="38">
+      <full type="" width="700" height="471">
+        https://addons.cdn.mozilla.net/user-media/previews/full/66/66650.png?src=api&amp;modified=1367427736
+      </full>
+      <thumbnail type="" width="200" height="134">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/66/66650.png?src=api&amp;modified=1367427736
+      </thumbnail></preview><preview position="39">
+      <full type="" width="700" height="470">
+        https://addons.cdn.mozilla.net/user-media/previews/full/66/66651.png?src=api&amp;modified=1367427736
+      </full>
+      <thumbnail type="" width="200" height="134">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/66/66651.png?src=api&amp;modified=1367427736
+      </thumbnail></preview><preview position="40">
+      <full type="" width="617" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/66/66782.png?src=api&amp;modified=1367427736
+      </full>
+      <thumbnail type="" width="176" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/66/66782.png?src=api&amp;modified=1367427736
+      </thumbnail></preview><preview position="41">
+      <full type="" width="700" height="362">
+        https://addons.cdn.mozilla.net/user-media/previews/full/67/67997.png?src=api&amp;modified=1367427736
+      </full>
+      <thumbnail type="" width="200" height="103">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/67/67997.png?src=api&amp;modified=1367427736
+      </thumbnail></preview><preview position="42">
+      <full type="" width="699" height="480">
+        https://addons.cdn.mozilla.net/user-media/previews/full/67/67998.png?src=api&amp;modified=1367427736
+      </full>
+      <thumbnail type="" width="200" height="137">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/67/67998.png?src=api&amp;modified=1367427736
+      </thumbnail></preview><preview position="43">
+      <full type="" width="525" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/67/67999.png?src=api&amp;modified=1367427736
+      </full>
+      <thumbnail type="" width="150" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/67/67999.png?src=api&amp;modified=1367427736
+      </thumbnail></preview><preview position="44">
+      <full type="" width="700" height="326">
+        https://addons.cdn.mozilla.net/user-media/previews/full/71/71161.png?src=api&amp;modified=1367427736
+      </full>
+      <thumbnail type="" width="200" height="93">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/71/71161.png?src=api&amp;modified=1367427736
+      </thumbnail><caption>Daily Unique Visitors (cookies) according to Google AdPlanner</caption></preview><preview position="45">
+      <full type="" width="700" height="253">
+        https://addons.cdn.mozilla.net/user-media/previews/full/71/71164.png?src=api&amp;modified=1367427736
+      </full>
+      <thumbnail type="" width="200" height="72">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/71/71164.png?src=api&amp;modified=1367427736
+      </thumbnail></preview><preview position="46">
+      <full type="" width="700" height="346">
+        https://addons.cdn.mozilla.net/user-media/previews/full/71/71165.png?src=api&amp;modified=1367427736
+      </full>
+      <thumbnail type="" width="200" height="98">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/71/71165.png?src=api&amp;modified=1367427736
+      </thumbnail></preview><preview position="47">
+      <full type="" width="700" height="497">
+        https://addons.cdn.mozilla.net/user-media/previews/full/71/71157.png?src=api&amp;modified=1367427736
+      </full>
+      <thumbnail type="" width="200" height="142">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/71/71157.png?src=api&amp;modified=1367427736
+      </thumbnail><caption>How to change language.</caption></preview><preview position="48">
+      <full type="" width="346" height="512">
+        https://addons.cdn.mozilla.net/user-media/previews/full/71/71156.png?src=api&amp;modified=1367427736
+      </full>
+      <thumbnail type="" width="101" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/71/71156.png?src=api&amp;modified=1367427736
+      </thumbnail><caption>Options - Parameters.</caption></preview><preview position="49">
+      <full type="" width="700" height="209">
+        https://addons.cdn.mozilla.net/user-media/previews/full/71/71159.png?src=api&amp;modified=1367427737
+      </full>
+      <thumbnail type="" width="200" height="59">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/71/71159.png?src=api&amp;modified=1367427737
+      </thumbnail><caption>Enlarged mode. Tips and short description.</caption></preview><preview position="50">
+      <full type="" width="669" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/71/71160.png?src=api&amp;modified=1367427737
+      </full>
+      <thumbnail type="" width="191" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/71/71160.png?src=api&amp;modified=1367427737
+      </thumbnail><caption>Check by button mode</caption></preview><preview position="51">
+      <full type="" width="700" height="445">
+        https://addons.cdn.mozilla.net/user-media/previews/full/76/76205.png?src=api&amp;modified=1367427737
+      </full>
+      <thumbnail type="" width="200" height="127">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/76/76205.png?src=api&amp;modified=1367427737
+      </thumbnail></preview><preview position="52">
+      <full type="" width="700" height="472">
+        https://addons.cdn.mozilla.net/user-media/previews/full/76/76207.png?src=api&amp;modified=1367427737
+      </full>
+      <thumbnail type="" width="200" height="135">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/76/76207.png?src=api&amp;modified=1367427737
+      </thumbnail></preview><preview position="53">
+      <full type="" width="700" height="414">
+        https://addons.cdn.mozilla.net/user-media/previews/full/98/98388.png?src=api&amp;modified=1367452941
+      </full>
+      <thumbnail type="" width="200" height="118">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/98/98388.png?src=api&amp;modified=1367452941
+      </thumbnail></preview></previews><rating>4</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/rds-bar/?src=api</learnmore><install hash="sha256:98feabaf23081100713dc91e714b3d4a86eed4f028520dfa6d50b3d2192f0a35"
+    os="ALL"
+    size="2421840">https://addons.mozilla.org/firefox/downloads/file/264738/rds_bar_seo_pr_dmoz_alexa_seomoz-4.1.20140627-fx.xpi?src=api</install>
+  <developer_comments></developer_comments>
+    <reviews num="33">
+      https://addons.mozilla.org/en-US/firefox/addon/rds-bar/reviews/?src=api
+    </reviews>
+    <total_downloads>348428</total_downloads>
+    <weekly_downloads>276</weekly_downloads>
+    <daily_users>24737</daily_users>
+    <created epoch="1254238274">
+      2009-09-29T15:31:14Z
+    </created>
+    <last_updated epoch="1406758345">
+      2014-07-30T22:12:25Z
+    </last_updated>
+    <homepage>http://www.recipdonor.com/bar</homepage>
+    <support>http://www.recipdonor.com/bar</support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="464645">
+  <name>SEO Site Tools, Site Analysis</name>
+  <type id="1">Extension</type>
+  <guid>{e30e9060-21d5-11e3-8224-0800200c9a66}</guid>
+  <slug>seo-site-tools-analysis</slug>
+  <version>1.2.2</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="10281516">
+      <name>SEO Site Tools Team</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/sitexy/?src=api</link>
+    </author>      </authors>
+  <summary>Shows Google PageRank of the current page. More features including IP Geolocation, Domain Whois, SEO Stats, Pages Indexed, Backlinks, Alexa Rank, Social Analysis and many other SEO Tools.</summary>
+  <description>SEO Site Tools for Firefox shows Google PageRank of the current page. More features including IP Geolocation, Domain Whois, SEO Stats, Pages Indexed, Backlinks, Alexa Rank, Social Analysis and many other SEO Tools.
+
+One-click SEO extension for Firefox. Display Google PageRank of the current page, quick access to site SEO analysis.
+
+&lt;strong&gt;Features:&lt;/strong&gt;
+&lt;ul&gt;&lt;li&gt; - Google PageRank&lt;/li&gt;&lt;li&gt; - Alexa Rank&lt;/li&gt;&lt;li&gt; - Compete Rank&lt;/li&gt;&lt;li&gt; - Domain Whois Lookup&lt;/li&gt;&lt;li&gt; - Server Ip Geolocation&lt;/li&gt;&lt;li&gt; - Page Cache in Google&lt;/li&gt;&lt;li&gt; - Indexed Pages in Google, Yahoo, Bing, Baidu&lt;/li&gt;&lt;li&gt; - Backlinks in Google, Yahoo, Bing, Alexa&lt;/li&gt;&lt;li&gt; - Traffic Graph&lt;/li&gt;&lt;li&gt; - DNS Information&lt;/li&gt;&lt;li&gt; - Robots.txt and Sitemap.xml detect&lt;/li&gt;&lt;li&gt; - Social Shares in Twitter, Facebook, Google Plus, Delicious and StumbleUpon&lt;/li&gt;&lt;li&gt; - SEO Tools including IP Lookup, My IP, DNS Lookup, Keyword Density Detect, HTTP Header, HTTP Meta, Gzip Detect, Open Multiple Links...&lt;/li&gt;&lt;/ul&gt;
+Miscellaneous
+If you like this extension, please give it 5 star, thank you!
+
+Please visit &lt;a href=&#34;http://outgoing.mozilla.org/v1/05baa12ec92b28b6f73927d3c8049b9341d02ccd8dc46112b1abdc987927fd50/http%3A//www.sitexy.com/&#34; rel=&#34;nofollow&#34;&gt;http://www.sitexy.com/&lt;/a&gt; for more information.</description>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/464/464645-64.png?modified=1384561227</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/464/464645-32.png?modified=1384561227</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>18.0</min_version>
+      <max_version>33.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="" width="582" height="396">
+        https://addons.cdn.mozilla.net/user-media/previews/full/113/113708.png?src=api&amp;modified=1379949387
+      </full>
+      <thumbnail type="" width="200" height="136">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/113/113708.png?src=api&amp;modified=1379949387
+      </thumbnail><caption>SEO Stats</caption></preview><preview position="1">
+      <full type="" width="582" height="392">
+        https://addons.cdn.mozilla.net/user-media/previews/full/113/113709.png?src=api&amp;modified=1379949387
+      </full>
+      <thumbnail type="" width="200" height="135">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/113/113709.png?src=api&amp;modified=1379949387
+      </thumbnail><caption>Traffic Rank</caption></preview><preview position="2">
+      <full type="" width="590" height="397">
+        https://addons.cdn.mozilla.net/user-media/previews/full/113/113710.png?src=api&amp;modified=1379949387
+      </full>
+      <thumbnail type="" width="200" height="135">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/113/113710.png?src=api&amp;modified=1379949387
+      </thumbnail><caption>Site Information</caption></preview><preview position="3">
+      <full type="" width="590" height="401">
+        https://addons.cdn.mozilla.net/user-media/previews/full/113/113711.png?src=api&amp;modified=1379949387
+      </full>
+      <thumbnail type="" width="200" height="136">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/113/113711.png?src=api&amp;modified=1379949387
+      </thumbnail><caption>SEO Tools</caption></preview></previews><rating>5</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/seo-site-tools-analysis/?src=api</learnmore><install hash="sha256:4cd433c4b3c2310569fd4761664560613f035e5ad507d7ebeb3bb00c4e5c5387"
+    os="ALL"
+    size="281248">https://addons.mozilla.org/firefox/downloads/file/234021/seo_site_tools_site_analysis-1.2.2-fx.xpi?src=api</install>
+  <developer_comments></developer_comments>
+    <reviews num="4">
+      https://addons.mozilla.org/en-US/firefox/addon/seo-site-tools-analysis/reviews/?src=api
+    </reviews>
+    <total_downloads>36441</total_downloads>
+    <weekly_downloads>137</weekly_downloads>
+    <daily_users>6619</daily_users>
+    <created epoch="1379668959">
+      2013-09-20T09:22:39Z
+    </created>
+    <last_updated epoch="1385408995">
+      2013-11-25T19:49:55Z
+    </last_updated>
+    <homepage>http://www.sitexy.com/</homepage>
+    <support>http://www.sitexy.com/</support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="49038">
+  <name>SEO Profesional Toolbar</name>
+  <type id="1">Extension</type>
+  <guid>seo@profesional</guid>
+  <slug>seo-profesional-toolbar</slug>
+  <version>1.4.3</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="1863473">
+      <name>Miroslav Stibůrek</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/miroslav-stib%C5%AFrek/?src=api</link>
+    </author><author id="2006626">
+      <name>Petr Blahoš</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/petr-blaho%C5%A1/?src=api</link>
+    </author>      </authors>
+  <summary>SEO Profesional Toolbar offers many SEO-related tools in one place. Display PageRank, S-Rank and the number of backlinks for visited pages. Stores the history of ranks for selected sites. Highlight words, links, view number of words and more.</summary>
+  <description>History of ranks and back-links is stored in a database, therefore you may watch how your pages evolve in time. All equipped with beautiful colorful charts. You can view observed domains in the sidebar and check their ranks without even visiting them. 
+
+The extension also includes a customizable list of handy SEO-related links.
+
+All this is packed together with a search tool for enumerating and highlighting words, and different types of links.
+
+</description><license>
+    <name>Custom License</name>
+    <url>https://addons.mozilla.org/en-US/firefox/addon/seo-profesional-toolbar/license/1.4.3</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/49/49038-64.png?modified=1324932664</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/49/49038-32.png?modified=1324932664</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>20.0</min_version>
+      <max_version>33.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="image/png">
+        https://addons.cdn.mozilla.net/user-media/previews/full/38/38896.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/38/38896.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>SEOProfesional Toolbar&#39;s chart and sidebar.</caption></preview><preview position="1">
+      <full type="image/png" width="700" height="479">
+        https://addons.cdn.mozilla.net/user-media/previews/full/38/38892.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="200" height="136">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/38/38892.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>SEOProfesional Toolbar&#39;s chart and sidebar.</caption></preview></previews><rating>4</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/seo-profesional-toolbar/?src=api</learnmore><install hash="sha256:63016a9d8ee0b500c8817c6aa683336c3f453dce488d3c86a80eaa7569e89fa2"
+    os="ALL"
+    size="174996">https://addons.mozilla.org/firefox/downloads/file/262858/seo_profesional_toolbar-1.4.3-fx.xpi?src=api</install>
+  <developer_comments></developer_comments>
+    <reviews num="5">
+      https://addons.mozilla.org/en-US/firefox/addon/seo-profesional-toolbar/reviews/?src=api
+    </reviews>
+    <total_downloads>77326</total_downloads>
+    <weekly_downloads>14</weekly_downloads>
+    <daily_users>3046</daily_users>
+    <created epoch="1258052417">
+      2009-11-12T19:00:17Z
+    </created>
+    <last_updated epoch="1402970879">
+      2014-06-17T02:07:59Z
+    </last_updated>
+    <homepage>http://www.seo-profesional.cz/toolbar-en/</homepage>
+    <support></support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="295642">
+  <name>Seo&amp;Sem</name>
+  <type id="1">Extension</type>
+  <guid>seotoolbar@seo-sem.com</guid>
+  <slug>seosem</slug>
+  <version>2.4</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="5352936">
+      <name>seosem.com</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/seosemcom/?src=api</link>
+    </author>      </authors>
+  <summary>SEO toolbar – addon for instant analysis of the site parameters.</summary>
+  <description>&lt;strong&gt;SEO toolbar Features:&lt;/strong&gt;
+- Plug-in is provided for free use. The code is open.
+- The process of the results receiving manages in the background. SEO toolbar sends requests to the immediate data sources (Google, Dmoz, Yahoo, Web Arch, Bing, Yandex, etc.)
+- Using this plugin, you automatically agree to the terms of use search engines to which requests you send. Breaking the rules leads to sanctions by the search engines (limited access)
+
+&lt;strong&gt;Toolbar Options:&lt;/strong&gt;
+PR – Google Page Rank and bonding. Page bonding is providing only if Page Rank is more than 0.
+Y pages - number of indexed pages in the Yahoo database
+Y domain - number of domain references in Yahoo
+Y dir - presence of the site in Yahoo directory
+DMOZ – Google determines is the website available in the biggest international website directory Dmoz
+Age – age of the site
+Robots – presence of the robots.txt file in the site root
+Valid - W3C validation
+IP - site IP address, number of other sites share the same IP, location of the current website&#39;s server.
+Alexa - Alexa rank
+YC - Yandex TYC
+Y.Cat - presence of the site in Yandex directory</description><license>
+    <name>License</name>
+    <url>http://www.mozilla.org/MPL/MPL-1.1.html</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/295/295642-64.png?modified=1327320904</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/295/295642-32.png?modified=1327320904</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>3.6</min_version>
+      <max_version>33.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="" width="700" height="307">
+        https://addons.cdn.mozilla.net/user-media/previews/full/55/55237.png?src=api&amp;modified=1310128713
+      </full>
+      <thumbnail type="" width="200" height="87">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/55/55237.png?src=api&amp;modified=1310128713
+      </thumbnail></preview><preview position="1">
+      <full type="" width="497" height="295">
+        https://addons.cdn.mozilla.net/user-media/previews/full/60/60242.png?src=api&amp;modified=1310128718
+      </full>
+      <thumbnail type="" width="200" height="118">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/60/60242.png?src=api&amp;modified=1310128718
+      </thumbnail></preview></previews><rating>2</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/seosem/?src=api</learnmore><install hash="sha256:bcad1ac71607ac144bd864d70d5431c2b816f8fa6029f48e65185fd2861065e5"
+    os="ALL"
+    size="38912">https://addons.mozilla.org/firefox/downloads/file/142220/seosem-2.4-sm.xpi?src=api</install>
+  <developer_comments></developer_comments>
+    <reviews num="5">
+      https://addons.mozilla.org/en-US/firefox/addon/seosem/reviews/?src=api
+    </reviews>
+    <total_downloads>21240</total_downloads>
+    <weekly_downloads>15</weekly_downloads>
+    <daily_users>815</daily_users>
+    <created epoch="1300480430">
+      2011-03-18T20:33:50Z
+    </created>
+    <last_updated epoch="1327320886">
+      2012-01-23T12:14:46Z
+    </last_updated>
+    <homepage>http://seosem.com/SEO_Toolbar.htm</homepage>
+    <support>http://seosem.com</support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="337537">
+  <name>SERPTrends SEO Extension</name>
+  <type id="1">Extension</type>
+  <guid>firefox@serptrends.com</guid>
+  <slug>serptrends-seo-extension</slug>
+  <version>0.8.12</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="5905445">
+      <name>SERPTrends</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/SERPTrends/?src=api</link>
+    </author>      </authors>
+  <summary>SEO Extension SERPTrends for Firefox is a lightweight SEO tool which shows dynamics for the search results within the search page: whether the website moved up, down in the SERP, just appeared (is &#34;new&#34;) or hasn&#39;t changed its position.</summary>
+  <description>&lt;strong&gt;SEO Extension SERPTrends&lt;/strong&gt; for Firefox shows whether the website moved up, down in the &lt;abbr title=&#34;SERP = Search Engine Results Page&#34;&gt;SERP&lt;/abbr&gt;, just appeared (is &#34;new&#34;) or hasn&#39;t changed its position. It also shows how many positions the website lost or raised compared to search you performed the previous day.
+
+When you search Google, Yahoo! or Bing with SERPTrends turned on for &lt;strong&gt;the first time&lt;/strong&gt; all positions are marked as &lt;strong&gt;new&lt;/strong&gt;. &lt;strong&gt;The next day&lt;/strong&gt; you will see &lt;strong&gt;dynamics&lt;/strong&gt; for previously performed searches. This addon is useful for SEO &amp;amp; SEM specialists.
+
+Typically addon version on Mozilla site is outdated because of long process of new addon version review. Look for the most stable version on &lt;a href=&#34;http://outgoing.mozilla.org/v1/8f9bcc193c20c37f700bed32d4af2d53a01e0a37/http%3A//www.serptrends.com/&#34; rel=&#34;nofollow&#34;&gt;www.serptrends.com&lt;/a&gt;.
+
+&lt;em&gt;How to use:&lt;/em&gt;
+After installation &lt;strong&gt;SERPTrends SEO Extension&lt;/strong&gt; for Firefox is enabled by default and you will see colorized icon (red and green triangles) in the status bar of your Firefox. Perform Google search to see position numbers and dynamics icons near each result in the &lt;abbr title=&#34;SERP = Search Engine Results Page&#34;&gt;SERP&lt;/abbr&gt;. For the first time all the positions for certain query is marked as new but the next day dynamics appears.  Though addon was created primarily for SEO specialists, any other user can find it useful, since it adds numbers search results and shows which site moved up and is considered more relevant by search engine.</description><license>
+    <name>GNU General Public License, version 3.0</name>
+    <url>http://www.gnu.org/licenses/gpl-3.0.html</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/337/337537-64.png?modified=1372796425</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/337/337537-32.png?modified=1372796425</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>14.0</min_version>
+      <max_version>33.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="" width="600" height="443">
+        https://addons.cdn.mozilla.net/user-media/previews/full/99/99952.png?src=api&amp;modified=1369062995
+      </full>
+      <thumbnail type="" width="200" height="148">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/99/99952.png?src=api&amp;modified=1369062995
+      </thumbnail><caption>Position dynamics and site statistics</caption></preview><preview position="1">
+      <full type="" width="573" height="331">
+        https://addons.cdn.mozilla.net/user-media/previews/full/63/63424.png?src=api&amp;modified=1369062995
+      </full>
+      <thumbnail type="" width="200" height="115">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/63/63424.png?src=api&amp;modified=1369062995
+      </thumbnail><caption>How dynamics works</caption></preview><preview position="2">
+      <full type="" width="183" height="162">
+        https://addons.cdn.mozilla.net/user-media/previews/full/100/100346.png?src=api&amp;modified=1369062995
+      </full>
+      <thumbnail type="" width="169" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/100/100346.png?src=api&amp;modified=1369062995
+      </thumbnail><caption>SERPTrends preferences</caption></preview><preview position="3">
+      <full type="" width="250" height="455">
+        https://addons.cdn.mozilla.net/user-media/previews/full/100/100348.png?src=api&amp;modified=1369062995
+      </full>
+      <thumbnail type="" width="82" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/100/100348.png?src=api&amp;modified=1369062995
+      </thumbnail><caption>SERPTrends SEO parameters</caption></preview><preview position="4">
+      <full type="" width="205" height="146">
+        https://addons.cdn.mozilla.net/user-media/previews/full/63/63372.png?src=api&amp;modified=1369062995
+      </full>
+      <thumbnail type="" width="200" height="142">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/63/63372.png?src=api&amp;modified=1369062995
+      </thumbnail><caption>Statusbar icon</caption></preview></previews><rating>5</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/serptrends-seo-extension/?src=api</learnmore><install hash="sha256:aac113408c77b863749179efe27f6fcd83b105d641c491f501d05aee41595fd1"
+    os="ALL"
+    size="64341">https://addons.mozilla.org/firefox/downloads/file/243346/serptrends_seo_extension-0.8.12-fx.xpi?src=api</install>
+  <developer_comments></developer_comments>
+    <reviews num="2">
+      https://addons.mozilla.org/en-US/firefox/addon/serptrends-seo-extension/reviews/?src=api
+    </reviews>
+    <total_downloads>18060</total_downloads>
+    <weekly_downloads>53</weekly_downloads>
+    <daily_users>2263</daily_users>
+    <created epoch="1317212690">
+      2011-09-28T12:24:50Z
+    </created>
+    <last_updated epoch="1392297324">
+      2014-02-13T13:15:24Z
+    </last_updated>
+    <homepage>http://www.serptrends.com/</homepage>
+    <support></support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="60338">
+  <name>Affilorama SEO Toolbar</name>
+  <type id="1">Extension</type>
+  <guid>{7822cf50-08ee-4915-9872-ee92472df6cb}</guid>
+  <slug>affilorama-seo-toolbar</slug>
+  <version>0.986</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="5129428">
+      <name>affilorama</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/affilorama/?src=api</link>
+    </author>      </authors>
+  <summary>The Affilorama Firefox SEO Toolbar provides you with useful information and data to make the analysis of domains and pages super easy.</summary>
+  <description>The Affilorama &lt;a href=&#34;http://outgoing.mozilla.org/v1/1d7b56b8a578e9db7b5f9da1f0ea5fe8d03b1141/http%3A//www.affilorama.com/seo-toolbar&#34;&gt;Firefox SEO Toolbar&lt;/a&gt; provides you with useful information and data to make the analysis of domains and pages super easy.
+
+Quickly evaluate the ranking of the domain/page with the following data:
+* Google PageRank
+* Alexa Traffic Rank
+* Complete Traffic Rank
+
+SEO Information:
+* Backlinks to the domain registered with Yahoo and Google.
+* Indexing on Yahoo and Google.
+* Review the Onpage details - Title, Meta Keywords, Meta Description and H1, H2 tags on the page.
+
+Link Scanner:
+ * Links to any external domains, so you can rapidly scan a page to get an idea if there is an opportunity to get a backlink to your site or how it links out (grey by default).
+ * No follow links so you can quickly evaluate whether links from this site are no-followed or if a site is &#34;blocking&#34; any links (red by default).
+
+Domain Information:
+ * Check the Whois information on the domain.
+* Read the robots.txt file on the domain.
+ * Check when the domain was created and how old it is.
+* Check if the domain has an XML sitemap, and look at the contents.</description><license>
+    <name>GNU Lesser General Public License, version 3.0</name>
+    <url>http://www.gnu.org/licenses/lgpl-3.0.html</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/60/60338-64.png?modified=1319015043</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/60/60338-32.png?modified=1319015043</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>1.5</min_version>
+      <max_version>13.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="image/png" width="278" height="37">
+        https://addons.cdn.mozilla.net/user-media/previews/full/41/41136.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="200" height="26">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/41/41136.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>Easily view Pagerank, Alexa and Compete traffic rank for every page you visit. </caption></preview><preview position="1">
+      <full type="image/png" width="264" height="146">
+        https://addons.cdn.mozilla.net/user-media/previews/full/41/41137.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="200" height="110">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/41/41137.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>Right-click &#39;a&#39; to analyze a web-page in more detail. </caption></preview><preview position="1">
+      <full type="image/png" width="447" height="105">
+        https://addons.cdn.mozilla.net/user-media/previews/full/41/41138.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="200" height="46">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/41/41138.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>Analyze linking structure of a website. </caption></preview></previews><rating>5</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/affilorama-seo-toolbar/?src=api</learnmore><install hash="sha256:f503f464148f66a045214017ce08a842aa31dc5c44c2b40d73f805780a90e37f"
+    os="ALL"
+    size="83968">https://addons.mozilla.org/firefox/downloads/file/134916/affilorama_seo_toolbar-0.986-fx.xpi?src=api</install>
+  <developer_comments></developer_comments>
+    <reviews num="11">
+      https://addons.mozilla.org/en-US/firefox/addon/affilorama-seo-toolbar/reviews/?src=api
+    </reviews>
+    <total_downloads>34664</total_downloads>
+    <weekly_downloads>9</weekly_downloads>
+    <daily_users>1013</daily_users>
+    <created epoch="1263931114">
+      2010-01-19T19:58:34Z
+    </created>
+    <last_updated epoch="1319015018">
+      2011-10-19T09:03:38Z
+    </last_updated>
+    <homepage>http://www.affilorama.com/seo-toolbar</homepage>
+    <support>http://www.affilorama.com/</support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="372110">
+  <name>Global Notes</name>
+  <type id="1">Extension</type>
+  <guid>globalnotes@point-constructor.com</guid>
+  <slug>global-notes</slug>
+  <version>2.0</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="6183047">
+      <name>Oleg Schildt</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/oschildt/?src=api</link>
+    </author>      </authors>
+  <summary>The add-on Global Notes saves the link of the current page to the Global Notes Backend Server.</summary>
+  <description>The Global Notes are a solution for the centralized storage and accessing of the bookmarks. It has the following key features:
+
+&lt;ul&gt;&lt;li&gt;Quick and easy saving of the link to the current page over the Firefox add-on in the database&lt;/li&gt;&lt;li&gt;Quick search and access to the stored bookmarks over an easy and quick backend interface or over the standard FireFox search field&lt;/li&gt;&lt;/ul&gt;
+The Global Notes consist of two parts:
+
+&lt;ul&gt;&lt;li&gt;A Firefox add-on, which has to be installed into the Firefox.&lt;/li&gt;&lt;li&gt;A Backend WEB application, written on PHP 5.2.x and MySQL 5.x. This application should be downloaded and installed either by your provider or at your own server. The installation is done over a simple wizard and is easy for anybody. &lt;/li&gt;&lt;/ul&gt;
+&lt;b&gt;Download link:&lt;/b&gt;
+ 
+&lt;a href=&#34;http://outgoing.mozilla.org/v1/ca0a098e6d7dbb22ff9d4657021abcd6f6e809e90d743a11b392c43d03de5dbb/http%3A//www.point-constructor.com/en/globalnotes/%23downloads&#34; rel=&#34;nofollow&#34;&gt;http://www.point-constructor.com/en/globalnotes/#downloads&lt;/a&gt;
+
+&lt;b&gt;Saving of a bookmark:&lt;/b&gt;
+
+While surfing, the user does one click to call the edit mask – either over the context menu (right mouse button) or over the hot key [Ctrl+F9]. Then, he does the second click - OK button or the second time [Ctrl+F9] - to store the link and additional information to the backend. The title and the URL are automatically placed in to the edit mask. If the user has selected some text, it is also automatically placed into the edit mask. Optionally, the user can provide some keywords and assign the bookmark to tags.
+
+&lt;b&gt;Searching saved bookmarks:&lt;/b&gt;
+
+The user comes directly to the note list; the search field gets the focus, so that the user can directly type in the search key and press the Enter to find the desired bookmark and click the target link.
+
+The backend WEB application can be added to the standard FireFox search field so that the search of the Global Notes can be initiated directly from the FireFox toolbar. For that, go to the address backend WEB application with the FireFox and open the dropdown list of the search options of the FireFox search field. You should see the option “Add Global Notes”. Click this option. Then, the Global Notes search should be listed among other search options of the standard FireFox search field.</description>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/372/372110-64.png?modified=1402404126</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/372/372110-32.png?modified=1402404126</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>4.0</min_version>
+      <max_version>33.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="" width="685" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/137/137402.png?src=api&amp;modified=1402404127
+      </full>
+      <thumbnail type="" width="196" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/137/137402.png?src=api&amp;modified=1402404127
+      </thumbnail><caption>The bookmark mask is called over the context menu (right mouse button) or over the hot key Ctrl F9. The title, URL and the selected text are automatically placed into the mask.</caption></preview><preview position="1">
+      <full type="" width="685" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/137/137404.png?src=api&amp;modified=1402404127
+      </full>
+      <thumbnail type="" width="196" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/137/137404.png?src=api&amp;modified=1402404127
+      </thumbnail><caption>The bookmarks can be efficiently searched in the personal backend storage.</caption></preview></previews><rating>3</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/global-notes/?src=api</learnmore><install hash="sha256:7d6b539209377245df6aaa3a882d1d23faa67519c14dd1cf9cbbaa8f7531a912"
+    os="ALL"
+    size="19045">https://addons.mozilla.org/firefox/downloads/file/262406/global_notes-2.0-fx.xpi?src=api</install>
+  <developer_comments>&lt;ul&gt;&lt;/ul&gt;
+&lt;b&gt;Why have I developed this solution?&lt;/b&gt;
+
+I was a happy user of the Google Notebook, until the Google has stopped the support of the Google Notebook and the corresponding Firefox add-on. I switched to the Zoho Notebook, but my luck was not long, the Zoho has stopped the support of the Firefox add-on since the version 4 of the Firefox. I tried out some other solutions, but was not lucky with them. All they has bulky, severe and uncomfortable user interface, the user had to do much more actions than necessary, to get result.
+
+The Global Notes let do it as quickly as possible.</developer_comments>
+    <reviews num="1">
+      https://addons.mozilla.org/en-US/firefox/addon/global-notes/reviews/?src=api
+    </reviews>
+    <total_downloads>4762</total_downloads>
+    <weekly_downloads>2</weekly_downloads>
+    <daily_users>97</daily_users>
+    <created epoch="1334738963">
+      2012-04-18T08:49:23Z
+    </created>
+    <last_updated epoch="1402508090">
+      2014-06-11T17:34:50Z
+    </last_updated>
+    <homepage>http://www.point-constructor.com/en/globalnotes/</homepage>
+    <support>http://www.point-constructor.com/en/globalnotes/</support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="284709">
+  <name>WhoLinks2Me.com Domain SEO Analyzer</name>
+  <type id="1">Extension</type>
+  <guid>{C0B2E03C-3CD3-11E0-9588-2B4BE0D72085}</guid>
+  <slug>wholinks2me</slug>
+  <version>0.2</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="5613994">
+      <name>ilnli</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/ilnli/?src=api</link>
+    </author>      </authors>
+  <summary>Displays an icon on Firefox&#39;s status bar, and in right-click drop down menu; On click it will load a Domain SEO report page for the currently visible website. Powered by &lt;a href=&#34;http://outgoing.mozilla.org/v1/f7411b1f49a92af72afb8f265630a8ca75a3bbb2/http%3A//WhoLinks2Me.com&#34; rel=&#34;nofollow&#34;&gt;WhoLinks2Me.com&lt;/a&gt;</summary>
+  <description>An online service that allows you to find inbound links and keywords information about a website.</description><license>
+    <name>GNU General Public License, version 2.0</name>
+    <url>http://www.gnu.org/licenses/gpl-2.0.html</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/284/284709-64.png?modified=1301604966</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/284/284709-32.png?modified=1301604966</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>1.5</min_version>
+      <max_version>33.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="" width="700" height="384">
+        https://addons.cdn.mozilla.net/user-media/previews/full/54/54260.png?src=api&amp;modified=1298232584
+      </full>
+      <thumbnail type="" width="200" height="109">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/54/54260.png?src=api&amp;modified=1298232584
+      </thumbnail><caption>Domain SEO Analyzer.</caption></preview></previews><rating>0</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/wholinks2me/?src=api</learnmore><install hash="sha256:4aaf9e3e76e53d95c91f59404c35113c1cd9a4df96ed2bebccb2aa9aaa6acc62"
+    os="ALL"
+    size="10240">https://addons.mozilla.org/firefox/downloads/file/116082/wholinks2mecom_domain_seo_analyzer-0.2-fx.xpi?src=api</install>
+  <developer_comments></developer_comments>
+    <reviews num="0">
+      https://addons.mozilla.org/en-US/firefox/addon/wholinks2me/reviews/?src=api
+    </reviews>
+    <total_downloads>8963</total_downloads>
+    <weekly_downloads>0</weekly_downloads>
+    <daily_users>224</daily_users>
+    <created epoch="1298194877">
+      2011-02-20T09:41:17Z
+    </created>
+    <last_updated epoch="1301604955">
+      2011-03-31T20:55:55Z
+    </last_updated>
+    <homepage>http://www.wholinks2me.com</homepage>
+    <support></support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="462075">
+  <name>Find That Link by SEO Weather</name>
+  <type id="1">Extension</type>
+  <guid>doublearrowbd@gmail.org</guid>
+  <slug>find-that-link</slug>
+  <version>0.4</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="10106686">
+      <name>Jamie Knop</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/JamieKnop/?src=api</link>
+    </author>      </authors>
+  <summary>Need to find a link on a web page? Find That Link by SEO Weather will find it for you!</summary>
+  <description>Finding a link on page can be a real pain sometimes. So I decided to create this addon-on for Firefox to save time finding a link on a page.
+
+It works in a very similar way to the text search tool that&#39;s already built into Firefox, but instead of searching for text it searches for links.
+
+All you have to do is enter the root domain you want to find e.g. &lt;a href=&#34;http://outgoing.mozilla.org/v1/2141eac2eacda036b00afc30fd0a7e6f24e9bddf402cf4393fe5144f468147e8/http%3A//example.com&#34; rel=&#34;nofollow&#34;&gt;example.com&lt;/a&gt; click next or highlight all and it searches the web page highlighting the link. If it can&#39;t find a link then the text will appear red.</description><license>
+    <name>Mozilla Public License, version 2.0</name>
+    <url>http://www.mozilla.org/MPL/2.0/</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/462/462075-64.png?modified=1385902367</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/462/462075-32.png?modified=1385902367</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>3.0</min_version>
+      <max_version>23.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="" width="529" height="28">
+        https://addons.cdn.mozilla.net/user-media/previews/full/111/111936.png?src=api&amp;modified=1377789010
+      </full>
+      <thumbnail type="" width="200" height="11">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/111/111936.png?src=api&amp;modified=1377789010
+      </thumbnail><caption>Find That Link bar!</caption></preview><preview position="1">
+      <full type="" width="700" height="335">
+        https://addons.cdn.mozilla.net/user-media/previews/full/111/111937.png?src=api&amp;modified=1377789010
+      </full>
+      <thumbnail type="" width="200" height="96">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/111/111937.png?src=api&amp;modified=1377789010
+      </thumbnail><caption>Find That Link found link!</caption></preview><preview position="2">
+      <full type="" width="700" height="335">
+        https://addons.cdn.mozilla.net/user-media/previews/full/111/111938.png?src=api&amp;modified=1377789010
+      </full>
+      <thumbnail type="" width="200" height="96">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/111/111938.png?src=api&amp;modified=1377789010
+      </thumbnail><caption>Find That Link can&#39;t find it!</caption></preview></previews><rating>5</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/find-that-link/?src=api</learnmore><install hash="sha256:47dd2e09149adeff469762f39f1a0213b67f4a855d37c6b9a4b623d00dbc725d"
+    os="ALL"
+    size="30509">https://addons.mozilla.org/firefox/downloads/file/235457/find_that_link_by_seo_weather-0.4-fx.xpi?src=api</install>
+  <contribution_data>
+      <link>https://addons.mozilla.org/en-US/firefox/addon/find-that-link/contribute/?src=api</link>
+                <suggested_amount currency="USD" amount="5.00">
+            $5.00
+          </suggested_amount>
+            <meet_developers>
+        https://addons.mozilla.org/en-US/firefox/addon/find-that-link/developers?src=api
+      </meet_developers>
+    </contribution_data><developer_comments></developer_comments>
+    <reviews num="1">
+      https://addons.mozilla.org/en-US/firefox/addon/find-that-link/reviews/?src=api
+    </reviews>
+    <total_downloads>1130</total_downloads>
+    <weekly_downloads>0</weekly_downloads>
+    <daily_users>90</daily_users>
+    <created epoch="1377782371">
+      2013-08-29T13:19:31Z
+    </created>
+    <last_updated epoch="1385909639">
+      2013-12-01T14:53:59Z
+    </last_updated>
+    <homepage>http://www.seoweather.com/seo-tools/</homepage>
+    <support>http://www.seoweather.com/contact/</support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+    </searchresults>

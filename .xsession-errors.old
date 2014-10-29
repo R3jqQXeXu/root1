@@ -1,0 +1,124 @@
+/etc/gdm3/Xsession: Beginning session setup...
+stdin: is not a tty
+localuser:root being added to access control list
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+GNOME_KEYRING_CONTROL=/root/.cache/keyring-edUSlh
+SSH_AUTH_SOCK=/root/.cache/keyring-edUSlh/ssh
+GNOME_KEYRING_CONTROL=/root/.cache/keyring-edUSlh
+SSH_AUTH_SOCK=/root/.cache/keyring-edUSlh/ssh
+GPG_AGENT_INFO=/root/.cache/keyring-edUSlh/gpg:0:1
+GNOME_KEYRING_CONTROL=/root/.cache/keyring-edUSlh
+SSH_AUTH_SOCK=/root/.cache/keyring-edUSlh/ssh
+GNOME_KEYRING_CONTROL=/root/.cache/keyring-edUSlh
+SSH_AUTH_SOCK=/root/.cache/keyring-edUSlh/ssh
+GPG_AGENT_INFO=/root/.cache/keyring-edUSlh/gpg:0:1
+
+** (gnome-settings-daemon:2924): WARNING **: Failed to connect context: OK
+
+(gnome-panel:2962): Gtk-CRITICAL **: gtk_accelerator_parse_with_keycode: assertion `accelerator != NULL' failed
+
+** (gnome-panel:2962): WARNING **: Unable to parse mouse modifier '(null)'
+
+glibtop: Non-standard uts for running kernel:
+release 3.14-kali1-686-pae=3.14.0 gives version code 200192
+
+ 2884 ?        00:00:00 VBoxClient
+ 2897 ?        00:00:00 VBoxClient
+ 2911 ?        00:00:00 VBoxClient
+ 2892 ?        00:00:00 VBoxClient
+ 2904 ?        00:00:00 VBoxClient
+Initializing tracker-store...
+Tracker-Message: Setting up monitor for changes to config file:'/root/.config/tracker/tracker-store.cfg'
+
+** (gnome-user-share:3073): WARNING **: gnome-user-share cannot be started as root for security reasons.
+Initializing tracker-miner-fs...
+Tracker-Message: Setting up monitor for changes to config file:'/root/.config/tracker/tracker-miner-fs.cfg'
+W: [pulseaudio] main.c: This program is not intended to be run as root (unless --system is specified).
+** Message: applet now removed from the notification area
+
+(gnome-sound-applet:3030): sound-cc-panel-WARNING **: Failed to connect context: OK
+Initializing nautilus-open-terminal extension
+Initializing nautilus-gdu extension
+Starting log:
+  File:'/root/.local/share/tracker/tracker-miner-fs.log'
+Tracker-Message: Setting up monitor for changes to config file:'/root/.config/tracker/tracker-store.cfg'
+Starting log:
+  File:'/root/.local/share/tracker/tracker-store.log'
+
+(gnome-panel:2962): Gtk-CRITICAL **: gtk_accelerator_parse_with_keycode: assertion `accelerator != NULL' failed
+
+** (gnome-panel:2962): WARNING **: Unable to parse mouse modifier '(null)'
+
+
+(gnome-panel:2962): GLib-GObject-WARNING **: /build/buildd-glib2.0_2.33.12+really2.32.4-5-i386-eISom6/glib2.0-2.33.12+really2.32.4/./gobject/gsignal.c:2459: signal `size_request' is invalid for instance `0x8cf02c8'
+** Message: applet now embedded in the notification area
+
+(tracker-miner-fs:3021): Tracker-WARNING **: Couldn't properly parse desktop file 'file:///usr/share/desktop-directories/02-07-nessus.directory': 'Couldn't load desktop file:'/usr/share/desktop-directories/02-07-nessus.directory''
+
+(notification-daemon:3089): Gtk-WARNING **: gtk_widget_size_allocate(): attempt to allocate widget with width -23 and height 27
+
+(nautilus:3086): Nautilus-GDU-WARNING **: unable to query info: The specified location is not supported
+
+
+(gnome-terminal:3522): Gtk-WARNING **: Unknown property: GtkHScale.update-policy
+Window manager warning: Log level 16: Error converting selection
+Window manager warning: Log level 16: Error converting selection
+
+(gnome-settings-daemon:2924): PackageKit-WARNING **: couldn't parse execption 'GDBus.Error:org.gtk.GDBus.UnmappedGError.Quark._pk_5ftransaction_5ferror.Code4: GetDistroUpgrades not supported by backend', please report
+
+(gnome-settings-daemon:2924): updates-plugin-WARNING **: failed to get upgrades: GDBus.Error:org.gtk.GDBus.UnmappedGError.Quark._pk_5ftransaction_5ferror.Code4: GetDistroUpgrades not supported by backend
+Window manager warning: CurrentTime used to choose focus window; focus window may not be correct.
+Window manager warning: Got a request to focus the no_focus_window with a timestamp of 0.  This shouldn't happen!
+[1414554383,000,xklavier.c:xkl_engine_start_listen/] 	The backend does not require manual layout management - but it is provided by the application
+[1414554383,000,gkbd-status.c:gkbd_status_set_current_page_for_group/] 	Page for group 0 is not ready
+[1414554383,000,gkbd-status.c:gkbd_status_set_current_page_for_group/] 	Page for group 0 is not ready
+[1414554383,000,gkbd-status.c:gkbd_status_set_current_page_for_group/] 	Page for group 0 is not ready
+** Message: applet now removed from the notification area
+
+(nautilus:3086): Nautilus-GDU-WARNING **: unable to query info: The specified location is not supported
+
+
+(gdu-notification-daemon:3023): Gdk-WARNING **: gdu-notification-daemon: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(bluetooth-applet:3075): Gdk-WARNING **: bluetooth-applet: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(gnome-sound-applet:3030): Gdk-WARNING **: gnome-sound-applet: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(gnome-fallback-mount-helper:3074): Gdk-WARNING **: gnome-fallback-mount-helper: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(gnome-screensaver:3083): Gdk-WARNING **: gnome-screensaver: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(polkit-gnome-authentication-agent-1:3087): Gdk-WARNING **: polkit-gnome-authentication-agent-1: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(nm-applet:3088): Gdk-WARNING **: nm-applet: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(nautilus:3086): Gdk-WARNING **: nautilus: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
+
+Received signal:15->'Terminated'
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
+
+Received signal:15->'Terminated'
+OK
+
+
+(notification-daemon:3089): Gdk-WARNING **: notification-daemon: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(tracker-miner-fs:3021): GLib-GIO-CRITICAL **: Error while sending AddMatch() message: The connection is closed
+
+(tracker-miner-fs:3021): GLib-GIO-CRITICAL **: Error while sending AddMatch() message: The connection is closed
+
+(tracker-miner-fs:3021): GLib-GIO-CRITICAL **: Error while sending AddMatch() message: The connection is closed
+
+OK
+

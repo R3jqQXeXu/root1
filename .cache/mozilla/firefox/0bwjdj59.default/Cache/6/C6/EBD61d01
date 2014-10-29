@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<searchresults total_results="1">
+                    <addon id="6623">
+  <name>BetterPrivacy</name>
+  <type id="1">Extension</type>
+  <guid>{d40f5e7b-d2cf-4856-b441-cc613eeffbe3}</guid>
+  <slug>betterprivacy</slug>
+  <version>1.68</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="516763">
+      <name>IKRG</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/Netcat/?src=api</link>
+    </author>      </authors>
+  <summary>Remove or manage a new and uncommon kind of cookies, better known as LSO&#39;s.The BetterPrivacy safeguard offers various ways to handle Flash-cookies set by Google, YouTube, Ebay and others... 
+
+Latest updates: See bottom link &#39;version history&#39;!</summary>
+  <description>****************
+- If you have problems or suggestions please do not post it here but send an email
+****************
+
+Better Privacy serves to protect against special longterm cookies, a new generation of &#39;Super-Cookie&#39;, which silently conquered the Internet. This new cookie generation offers unlimited user tracking to industry and market research. Concerning privacy Flash-cookies are most critical.
+This add-on was made to make users aware of those hidden, never expiring objects and to offer an easier way to view and to manage them - since browsers are unable to do that for you.
+ 
+Flash-cookies (Local Shared Objects, LSO) are pieces of information placed on your computer by a Flash plug-in. Those Super-Cookies are placed in central system folders. They are frequently used like standard browser cookies. Although their thread potential is much higher as of conventional cookies, only few users began to take notice of them.
+ 
+BetterPrivacy allows to list and manage Flash-cookies, e.g. to remove those objects automatically on browser start, browser exit or by a configurable timer function while certain desired Flash cookies can be excluded from automatic deletion. So this extension becomes sort of &#34;install and forget add-on&#34;. Usually automatic deletion is safe (no negative impact on your browsing), especially if the deletion timer is activated. The timer can delay automatic deletion for new or modified Flash-cookies which might be in use. It also allows to delete those objects immediately if desired. Users who wish to to manage all Flash-cookies manually can disable the automatic functions or exclude certain Flash-cookies from automatic deletion. 
+
+Some Flash-cookie (LSO) properties in short...
+- they are never expiring - staying on your computer for an unlimited time.
+- by default they offer a storage of 100 KB (compare: Usual cookies 4 KB).
+- browsers are not fully aware of LSO&#39;s, They often cannot be displayed or managed by browsers.
+- via Flash they can access and store highly specific personal and technical information  (system, user name, files,...).
+- ability to send the stored information to the appropriate server, without user&#39;s permission.
+- Flash applications do not need to be visible
+- there is no easy way to tell which Flash-cookie sites are tracking you.
+- shared folders allow cross-browser tracking, LSO&#39;s work in every flash-enabled application
+- the Flash company doesn&#39;t provide a user-friendly way to manage LSO&#39;s, In fact it&#39;s incredible cumbersome.
+- many domains and tracking companies make extensive use of Flash-cookies.
+This kind of cookies is not harmless.
+
+
+
+------------------------- IMPORTANT -------------------------
+IF YOU PERMIT DELETION OF LSO&#39;s, 
+THEN COOKIE-STORED INFORMATION LIKE 
+GAME SETTINGS OR LOGIN DATA (YAHOO SEAL) 
+MIGHT BE LOST! MAKE SURE THAT YOU EXCLUDED 
+IMPORTANT COOKIES FROM DELETION (SEE FAQ)
+
+
+
+Frequently asked questions (FAQ):
+Please scroll to the bottom of the page.
+
+Recommended comprehensive Flash-cookie article (topic: UC Berkeley research report)
+&lt;a href=&#34;http://outgoing.mozilla.org/v1/39e2f856e0ee35fdc2cc8947e595e6f61b7c0d43be631d51123d112a6c14a638/http%3A//www.wired.com/epicenter/2009/08/you-deleted-your-cookies-think-again/&#34; rel=&#34;nofollow&#34;&gt;http://www.wired.com/epicenter/2009/08/you-deleted-your-cookies-think-again/&lt;/a&gt;
+
+Wikipedia LSO information: 
+&lt;a href=&#34;http://outgoing.mozilla.org/v1/240e54498322c88413799c40e2ef514d2a32a0cd76f29ac28bedbd52203c9eb0/http%3A//en.wikipedia.org/wiki/Local_Shared_Object&#34; rel=&#34;nofollow&#34;&gt;http://en.wikipedia.org/wiki/Local_Shared_Object&lt;/a&gt;
+
+See what Google finds:
+&lt;a href=&#34;http://outgoing.mozilla.org/v1/111814feeb080c381db12b968852542c4b0bb5b36a13859f57335ab45508532e/http%3A//google.com/search%3Fq=flash-cookie%2Bsuper-cookie&#34; rel=&#34;nofollow&#34;&gt;http://google.com/search?q=flash-cookie+super-cookie&lt;/a&gt;
+
+
+
+Note:
+NO SUPPORT POSSIBLE HERE! 
+If you have a problem, please send an email so that I can answer. Do not post your questions in reviews (instead see support email here).</description>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/6/6623-64.png?modified=1384503382</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/6/6623-32.png?modified=1384503382</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>3.5</min_version>
+      <max_version>27.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="image/png" width="370" height="370">
+        https://addons.cdn.mozilla.net/user-media/previews/full/18/18819.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="150" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/18/18819.png?src=api&amp;modified=1331247702
+      </thumbnail></preview></previews><rating>5</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/betterprivacy/?src=api</learnmore><install hash="sha256:cbac7dae2efa5da3463911f1612b942dc79dffa90494592c2cbf53ea4fa76838"
+    os="ALL"
+    size="138240">https://addons.mozilla.org/firefox/downloads/file/142049/betterprivacy-1.68-fx.xpi?src=api</install>
+  <developer_comments>FAQ:
+
+Q: I notice that when I go to the Flash Player settings manager site I still get a list of visited pages.
+
+A:  In default configuration BetterPrivacy does *not* delete the  Flash-Player-default cookie. Some users consider the default cookie  as important since it keeps Flash-Player update settings as well as  some camera or microphone settings. The default cookie also keeps a  complete list of all visited LSO pages. However, the stored  data associated with those visited pages will be deleted by  BetterPrivacy though.  
+      As long as the default cookie is kept, Flash-Player&#39;s  settings-manager still shows a complete list of all visited pages,  even if BetterPrivacy deleted all data storing objects.  Go to BetterPrivacy&#39;s options and check &#39;Also delete Flash-Player  default cookie&#39; in order to remove the list of visited pages as well  as the Flash-Player settings.
+
+---------- 
+
+Q: Error-message: Flash application data folder not found!
+
+A: As noted at the beginning, if you do not have a FLASH-plug-in installed, then you do NOT need BetterPrivacy! Only a Flash-plug-in can place LSO&#39;s on your disk. Otherwise make sure that your browser-Flash-plug-in is correctly installed and that it works.
+
+----------
+
+Q: Error-message: BetterPrivacy is searching for your Flash-cookie directory. The search takes longer than expected.
+
+A: In Firefox open BetterPrivacy (Menu-&amp;gt;Tools-&amp;gt;BetterPrivacy) and enter the correct path of your Flash &lt;strong&gt;data&lt;/strong&gt; directory. Depending on your operating system this should be one of the following paths:
+        Windows: %APPDATA%\Macromedia\Flash Player\
+        Macintosh: ~/Library/Preferences/Macromedia/Flash Player/
+        Linux/Unix: ~/.macromedia/Flash_Player/
+
+----------
+
+Q: Flash has a built-in panel to define storage settings, why should I use an add-on?
+Q: What about the &#39;Global Privacy Settings panel&#39; located on a fairly hidden company page?
+
+A: The usual Flash control panel only provides an option to set a storage limit on a per site basis. Thus you would need to define a new limit for every single Flash-site you visit. If you look at many different sites a day you easily end up in wasting your time by defining all those limits. Moreover there exist functional Flash embeds that are not visible - so you would not be aware that you missed to define a limit.
+        A: You can use it to globally deny storage of web site data - but as storage is disabled it might happen that a LSO powered site denies it&#39;s service too. Of course, with global settings you cannot make exceptions. Besides the global LSO there will be stored additional settings LSO&#39;s for every Flash site (so some tracking still remains possible). Also be aware that the global settings LSO does not get deleted. Note that the company could have made this global panel available from the right click menu but they didn&#39;t. All in all you see that the process for managing permissions is practically unusable.
+
+----------
+
+Q: How to find out how many cookies currently are stored on my computer?
+
+A: Go to BetterPrivacy&#39;s options (Firefox tools menu), LSO-manager tab. All currently stored LSOs, if any, are listed there. Note that some sites store their cookies instantly when loading, others not before they are closing.
+
+----------
+
+Q: What might happen if I give permission to delete (some of) my LSOs?
+
+A: It is pretty much the same thing as with usual cookies. In most cases nothing happens. However, to gain all conveniences some services might require you to be tracked. For example they could store some data (e.g. Flash game settings) together with the tracking data itself. They bundle some interesting feature along with tracking data to get you to keep the awful cookie. Read next topic on how to exclude special cookies from deletion.
+
+----------
+
+Q: How to exclude certain LSOs from automatic deletion?
+
+A: Go to BetterPrivacy&#39;s options (Firefox tools menu), LSO-manager tab, select the site/cookie folder you want to exclude and press &#39;Prevent automatic LSO deletion&#39;. Note that you allow tracking with every excluded LSO. Important: Protection means those LSO&#39;s are excluded from BetterPrivacy&#39;s deletion but the owner web site still can delete them as well as any other programs you might have running!
+
+----------
+
+Q: How to select more than one LSO at a time?
+
+A: With BetterPrivacy you do not need to select multiple LSO&#39;s, BetterPrivacy provides a more user-friendly kind of selection: Just highlight those (usually few) LSO&#39;s you wish to exclude from deletion and press the &#34;Prevent automatic LSO deletion&#34; - button for each excluded LSO. Finally press the &#34;Remove all&#34; - button. You will be asked if you wish to delete every LSO &lt;i&gt;or&lt;/i&gt; only those which are not excluded.
+
+----------
+
+Q: What means &amp;lt;settings LSO&amp;gt;, &amp;lt;default LSO&amp;gt;, &amp;lt;local LSO&amp;gt;
+
+A: A settings-LSO does not store any data defined by websites, but about those sites: It can store information which is defined by you - the computer user. Therefore each settings-LSO needs to store the website-URL in order to identify the appropriate pages. The user-defined information can be used to determine how the Flash-player should behave on a certain site (e.g. special site volume or camera settings or rules that describe how to handle LSO&#39;s on the site). Thus it usually is not necessary to delete this kind of LSO. The user-defined data is not accessible by websites. However, if someone has physical access to your computer (e.g. multi-user system) other locally present users could see which Flash-sites have been visited in the past. The default-LSO is a special settings-LSO storing global (default) settings-data, as well as Flash-player-update settings. This LSO also keeps a complete list of all visited Flash-sites. In BetterPrivacy it is excluded from automatic deletion by default, but you can change this behavior in the BetterPrivacy options. A local-LSO is not stored by a website but by Flash-software installed on your computer.
+
+----------
+
+Q: Does BetterPrivacy block any sites or alter any settings of my Firefox installation?
+
+A: No!  BetterPrivacy  never modifies web pages! The add-on does not even know that web sites exist. It just looks in the cookie folder on your hard disk at the end of a Firefox session. For sure, if you confirmed to delete some LSOs it might happen that some previously LSO-stored data, e.g. Flash game settings, are lost: It is as like as with usual cookies! To prevent such data loss, see above (How to exclude...). BetterPrivacy also stores some own preferences using a unique name space, just as every add-on does.
+
+----------
+
+Q: Does every Flash application/video place a cookie on my hard disk?
+
+A: No! There are many Flash applications which store nothing on your computer. Though BetterPrivacy will not affect them in any way.
+
+----------
+
+Q: Is Firefox&#39;s &#39;Delete Private Data&#39; function capable of deleting LSOs?
+
+A: Yes, but only since Firefox version 5 and higher. To delete LSOs, Firefox currently uses the the settings for usual cookies. However, there still is no option to exclude certain  LSOs from deletion or to see which  LSOs have been stored.
+
+----------
+
+Q: Why is it not possible to manage exclusions on a &#39;per site&#39; basis like e.g. Adblock does?
+
+A: Though it is installed as a plug-in, Flash still runs as an external application on your computer. So Flash does not permit to be intercepted on cookie storage and moreover it&#39;s cookies can be accessed only indirectly. Thus an add-on -like BetterPrivacy- can only get limited information, derived from cookies and their folder structure.
+
+----------
+
+Q: Are there other ways to delete those LSOs, not using BetterPrivacy?
+
+A: Yes, for sure! For example...
+        - You could write a short script to do this for you, eg. batch or vbs.
+        - Objection is an alternate Firefox extension capable of acting like BetterPrivacy.
+        - Flash itself provides an option to set a storage limit on a per site basis, but you would need to define a new limit for every Flash-site you visit.
+        -You might also use an external 3rd party application which you would need to install on your computer.
+        - Finally you can delete the LSO&#39;s manually by using a simple file manager. See Wikipedia article, which is mentioned above, for details.
+        - Add-ons like &#39;FlashBlock&#39; do &lt;b&gt;not&lt;/b&gt; block Flash-cookies because they only prevent Flash from being displayed but Flash is still loaded. Also FlashBlock and similar add-ons can be defeated by simple HTML code, see override-flashblock demo here: &lt;a href=&#34;http://outgoing.mozilla.org/v1/c54150bf7f2dcfe46755af15cb154fc56ccaf478/http%3A//nc.ddns.us/Misc/overrideflashblockdemo.htm&#34; rel=&#34;nofollow&#34;&gt; Override Flashblock demonstration&lt;/a&gt;
+
+----------
+
+Q: Why does BetterPrivacy not delete the Asset-cache or Flash folder xyz?
+
+A: BetterPrivacy only deletes privacy related data, that means data that helps to identify the user or computer. Fore sure, data of that kind must also be accessible by web sites. It is a common misunderstanding: The Asset-cache does not store such data.
+
+----------
+
+Q: How  to know what LSOs were generated during the session?
+
+A: Open the LSO manager and click the modified column. Then all LSO&#39;s are  sorted by creation date. You should see the most recent on top.
+
+----------
+
+Q: BetterPrivacy fails to delete LSO&#39;s! Is this a bug?
+
+A: No, probably not, there can be several reasons for this behavior, such as:       
+&lt;ul&gt;&lt;li&gt;In BetterPrivacy the Adobe settings.sol LSO is excluded from deletion by default. If you wish to change that behavior, open BetterPrivacy options and enable the setting &#39;Always delete the Flash-player default cookie&#39;. Though the default LSO stores a list of visited Flash-Pages, it is not necessarily considered as a privacy threat. Web-pages generally have no access to that list. Sites can only see information of LSO&#39;s created and stored by same site.
+        Details: LSO&#39;s with name settings.sol are not created by web-pages but by the Flash application running on your local computer. The Flash application needs the settings.sol file to determine the valid origin of LSO&#39;s created and stored by web-pages. Settings.sol files also store the volume settings you have choosen for a particular web-page. Information other than that is not stored. Thus settings.sol files are no threat and in BetterPrivacy are excluded from deletion by default. However, users who share their computer with other persons, and both are using the same computer profile could be concerned about privacy. Using the same computer and account it is possible to visit the Adobe online Flash manager and to see what Flash-sites the other user recently visited. For this special situation of multi-user computer profiles it is possible to delete the settings.sol files too.&lt;/li&gt;&lt;li&gt;Deleting a LSO does not mean that a Flash application cannot recreate the LSO at any time later or even immediately! Any loaded Flash application is able to recreate LSO&#39;s at any time, regardless of an existing Internet connection, regardless of the Flash application&#39;s visibility or cache status. Even while closing a web-page tab a LSO can be created. BetterPrivacy does not block LSO&#39;s (that&#39;s technically not possible in Firefox since plug-ins are independent applications installed directly on your OS) but this add-on uses the much smarter solution of delayed deletion. This allows LSO-dependent Flash applications to work properly without denying their service while any usable tracking capabilities still are prevented.&lt;/li&gt;       &lt;li&gt;Make sure that you did not accidentally exclude LSO&#39;s from deletion.&lt;/li&gt;        &lt;li&gt;If you quit Firefox while still having web-pages in tabs opened and one one of those pages is capable to store LSOs, it can happen that LSO&#39;s will not be deleted (even if BetterPrivacy is configured to delete all LSO&#39;s when quitting Firefox). This is caused by a technical limitation of the Mozilla browsers: When you quit e.g. Firefox, BetterPrivacy uses the latest possible chance to delete stored LSO&#39;s. However, at that time the web-pages can still be loaded and active, since Firefox sometimes first terminates it&#39;s add-ons before it closes all web-pages. Thus a web-page has a chance to store a LSO after add-ons already have been unloaded by Firefox. In other words, BetterPrivacy cannot detect LSO&#39;s that are stored at a later time as the beginning of Firefox shutdown. This Firefox behavior has been seen for FF version 3.x and certain browser configurations, however the bug might be fixed in future versions.
+        If this is a problem for you, choose one of the following solutions:   Either activate the BetterPrivacy setting to delete LSO&#39;s at Firefox startup, or make sure that all web-pages (at least Flash-pages) have been closed before quitting Firefox or file a Firefox bug (e.g. add-ons terminated earlier than plug-ins and web-pages) at &lt;a href=&#34;http://outgoing.mozilla.org/v1/d63dc6dd4aaf3b5b9f878c861c9f2bc33244fbb4/https%3A//bugzilla.mozilla.org/%5Dhttps%3A//bugzilla.mozilla.org/&#34; rel=&#34;nofollow&#34;&gt;bugzilla.mozilla.org&lt;/a&gt;.&lt;/li&gt;&lt;/ul&gt;
+----------
+
+Q: BetterPrivacy deletes LSO&#39;s though I protected them! Is this a bug?
+
+A: No, probably not, because even if LSO&#39;s have been excluded from automatic deletion in BetterPrivacy, they still can be deleted (this cannot be avoided by an add-on) by any other means at any time for any reason, such as:
+&lt;ul&gt; &lt;li&gt;deletion by the Firefox &#39;Clear Recent History&#39; menu function -or- deletion when quitting Firefox (if the Firefox option &#39;Clear history when Firefox closes&#39; is activated). Firefox versions 5.0 and higher now are natively capable to remove LSOs. However this built-in native functionality still does not allow to exclude certain LSOs from deletion. The Firefox cookie manager also misses to list which LSOs have been stored, though Firefox does not distinguish LSO&#39;s from any usual cookies.  &lt;/li&gt;             &lt;li&gt;deletion by the LSO owner which is the web-site which originally stored the LSO&lt;/li&gt;             &lt;li&gt;deletion by any other software or script installed on your system, e.g. any privacy software or another browser (MSIE, Chrome, etc) that is capable of deleting LSO&#39;s&lt;/li&gt;             &lt;li&gt;deletion by any other Firefox add-on capable of deleting LSO&#39;s &lt;/li&gt;             &lt;li&gt;manual deletion of a LSO with BetterPrivacy or a system file-manager &lt;/li&gt;             &lt;li&gt;possible deletion caused by information loss/corruption in case of a Firefox crash&lt;/li&gt;             &lt;li&gt;deletion if running Firefox with BetterPrivacy on another profile and with other settings&lt;/li&gt;              &lt;li&gt;Some pages delete and re-create LSO&#39;s in different folders on every page (re-)load. In this case please edit the protected folder list and define the parent folder as protected LSO-folder.&lt;/li&gt;      &lt;/ul&gt;
+----------
+
+Q: Where do I get more information about LSO tracking and the involved companies?
+
+A: Visit &lt;a href=&#34;http://outgoing.mozilla.org/v1/79f481d336ae68e06aa977c8971261e6fb05a614/http%3A//blog.privacychoice.org/2010/01/14/nai-on-Flash-cookies-almost-there/&#34; rel=&#34;nofollow&#34; title=&#34;Privacychoice Blog&#34;&gt;Privacychoice Blog&lt;/a&gt; --or-- &lt;a href=&#34;http://outgoing.mozilla.org/v1/748ca67d9099bc931a3ae132e8750dfae7744989/http%3A//papers.ssrn.com/sol3/papers.cfm%3Fabstract_id=1446862&#34; rel=&#34;nofollow&#34; title=&#34;Social Science Research Network&#34;&gt;Social Science Research Network&lt;/a&gt;</developer_comments>
+    <reviews num="394">
+      https://addons.mozilla.org/en-US/firefox/addon/betterprivacy/reviews/?src=api
+    </reviews>
+    <total_downloads>9743700</total_downloads>
+    <weekly_downloads>3328</weekly_downloads>
+    <daily_users>656373</daily_users>
+    <created epoch="1204178169">
+      2008-02-28T05:56:09Z
+    </created>
+    <last_updated epoch="1327109280">
+      2012-01-21T01:28:00Z
+    </last_updated>
+    <homepage></homepage>
+    <support></support>
+    <featured>1</featured>
+        <performance>
+            <application name="fx" version="8.0.1">
+                <platform name="Fedora" version="12 - Constantine">
+          <result type="ts" baseline="479.26" average="484.89"
+                  above_threshold="false" />
+        </platform>        <platform name="MacOSX" version="10.6 (rev4)">
+          <result type="ts" baseline="637.58" average="637.79"
+                  above_threshold="false" />
+        </platform>        <platform name="WINNT" version="6.1">
+          <result type="ts" baseline="548.47" average="562.26"
+                  above_threshold="false" />
+        </platform></application>      <application name="fx" version="6.0.2">
+                <platform name="Fedora" version="12 - Constantine">
+          <result type="ts" baseline="476.21" average="509.0"
+                  above_threshold="false" />
+        </platform>        <platform name="WINNT" version="6.1">
+          <result type="ts" baseline="519.79" average="532.84"
+                  above_threshold="false" />
+        </platform>        <platform name="MacOSX" version="10.6.2">
+          <result type="ts" baseline="654.42" average="669.79"
+                  above_threshold="false" />
+        </platform></application>      <application name="fx" version="7.0.1">
+                <platform name="WINNT" version="6.1">
+          <result type="ts" baseline="547.16" average="546.84"
+                  above_threshold="false" />
+        </platform>        <platform name="Fedora" version="12 - Constantine">
+          <result type="ts" baseline="479.68" average="467.74"
+                  above_threshold="false" />
+        </platform>        <platform name="MacOSX" version="10.6.2 (rev3)">
+          <result type="ts" baseline="667.37" average="655.0"
+                  above_threshold="false" />
+        </platform>        <platform name="MacOSX" version="10.6.2">
+          <result type="ts" baseline="671.16" average="656.74"
+                  above_threshold="false" />
+        </platform></application>      <application name="fx" version="8.0">
+                <platform name="MacOSX" version="10.6 (rev4)">
+          <result type="ts" baseline="624.84" average="640.68"
+                  above_threshold="false" />
+        </platform>        <platform name="WINNT" version="6.1">
+          <result type="ts" baseline="541.58" average="549.16"
+                  above_threshold="false" />
+        </platform>        <platform name="Fedora" version="12 - Constantine">
+          <result type="ts" baseline="477.95" average="477.11"
+                  above_threshold="false" />
+        </platform>        <platform name="MacOSX" version="10.6.2 (rev3)">
+          <result type="ts" baseline="657.21" average="661.32"
+                  above_threshold="false" />
+        </platform></application></performance>
+    </addon>
+
+          <addon_compatibility
+    hosted="true"
+    id="6623">
+    <guid>{d40f5e7b-d2cf-4856-b441-cc613eeffbe3} </guid>
+    <name>BetterPrivacy</name>
+    <version_ranges>
+              <version_range type="incompatible">
+          <min_version>1.67</min_version>
+          <max_version>1.67</max_version>
+          <compatible_applications>
+                          <application>
+                <name>Firefox</name>
+                <application_id>1</application_id>
+                <min_version>10.0a1</min_version>
+                <max_version>*</max_version>
+                <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+              </application>
+                      </compatible_applications>
+        </version_range>
+          </version_ranges>
+</addon_compatibility>
+</searchresults>

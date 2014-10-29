@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<searchresults total_results="2">
+          <addon id="235283">
+  <name>Status-4-Evar</name>
+  <type id="1">Extension</type>
+  <guid>status4evar@caligonstudios.com</guid>
+  <slug>status-4-evar</slug>
+  <version>2014.07.06.05</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="861193">
+      <name>Sparky Bluefang</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/Sparky%20Bluefang/?src=api</link>
+    </author>      </authors>
+  <summary>Status bar widgets and progress indicators for Firefox 4+</summary>
+  <description>In Firefox 4, the status bar was replaced with the &#34;Add-on Bar&#34;, an empty, but customizable, toolbar. While some of the status bar items did find new homes, you may not have like where they ended up. There were also some nice innovations during the development of Firefox 4, such as putting progress/links/status in the location bar, which unfortunately didn&#39;t make it to the final release.
+
+In Firefox 29, Mozilla decided it would rework the UI again, and ended up removing the Add-on Bar as well.
+
+Status-4-Evar aims to bring back the Status Bar / Add-on Bar with the familiar classic status bar items, give you more control over the built-in Firefox features, and provide new alternatives.
+
+The extension provides &#34;&lt;b&gt;Status Text&lt;/b&gt;&#34;, &#34;&lt;b&gt;Progress Meter&lt;/b&gt;&#34;, &#34;&lt;b&gt;Download Status&lt;/b&gt;&#34;, and &#34;&lt;b&gt;Legacy Status Bar&lt;/b&gt;&#34; (Firefox 29+) items. These toolbar items can be moved wherever you want by customizing the toolbars. Behavior of the toolbar items, and other additional settings, can be controlled in the Status-4-Evar preferences.
+
+This extension can also act as a replacement for the Fission extension. There are preferences to show  links, status, and progress in the location bar instead of the toolbar items.
+
+Check out the code! S4E is now on GitHub:
+&lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/d18576ad6500e7f2371f84403f6d19000f963f9ffc7e42bee45c6b6901041db6/https%3A//github.com/SparkyBluefang/S4E&#34;&gt;https://github.com/SparkyBluefang/S4E&lt;/a&gt;
+
+Want to provide a translation? Status-4-Evar can be found on BabelZilla:
+&lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/2f80ffed221a6e9bed8d647733a6b90dcccac8059715667d35a8adf365a304ec/http%3A//www.babelzilla.org/forum/index.php%3Fshowtopic=6532&#34;&gt;http://www.babelzilla.org/forum/index.php?showtopic=6532&lt;/a&gt;
+
+&lt;b&gt;Known Issues&lt;/b&gt;
+&lt;ol&gt;&lt;li&gt;&lt;b&gt;Firefox 4 - 28&lt;/b&gt;: by default, there is a flexible space on the Add-on Bar. When you install S4E, this flexible space gets replaced with the Status Text toolbar item. When you disable/uninstall S4E, this toolbar item obviously goes away. To &#34;fix&#34; the toolbar, all you have to do is customize the toolbar and put a flexible space between the close button and everything else.&lt;/li&gt;&lt;/ol&gt;
+---------------------------------------------
+
+&lt;b&gt;Please do not email me for support/help/bug reports&lt;/b&gt;. I will not respond and will probably just delete it. The preferred way to contact me is to post in the &lt;b&gt;&lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/501e4f4ecec8f4c30e533f911910840ddd4b48bd2be0122a4c6b2d33f015defd/http%3A//forums.mozillazine.org/viewtopic.php%3Ff=48&amp;amp;t=2001965&#34;&gt;official support topic on MozillaZine&lt;/a&gt;&lt;/b&gt; or &lt;b&gt;&lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/d18576ad6500e7f2371f84403f6d19000f963f9ffc7e42bee45c6b6901041db6/https%3A//github.com/SparkyBluefang/S4E&#34;&gt;create an issue on GitHub&lt;/a&gt;&lt;/b&gt;.</description><license>
+    <name>Mozilla Public License, version 2.0</name>
+    <url>http://www.mozilla.org/MPL/2.0/</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/235/235283-64.png?modified=1399424496</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/235/235283-32.png?modified=1399424496</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>24.0</min_version>
+      <max_version>33.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="" width="700" height="509">
+        https://addons.cdn.mozilla.net/user-media/previews/full/55/55260.png?src=api&amp;modified=1313365635
+      </full>
+      <thumbnail type="" width="200" height="145">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/55/55260.png?src=api&amp;modified=1313365635
+      </thumbnail><caption>S4E provides a handful of toolbar items replicating the functionality of the old status bar. But unlike the old status bar, you can move these where ever you want, and there are a number of preferences to control the behavior of each item.</caption></preview><preview position="1">
+      <full type="" width="632" height="42">
+        https://addons.cdn.mozilla.net/user-media/previews/full/55/55261.png?src=api&amp;modified=1313365635
+      </full>
+      <thumbnail type="" width="200" height="13">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/55/55261.png?src=api&amp;modified=1313365635
+      </thumbnail><caption>Toolbar items on the Add-on Bar.</caption></preview><preview position="2">
+      <full type="" width="473" height="31">
+        https://addons.cdn.mozilla.net/user-media/previews/full/55/55258.png?src=api&amp;modified=1313365635
+      </full>
+      <thumbnail type="" width="200" height="13">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/55/55258.png?src=api&amp;modified=1313365635
+      </thumbnail><caption>Links and status text can be shown in the location bar. This shows the default configuration with the text aligned right. But it can be set to replace the current URL or be positioned at some fixed spot on the location bar.</caption></preview><preview position="3">
+      <full type="" width="471" height="90">
+        https://addons.cdn.mozilla.net/user-media/previews/full/55/55259.png?src=api&amp;modified=1313365635
+      </full>
+      <thumbnail type="" width="200" height="38">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/55/55259.png?src=api&amp;modified=1313365635
+      </thumbnail><caption>Page load progress can be shown in the location bar (and on a toolbar with the Progress Meter item). Placement, color, and background image can be easily controlled. There is also an advanced style editor that gives you complete access to the CSS background rule.</caption></preview><preview position="4">
+      <full type="" width="515" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/59/59977.png?src=api&amp;modified=1313365635
+      </full>
+      <thumbnail type="" width="147" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/59/59977.png?src=api&amp;modified=1313365635
+      </thumbnail><caption>General status settings.</caption></preview><preview position="5">
+      <full type="" width="515" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/59/59978.png?src=api&amp;modified=1313365635
+      </full>
+      <thumbnail type="" width="147" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/59/59978.png?src=api&amp;modified=1313365635
+      </thumbnail><caption>Settings for status in the location bar.</caption></preview><preview position="6">
+      <full type="" width="515" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/59/59979.png?src=api&amp;modified=1313365635
+      </full>
+      <thumbnail type="" width="147" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/59/59979.png?src=api&amp;modified=1313365635
+      </thumbnail><caption>Settings for status in the toolbar.</caption></preview><preview position="7">
+      <full type="" width="515" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/59/59980.png?src=api&amp;modified=1313365635
+      </full>
+      <thumbnail type="" width="147" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/59/59980.png?src=api&amp;modified=1313365635
+      </thumbnail><caption>Settings for status in content pop-up.</caption></preview><preview position="8">
+      <full type="" width="515" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/59/59981.png?src=api&amp;modified=1313365635
+      </full>
+      <thumbnail type="" width="147" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/59/59981.png?src=api&amp;modified=1313365635
+      </thumbnail><caption>Progress settings for the location bar.</caption></preview><preview position="9">
+      <full type="" width="515" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/59/59982.png?src=api&amp;modified=1313365635
+      </full>
+      <thumbnail type="" width="147" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/59/59982.png?src=api&amp;modified=1313365635
+      </thumbnail><caption>Progress settings for the toolbar.</caption></preview><preview position="10">
+      <full type="" width="515" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/59/59983.png?src=api&amp;modified=1313365635
+      </full>
+      <thumbnail type="" width="147" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/59/59983.png?src=api&amp;modified=1313365635
+      </thumbnail><caption>Settings for the download status toolbar item.</caption></preview><preview position="11">
+      <full type="" width="515" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/59/59984.png?src=api&amp;modified=1313365635
+      </full>
+      <thumbnail type="" width="147" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/59/59984.png?src=api&amp;modified=1313365635
+      </thumbnail><caption>Settings for the Add-on Bar.</caption></preview></previews><rating>5</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/status-4-evar/?src=api</learnmore><install hash="sha256:c10025d8a662a48f18903a2c411b29bc79905069acff7cc666b6765fe34198cc"
+    os="ALL"
+    size="179297">https://addons.mozilla.org/firefox/downloads/file/265690/status_4_evar-2014.07.06.05-fx.xpi?src=api</install>
+  <install hash="sha256:7d20be3e69255afb5aa4d9796b79cbeb07ac7dc55ac2ac551a5149810c500fc2" os=""
+             size="178721"
+             status="Beta">
+      https://addons.mozilla.org/firefox/downloads/file/264986/status_4_evar-2014.06.29.16b-fx.xpi?src=api
+    </install>
+    <developer_comments></developer_comments>
+    <reviews num="454">
+      https://addons.mozilla.org/en-US/firefox/addon/status-4-evar/reviews/?src=api
+    </reviews>
+    <total_downloads>1359959</total_downloads>
+    <weekly_downloads>930</weekly_downloads>
+    <daily_users>158853</daily_users>
+    <created epoch="1285654063">
+      2010-09-28T06:07:43Z
+    </created>
+    <last_updated epoch="1405726751">
+      2014-07-18T23:39:11Z
+    </last_updated>
+    <homepage>https://github.com/SparkyBluefang/S4E</homepage>
+    <support>http://forums.mozillazine.org/viewtopic.php?f=48&amp;t=2001965</support>
+    <featured>1</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="161982">
+  <name>Smart location (smart text)</name>
+  <type id="1">Extension</type>
+  <guid>smart@text-a.am</guid>
+  <slug>smart-text</slug>
+  <version>4.7</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="5143351">
+      <name>Harutyun Amirjanyan</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/nik4name/?src=api</link>
+    </author>      </authors>
+  <summary>Textbox and much more...
+Formated, linkified, scrollable and selectable text in Location bar.</summary>
+  <description>&lt;b&gt;Help needed!&lt;/b&gt;
+Unfortunately this addon is broken on current firefox versions and i don&#39;t have enough time to fix it, if someone wants to continue the development source code is at &lt;a href=&#34;http://outgoing.mozilla.org/v1/3aa59cd0c13d2f6ae2b208966148895f82b6c289a5c1c10cf8eda496dc89b127/https%3A//github.com/nightwing/smart-text&#34; rel=&#34;nofollow&#34;&gt;https://github.com/nightwing/smart-text&lt;/a&gt; (requires major cleanup)
+
+
+this addon makes common operations on url easier
+it looks very much like locationbar2 but has a different goals and provides different functionality
+1)Highlight hostname
+2) linkify segments of url including subdomains  (clicking on groups in &lt;a href=&#34;http://outgoing.mozilla.org/v1/88c2cdc99e92d9ec2c52bf6a20bb0f2051d2eee778d3d92a912f80fe5972704f/http%3A//groups.google.com/some/thing&#34; rel=&#34;nofollow&#34;&gt;groups.google.com/some/thing&lt;/a&gt;  moves to  &lt;a href=&#34;http://outgoing.mozilla.org/v1/f4f8128fbd77e854dc396c27ed5c3f2cee9b4316f71f90018cbdfef019b90403/http%3A//www.google.com&#34; rel=&#34;nofollow&#34;&gt;www.google.com&lt;/a&gt;, and, of course,clicking on some moves to &lt;a href=&#34;http://outgoing.mozilla.org/v1/6364ffcd12ccb8aa8e434e5556f4c423fc696f8313809929987caf0c251ceaee/http%3A//groups.google.com/some%29&#34; rel=&#34;nofollow&#34;&gt;groups.google.com/some)&lt;/a&gt;
+3) keep easy selecting whole url (clicking at the end of urlbar,or right clicking in linkified mode selects whole text)
+4) make easy selecting parts of url (clicking and moving mouse selects text in linkified mode as well, simply clicking follows the link)
+5) better behaviour for multiple click selection in input mode
+6) make overflown urls scrollable
+7) if url contains numbers ctrl+scroll over them increments the number
+8) option to add arrow images between sections 
+9) bold domain or bubble around domain
+10) support status in locationbar (you need to enable it in status4evar and enable status4evar integration in smart-texts options dialog) 
+11) option to hide &#39;http://www.&#39;
+12) easy access to about: urls and to view-source: from popup on protocol segment</description>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/161/161982-64.png?modified=1365975045</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/161/161982-32.png?modified=1365975045</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>4.0b1</min_version>
+      <max_version>20.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="" width="445" height="351">
+        https://addons.cdn.mozilla.net/user-media/previews/full/55/55137.png?src=api&amp;modified=1300861716
+      </full>
+      <thumbnail type="" width="190" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/55/55137.png?src=api&amp;modified=1300861716
+      </thumbnail><caption>selection works in linkified state</caption></preview><preview position="1">
+      <full type="" width="640" height="507">
+        https://addons.cdn.mozilla.net/user-media/previews/full/55/55136.png?src=api&amp;modified=1300861716
+      </full>
+      <thumbnail type="" width="189" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/55/55136.png?src=api&amp;modified=1300861716
+      </thumbnail><caption>bubble, arrow and invisible alligator</caption></preview><preview position="2">
+      <full type="" width="694" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/55/55134.png?src=api&amp;modified=1300861716
+      </full>
+      <thumbnail type="" width="198" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/55/55134.png?src=api&amp;modified=1300861716
+      </thumbnail><caption>yes, Tom Lehrer is awesome</caption></preview><preview position="3">
+      <full type="image/png" width="583" height="173">
+        https://addons.cdn.mozilla.net/user-media/previews/full/46/46006.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="200" height="59">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/46/46006.png?src=api&amp;modified=1331247702
+      </thumbnail></preview><preview position="4">
+      <full type="" width="700" height="518">
+        https://addons.cdn.mozilla.net/user-media/previews/full/55/55138.png?src=api&amp;modified=1300861716
+      </full>
+      <thumbnail type="" width="200" height="148">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/55/55138.png?src=api&amp;modified=1300861716
+      </thumbnail><caption>easy access to view-source: and all about: url&#39;s</caption></preview><preview position="5">
+      <full type="" width="673" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/55/55139.png?src=api&amp;modified=1300861716
+      </full>
+      <thumbnail type="" width="192" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/55/55139.png?src=api&amp;modified=1300861716
+      </thumbnail><caption>does someone check this sites? 
+they are really interesting 
+maybe i need to put clickable links?</caption></preview></previews><rating>5</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/smart-text/?src=api</learnmore><install hash="sha256:76acf57fc01e8205049c59e48153ab040f1a73eda9c04cee5930720761387d8f"
+    os="ALL"
+    size="43008">https://addons.mozilla.org/firefox/downloads/file/122277/smart_text-4.7-fx.xpi?src=api</install>
+  <install hash="sha256:faa4b62dbbad9977efcd1ea297b70286f97f07e2fa977008d0d5cdececbff8ad" os=""
+             size="44032"
+             status="Beta">
+      https://addons.mozilla.org/firefox/downloads/file/118739/smart_text-4.6b2-fx.xpi?src=api
+    </install>
+    <developer_comments>(options dialog can be opened by middle clicking on the ellipsis at the end of urlbar, or from addon manager )
+
+smart-text doesn&#39;t support switch-to-tab yet,  but if you need it or something else feel free to mail me (or open issue on tracker) and i&#39;ll try to implement it
+
+also if you need help with creating custom style for this i&#39;ll be happy to help
+hope you&#39;ll like this addon, and will write lots of reviews;)
+
+&lt;i&gt;versions 4.5 and 4.6b2 beta bellow 
+work with latest nightlies
+and are compatible with status4evar&#39;s latest version (Status-4-Evar 2011.04.06.18)
+also they have improved options dialog and support for non unicode domains
+
+&lt;b&gt;want to test right now? try restartless version&lt;/b&gt;&lt;/i&gt;</developer_comments>
+    <reviews num="42">
+      https://addons.mozilla.org/en-US/firefox/addon/smart-text/reviews/?src=api
+    </reviews>
+    <total_downloads>20786</total_downloads>
+    <weekly_downloads>9</weekly_downloads>
+    <daily_users>1236</daily_users>
+    <created epoch="1274731422">
+      2010-05-24T20:03:42Z
+    </created>
+    <last_updated epoch="1307473387">
+      2011-06-07T19:03:07Z
+    </last_updated>
+    <homepage></homepage>
+    <support>https://github.com/nightwing/smart-text</support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+    </searchresults>

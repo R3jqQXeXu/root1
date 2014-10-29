@@ -1,0 +1,16 @@
+apt-get update
+apt-get upgrade
+aptitude update
+aptitude upgrade
+
+wget
+dpkg -i
+cd ~
+
+export PATH=$PATH:/usr/local/go/bin
+export GOPATH=$HOME/go
+export PATH=$PATH:/$GOPATH/bin
+
+/root/Desktop/Profession
+/usr/local/go
+/usr/local/go/src/source

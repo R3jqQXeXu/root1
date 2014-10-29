@@ -1,0 +1,28 @@
+
+29 Oct 2014, 08:20:35: Tracker-Warning **: Couldn't properly parse desktop file 'file:///usr/share/desktop-directories/02-07-nessus.directory': 'Couldn't load desktop file:'/usr/share/desktop-directories/02-07-nessus.directory''
+
+29 Oct 2014, 08:42:01: GVFS-RemoteVolumeMonitor-Warning **: Owner :1.11 of volume monitor org.gtk.Private.GduVolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+
+29 Oct 2014, 08:42:01: GLib-GIO-Critical **: Error while sending AddMatch() message: The connection is closed
+
+29 Oct 2014, 08:42:01: GLib-GIO-Critical **: Error while sending AddMatch() message: The connection is closed
+
+29 Oct 2014, 08:42:01: GLib-GIO-Critical **: Error while sending AddMatch() message: The connection is closed
+
+29 Oct 2014, 08:45:00: Tracker-Warning **: Couldn't properly parse desktop file 'file:///usr/share/desktop-directories/02-07-nessus.directory': 'Couldn't load desktop file:'/usr/share/desktop-directories/02-07-nessus.directory''
+
+29 Oct 2014, 09:15:07: GLib-GIO-Critical **: Error while sending AddMatch() message: The connection is closed
+
+29 Oct 2014, 09:15:07: GLib-GIO-Critical **: Error while sending AddMatch() message: The connection is closed
+
+29 Oct 2014, 09:15:07: GLib-GIO-Critical **: Error while sending AddMatch() message: The connection is closed
+
+29 Oct 2014, 09:16:29: Tracker-Warning **: Couldn't properly parse desktop file 'file:///usr/share/desktop-directories/02-07-nessus.directory': 'Couldn't load desktop file:'/usr/share/desktop-directories/02-07-nessus.directory''
+
+29 Oct 2014, 09:26:45: GLib-GIO-Critical **: Error while sending AddMatch() message: The connection is closed
+
+29 Oct 2014, 09:26:45: GLib-GIO-Critical **: Error while sending AddMatch() message: The connection is closed
+
+29 Oct 2014, 09:26:45: GLib-GIO-Critical **: Error while sending AddMatch() message: The connection is closed
+
+29 Oct 2014, 09:27:40: Tracker-Warning **: Couldn't properly parse desktop file 'file:///usr/share/desktop-directories/02-07-nessus.directory': 'Couldn't load desktop file:'/usr/share/desktop-directories/02-07-nessus.directory''

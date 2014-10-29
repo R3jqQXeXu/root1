@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<searchresults total_results="6">
+          <addon id="9727">
+  <name>RequestPolicy</name>
+  <type id="1">Extension</type>
+  <guid>requestpolicy@requestpolicy.com</guid>
+  <slug>requestpolicy</slug>
+  <version>0.5.28</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="2044723">
+      <name>Justin Samuel</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/justin-samuel/?src=api</link>
+    </author>      </authors>
+  <summary>Be in control of which cross-site requests are allowed. Improve the privacy of your browsing by not letting other sites know your browsing habits. Secure yourself from Cross-Site Request Forgery (CSRF) and other attacks.</summary>
+  <description>&lt;b&gt;RequestPolicy&#39;s new version is under development as &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/497d6afb0960df9fa0bbb448461a91c723781389e315b293ebd1b983b1da9a44/http%3A//requestpolicycontinued.github.io/requestpolicy/&#34;&gt;RequestPolicy Continued&lt;/a&gt;.&lt;/b&gt; Ultimately, I&#39;d like RequestPolicy Continued to replace RequestPolicy.
+
+RequestPolicy development has been slow because I am working on &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/ef60702665e4c1f25f80dabe1229c89a53a142f03b357b3a5c71deb9b91a7c2e/https%3A//serverpilot.io&#34;&gt;ServerPilot&lt;/a&gt;, a cPanel alternative for DigitalOcean servers. Thankfully, some great community members are taking over development of RequestPolicy.
+
+----
+
+RequestPolicy is an extension that improves the privacy and security of your browsing by giving you control over when cross-site requests are allowed by webpages you visit.
+
+Cross-site requests are requests that your browser is told to make by a website you are visiting to a completely different website. Though usually legitimate requests, they often result in advertising companies and other websites knowing your browsing habits, including specific pages you view throughout the day. Among the attacks that cross-site requests are used in, they are particularly dangerous with Cross-Site Request Forgery (CSRF) attacks where your browser is told to make a request to another website and that other website thinks you (the person) meant to make the request.
+
+With RequestPolicy, the default for any cross-site request is to deny it. Users are notified when requests on the current page have been blocked (the status bar flag icon at the bottom right of your browser turns red). Clicking on this status bar flag icon gives you a menu where you can view and modify which requests are blocked and allowed. You can whitelist requests you approve of by origin site, destination site, or specific origin-to-destination.
+
+More information on the privacy reasons for using RequestPolicy is available at:
+&lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/c75e0059229d0b94b56211bc2603cbdb8588b858c35c83e34a23a60ee69b0085/https%3A//www.requestpolicy.com/privacy&#34;&gt;https://www.requestpolicy.com/privacy&lt;/a&gt;
+
+More information on the security reasons for using RequestPolicy is available at:
+&lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/99b3e3a25f2f6bd9b918b7a504122e407aace1d79ebc2f4f99cf622bb9359010/https%3A//www.requestpolicy.com/security&#34;&gt;https://www.requestpolicy.com/security&lt;/a&gt;
+
+RequestPolicy is not a replacement for NoScript! Each focuses on different, important issues. For the best security, we recommend using both RequestPolicy and NoScript. More information on the difference between the two is available here:
+&lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/0c8467442658bf62f1ba5c475083421638775b84bc782bd9f74caf3a4b3a6527/https%3A//www.requestpolicy.com/faq%23faq-noscript&#34;&gt;https://www.requestpolicy.com/faq#faq-noscript&lt;/a&gt;
+
+*********************************************************************************
+NOTE: As with any extension that blocks content, some websites will not work properly until you have allowed the required content. If a website you visit isn&#39;t working, you can use the RequestPolicy menu to allow the cross-site requests the website needs. After a short while of using RequestPolicy, you will have whitelisted all of the required cross-site requests for sites you frequently visit and you will use the RequestPolicy menu much less.
+*********************************************************************************</description><license>
+    <name>GNU Lesser General Public License, version 3.0</name>
+    <url>http://www.gnu.org/licenses/lgpl-3.0.html</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/9/9727-64.png?modified=1410285738</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/9/9727-32.png?modified=1410285738</icon>
+  <compatible_applications><application>
+      <name>SeaMonkey</name>
+      <application_id>59</application_id>
+      <min_version>2.1</min_version>
+      <max_version>2.23</max_version>
+      <appID>{92650c4d-4b8e-4d2a-b7eb-24ecf4f6b63a}</appID>
+    </application><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>4.0</min_version>
+      <max_version>31.0</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="image/png" width="343" height="251">
+        https://addons.cdn.mozilla.net/user-media/previews/full/27/27523.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="200" height="146">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/27/27523.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>You can see which requests have been allowed and chose to revoke permissions that you granted earlier.</caption></preview><preview position="1">
+      <full type="image/png" width="700" height="208">
+        https://addons.cdn.mozilla.net/user-media/previews/full/27/27522.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="200" height="59">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/27/27522.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>You can allow requests from a specific origin site to a specific destination site. This way, you don&#39;t have to allow either all requests from that origin or all requests to that destination.</caption></preview><preview position="1">
+      <full type="image/png" width="417" height="435">
+        https://addons.cdn.mozilla.net/user-media/previews/full/27/27797.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="143" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/27/27797.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>An example of a single website (lemonde.fr) that tries to have your browser make requests to many destinations.</caption></preview></previews><rating>4</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/requestpolicy/?src=api</learnmore><install hash="sha256:4e828a0c120054ee4ca169c993e7231038228d0e4e2d9c8d86b717a94aa3bd5a"
+    os="ALL"
+    size="160837">https://addons.mozilla.org/firefox/downloads/file/223479/requestpolicy-0.5.28-sm+fx.xpi?src=api</install>
+  <install hash="sha256:9e8fee1a4c8970b970997b3015c6edc96c9b500afc0050da56ad0c90bcfe1037" os=""
+             size="160861"
+             status="Beta">
+      https://addons.mozilla.org/firefox/downloads/file/223160/requestpolicy-0.5.28b2-sm+fx.xpi?src=api
+    </install>
+    <developer_comments>&lt;ul&gt;&lt;li&gt;&lt;b&gt;Please report bugs to us and send us your feature requests, comments, and questions.&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;code&gt;------------------------------------------------------&lt;/code&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Email:&lt;/b&gt; support [-at-] requestpolicy [-dot-] com&lt;/li&gt;&lt;li&gt;&lt;b&gt;Forum:&lt;/b&gt; &lt;a href=&#34;http://outgoing.mozilla.org/v1/d5337a0c811434be837ba4c481d07c360980c79f/http%3A//forums.mozillazine.org/viewtopic.php%3Ff=48&amp;amp;t=1051805&#34; rel=&#34;nofollow&#34;&gt;http://forums.mozillazine.org/viewtopic.php?f=48&amp;amp;t=1051805&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Bug tracker:&lt;/b&gt; &lt;a href=&#34;http://outgoing.mozilla.org/v1/09ca265c80221d676d1130f675b33ce62caf64a6/https%3A//github.com/RequestPolicy/requestpolicy/issues&#34; rel=&#34;nofollow&#34;&gt;https://github.com/RequestPolicy/requestpolicy/issues&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Twitter:&lt;/b&gt; &lt;a href=&#34;http://outgoing.mozilla.org/v1/ad7605c5469b1712d3476a06f20f4099d6f9ee40/https%3A//twitter.com/RequestPolicy&#34; rel=&#34;nofollow&#34;&gt;https://twitter.com/RequestPolicy&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Help translate:&lt;/b&gt; &lt;a href=&#34;http://outgoing.mozilla.org/v1/0d69562bc44a8fef790b28eb4f20742a9f881e70/https%3A//www.requestpolicy.com/translate&#34; rel=&#34;nofollow&#34;&gt;https://www.requestpolicy.com/translate&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Google+:&lt;/b&gt; &lt;a href=&#34;http://outgoing.mozilla.org/v1/fc7243c8aa84a92a37deaa8ef6db945bbd8ff4be/https%3A//plus.google.com/u/0/b/117205175669827891726/&#34; rel=&#34;nofollow&#34;&gt;+RequestPolicy&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</developer_comments>
+    <reviews num="185">
+      https://addons.mozilla.org/en-US/firefox/addon/requestpolicy/reviews/?src=api
+    </reviews>
+    <total_downloads>834760</total_downloads>
+    <weekly_downloads>607</weekly_downloads>
+    <daily_users>138009</daily_users>
+    <created epoch="1227496725">
+      2008-11-24T03:18:45Z
+    </created>
+    <last_updated epoch="1375210078">
+      2013-07-30T18:47:58Z
+    </last_updated>
+    <homepage>https://www.requestpolicy.com/</homepage>
+    <support>http://forums.mozillazine.org/viewtopic.php?f=48&amp;t=1051805</support>
+    <featured>1</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="364735">
+  <name>RequestPolicy Sync</name>
+  <type id="1">Extension</type>
+  <guid>{02c6f6b9-d610-4e7e-9441-243c96c8dfab}</guid>
+  <slug>reqpolsync</slug>
+  <version>0.1.6</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="183459">
+      <name>Herrminator</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/herrminator/?src=api</link>
+    </author>      </authors>
+  <summary>Sync engine for RequestPolicy.</summary>
+  <description>Use the Mozilla Sync engine for synchronizing &lt;a href=&#34;https://addons.mozilla.org/en-US/addon/requestpolicy/&#34; rel=&#34;nofollow&#34;&gt;RequestPolicy&lt;/a&gt; rules between computers and browsers.
+
+&lt;b&gt;DISCLAIMER&lt;/b&gt;
+This extension is still under development! So, before installing, please back up your rules using RequestPolicy&#39;s export feature!
+This add-on is not affiliated with nor endorsed by the authors of &lt;a href=&#34;https://addons.mozilla.org/en-US/addon/requestpolicy/&#34; rel=&#34;nofollow&#34;&gt;RequestPolicy&lt;/a&gt;. As such, it might stop working with any new version!
+
+&lt;b&gt;KNOWN ISSUES&lt;/b&gt;
+&lt;ul&gt;&lt;li&gt;With Firefox 29.0 (&#34;New Sync&#34;), the sync-options dialog has changed, and you cannot en-/disable syncing from that dialog anymore. En-/Disabling from the add-on options is still possible. We&#39;re working on it...&lt;/li&gt;&lt;li&gt;Due to a bug in Mozilla&#39;s sync-server, it seems that new accounts created by Firefox Aurora 29.0a1 (and probably later) cannot sync custom engines anymore. This seems to affect other add-ons too. There&#39;s already a &lt;a href=&#34;http://outgoing.mozilla.org/v1/889929c152278367f616561554723b84878b742437525f3d4b34eeb02b16f558/https%3A//bugzilla.mozilla.org/show_bug.cgi%3Fid=980239&#34; rel=&#34;nofollow&#34;&gt;bug filed&lt;/a&gt; for this issue, and it seems to be fixed as of Mar. 7, 2014.&lt;/li&gt;&lt;/ul&gt;</description><license>
+    <name>GNU General Public License, version 3.0</name>
+    <url>http://www.gnu.org/licenses/gpl-3.0.html</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/364/364735-64.png?modified=1394181472</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/364/364735-32.png?modified=1394181472</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>10.0</min_version>
+      <max_version>36.0a1</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application><application>
+      <name>SeaMonkey</name>
+      <application_id>59</application_id>
+      <min_version>2.7</min_version>
+      <max_version>2.33a1</max_version>
+      <appID>{92650c4d-4b8e-4d2a-b7eb-24ecf4f6b63a}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews></previews><rating>5</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/reqpolsync/?src=api</learnmore><install hash="sha256:b47b0e18f675e937faccda5f8e109317d66738a0010546c3ca73b56208de1c85"
+    os="ALL"
+    size="26564">https://addons.mozilla.org/firefox/downloads/file/255434/requestpolicy_sync-0.1.6-fx+sm.xpi?src=api</install>
+  <install hash="sha256:11a3ba5a025bb48a2f8f411a421f57ac8790e7f891fecaa1c6b40d03dbeb0e72" os=""
+             size="26554"
+             status="Beta">
+      https://addons.mozilla.org/firefox/downloads/file/175674/requestpolicy_sync-0.1.5pre1-fx+sm.xpi?src=api
+    </install>
+    <developer_comments></developer_comments>
+    <reviews num="3">
+      https://addons.mozilla.org/en-US/firefox/addon/reqpolsync/reviews/?src=api
+    </reviews>
+    <total_downloads>14756</total_downloads>
+    <weekly_downloads>10</weekly_downloads>
+    <daily_users>1164</daily_users>
+    <created epoch="1330483670">
+      2012-02-29T02:47:50Z
+    </created>
+    <last_updated epoch="1398995396">
+      2014-05-02T01:49:56Z
+    </last_updated>
+    <homepage></homepage>
+    <support>https://code.google.com/p/reqpolsync/wiki/README</support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="337195">
+  <name>Google Privacy</name>
+  <type id="1">Extension</type>
+  <guid>{ea61041c-1e22-4400-99a0-aea461e69d04}</guid>
+  <slug>google-privacy</slug>
+  <version>0.2.4</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="183459">
+      <name>Herrminator</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/herrminator/?src=api</link>
+    </author>      </authors>
+  <summary>Make some popular websites respect your privacy settings.
+Please see the known issues below!</summary>
+  <description>Google Search and other search engines and websites seem to ignore Mozilla&#39;s &#39;Do-Not-Track&#39;-header and add tracking functions to their search results and external links anyway.
+This add-on shows tracking-free links or optionally replaces the results with those links.
+
+Websites supported (for now) are Google, YouTube, Yahoo!, Bing and Facebook.
+
+&lt;strong&gt;Known Issues&lt;/strong&gt;
+&lt;ul&gt;  &lt;li&gt;Multiprocess Firefox (Electrolysis, E10S), which can be enabled in Firefox 35 and higher, &lt;b&gt;is not yet supported&lt;/b&gt;. If you want to continue to use this add-on, please disable E10S in your options for now. We&#39;re working on a solution.&lt;/li&gt;&lt;/ul&gt;
+&lt;strong&gt;Add-on compatibility&lt;/strong&gt;
+&lt;ul&gt;  &lt;li&gt;&lt;i&gt;NoScript and Facebook&lt;/i&gt;: Facebook seems to detect an active NoScript and replaces external links with tracked ones. I do not have the intention to reverse this. Add Facebook to NoScripts trusted sites, if you want this add-on work.&lt;/li&gt;  &lt;li&gt;For other pages, &lt;i&gt;NoScript&lt;/i&gt; disables most of the tracking anyway!&lt;/li&gt;&lt;/ul&gt;
+&lt;strong&gt;Please Note: This software COMES AS IS! No warranties included - Please read also: &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/f2443cbbf38d0d465bbe075b1626849782056c157712960ff8991f408f0e8275/http%3A//code.google.com/p/gprivacy/wiki/README%23Disclaimer&#34;&gt;DISCLAIMER&lt;/a&gt;
+If you&#39;re scared sh*tless now, don&#39;t use it!
+&lt;/strong&gt;
+That said, if you find any problems or websites that stopped working, please &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/290c7d61566b4b0fbe527dcf0778f7cc95f54105ac5cca44cb0421631107fbf5/http%3A//code.google.com/p/gprivacy/issues/entry&#34;&gt;report the issue&lt;/a&gt;!
+You may also visit the project&#39;s &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/a19fe19267db44394b8b8bc18705cad437ec26caf80430d64acf4eab22549fc2/http%3A//code.google.com/p/gprivacy/wiki/README&#34;&gt;gprivacy google code page&lt;/a&gt; where you can find a short &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/e35f920c224e067f1bf76ceeecd0411562f9339806b4318b5c3bf5300a40cbe3/http%3A//code.google.com/p/gprivacy/wiki/README%23Options&#34;&gt;explanation of the preferences&lt;/a&gt;,the latest &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/0488ddb1523ca8a96822d1f487a51d17d2885e1a4e3b647df03b9b604bd9327e/http%3A//code.google.com/p/gprivacy/downloads/list&#34;&gt;development version&lt;/a&gt; and a &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/0d805a387243d56c929cfdeba110522c444f8fb4586212fbc3e1f8d01770e315/http%3A//code.google.com/p/gprivacy/issues/list&#34;&gt;problem issue tracking&lt;/a&gt; system.
+
+&lt;strong&gt;One More Thing&lt;/strong&gt;
+This add-on does not -- and cannot -- recognize every mechanism companies use  to track user behavior! In fact, this will be probably a losing battle.
+
+With every redesign of a website, tracking mechanisms change, and this add-on &lt;strong&gt;will definitely&lt;/strong&gt; become obsolete rather sooner than later. For our most used websites, We will try to keep this add-on as up-to-date as possible, but some others may fall through the cracks...
+
+For this reason I suggest you don&#39;t use this add-on on its own. There are a lot of privacy and security add-ons out there, with &lt;a rel=&#34;nofollow&#34; href=&#34;https://addons.mozilla.org/en-US/addon/requestpolicy/&#34;&gt;RequestPolicy&lt;/a&gt; and &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/cceda98e21d916c1ae9f21764c7cffb14a9654bf60477ccf8f36cc2f44660b35/http%3A//flashblock.mozdev.org/&#34;&gt;FlashBlock&lt;/a&gt; being my favorites. I would recommend you to use these to together with this add-on. But there&#39;s also &lt;a rel=&#34;nofollow&#34; href=&#34;https://addons.mozilla.org/en-US/addon/noscript/&#34;&gt;NoScript&lt;/a&gt;, which I personally don&#39;t use, but it comes highly recommended.
+
+If you find that a website is starting to track you again or that this add-on  is causing errors on a page, you can &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/290c7d61566b4b0fbe527dcf0778f7cc95f54105ac5cca44cb0421631107fbf5/http%3A//code.google.com/p/gprivacy/issues/entry&#34;&gt;report the problem here&lt;/a&gt;.
+
+If on the other hand, you want to help out and extend this add-on, see what &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/33b5a1fe2e4c9bc606740366a179e29ba95a23fea7e87555a1dbf0fdede68722/http%3A//code.google.com/p/gprivacy/wiki/README%23Developers&#34;&gt;developers can do&lt;/a&gt;!</description><license>
+    <name>GNU General Public License, version 3.0</name>
+    <url>http://www.gnu.org/licenses/gpl-3.0.html</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/337/337195-64.png?modified=1410513173</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/337/337195-32.png?modified=1410513173</icon>
+  <compatible_applications><application>
+      <name>SeaMonkey</name>
+      <application_id>59</application_id>
+      <min_version>2.1</min_version>
+      <max_version>2.32a1</max_version>
+      <appID>{92650c4d-4b8e-4d2a-b7eb-24ecf4f6b63a}</appID>
+    </application><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>6.0</min_version>
+      <max_version>35.0a1</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="" width="523" height="471">
+        https://addons.cdn.mozilla.net/user-media/previews/full/67/67563.png?src=api&amp;modified=1330333753
+      </full>
+      <thumbnail type="" width="166" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/67/67563.png?src=api&amp;modified=1330333753
+      </thumbnail><caption>Options dialog, default settings (v0.2.x)</caption></preview><preview position="1">
+      <full type="" width="700" height="485">
+        https://addons.cdn.mozilla.net/user-media/previews/full/67/67249.png?src=api&amp;modified=1330333754
+      </full>
+      <thumbnail type="" width="199" height="138">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/67/67249.png?src=api&amp;modified=1330333754
+      </thumbnail><caption>Modified search results
+(default settings)</caption></preview><preview position="2">
+      <full type="" width="700" height="502">
+        https://addons.cdn.mozilla.net/user-media/previews/full/67/67250.png?src=api&amp;modified=1330333754
+      </full>
+      <thumbnail type="" width="200" height="143">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/67/67250.png?src=api&amp;modified=1330333754
+      </thumbnail><caption>Modified search results
+(my favorite settings)</caption></preview></previews><rating>5</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/google-privacy/?src=api</learnmore><install hash="sha256:f2d6bb612761469b67ef071fb37b65ff6a710631c036c2226003fe76c3e70314"
+    os="ALL"
+    size="57773">https://addons.mozilla.org/firefox/downloads/file/281702/google_privacy-0.2.4-sm+fx.xpi?src=api</install>
+  <install hash="sha256:7bf7348f63c8c615853c53271dceac9674cd4422084f21b94f185e714d46ee91" os=""
+             size="57729"
+             status="Beta">
+      https://addons.mozilla.org/firefox/downloads/file/175692/google_privacy-0.2.3pre2-sm+fx.xpi?src=api
+    </install>
+    <contribution_data>
+      <link>https://addons.mozilla.org/en-US/firefox/addon/google-privacy/contribute/?src=api</link>
+                <suggested_amount currency="USD" amount="2.99">
+            $2.99
+          </suggested_amount>
+            <meet_developers>
+        https://addons.mozilla.org/en-US/firefox/addon/google-privacy/developers?src=api
+      </meet_developers>
+    </contribution_data><developer_comments>Google, YouTube, Yahoo!, Bing, Facebook and probably many other websites are trying to hide the fact that are tracking your clicks, even if you tell them not to.
+
+They&#39;re doing this, sometimes by replacing the links as soon as press the mouse-button sometimes by adding other click handlers.
+
+This means that even if you drag the seemingly harmless links to another tab or copy and paste the link, you still get tracked.
+
+
+To see this effect (and for security reasons), I&#39;d recommend you to install the excellent &lt;a href=&#34;https://addons.mozilla.org/en-US//addon/requestpolicy/&#34; rel=&#34;nofollow&#34;&gt;RequestPolicy&lt;/a&gt; add-on!</developer_comments>
+    <reviews num="27">
+      https://addons.mozilla.org/en-US/firefox/addon/google-privacy/reviews/?src=api
+    </reviews>
+    <total_downloads>451848</total_downloads>
+    <weekly_downloads>569</weekly_downloads>
+    <daily_users>37177</daily_users>
+    <created epoch="1314724467">
+      2011-08-30T17:14:27Z
+    </created>
+    <last_updated epoch="1414339573">
+      2014-10-26T16:06:13Z
+    </last_updated>
+    <homepage>http://code.google.com/p/gprivacy/wiki/README</homepage>
+    <support></support>
+    <featured>1</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="443686">
+  <name>Desktop Notifications for Android</name>
+  <type id="1">Extension</type>
+  <guid>jid0-105eGBfutA8RahNXKJRXP7CPNs0@jetpack</guid>
+  <slug>android-desktop-notif</slug>
+  <version>2.0.3</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="9984962">
+      <name>hcilab</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/hcilab/?src=api</link>
+    </author>      </authors>
+  <summary>Receive notifications from your Android phone in your browser.</summary>
+  <description>This add-on allows you to receive Android notifications in your browser. In order to use this extension you also need to download and install a free app for your Android phone or tablet.
+
+&lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/eb2f7529fc5acd66a6e484a1070db2fe10d4c82754e52c360953fb485a1981a3/https%3A//play.google.com/store/apps/details%3Fid=org.hcilab.projects.notification&#34;&gt;Desktop Notifications on Google Play&lt;/a&gt;
+
+After installing the app on your phone, it will randomly generate a code. Enter the code in the settings of this add-on to start receiving notifications. To stop certain apps from sending notifications just disable them in the settings of the Android app.
+
+Also available for &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/83fa177f673439796bce9d4094a4abe69bf9e072f2b9b19c1dc854b4dfb81419/https%3A//chrome.google.com/webstore/detail/android-desktop-notificat/giicnncicnopjohcpamieklkiacdoeni&#34;&gt;Google Chrome&lt;/a&gt;.
+
+&lt;b&gt;LIMITATIONS&lt;/b&gt;
+- Firefox currently doesn&#39;t allow changing the duration of notifications.
+- Firefox can only display one notification at a time.
+
+- Not compatible with the &#34;HTML Desktop Notifications&#34; add-on.
+- If you&#39;re using the &#34;RequestPolicy&#34; add-on make sure to add &#34;&lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/2c3d7f44a5f8e4814a6a8d09795d68e01d7bfb4c3ddd418a8200c3a897e5f8b6/http%3A//uni-stuttgart.de&#34;&gt;uni-stuttgart.de&lt;/a&gt;&#34; to the whitelist.
+
+- The add-on requires a connection to port 10935. Some corporate or university firewalls might block this port, in that case the add-on won&#39;t work. The Chrome extension is not affected by this.
+
+&lt;b&gt;CONTACT US&lt;/b&gt;
+Please send feedback to hcilab@gmail.com :)</description>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/443/443686-64.png?modified=1411675592</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/443/443686-32.png?modified=1411675592</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>26.0</min_version>
+      <max_version>36.0</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="" width="446" height="339">
+        https://addons.cdn.mozilla.net/user-media/previews/full/127/127220.png?src=api&amp;modified=1395849329
+      </full>
+      <thumbnail type="" width="197" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/127/127220.png?src=api&amp;modified=1395849329
+      </thumbnail><caption>Receive notifications from your Android phone in your browser.</caption></preview><preview position="1">
+      <full type="" width="700" height="306">
+        https://addons.cdn.mozilla.net/user-media/previews/full/102/102232.png?src=api&amp;modified=1395849329
+      </full>
+      <thumbnail type="" width="200" height="87">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/102/102232.png?src=api&amp;modified=1395849329
+      </thumbnail><caption>Enter the code generated by the Android app to pair your phone and browser.</caption></preview><preview position="2">
+      <full type="" width="494" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/128/128588.png?src=api&amp;modified=1395849329
+      </full>
+      <thumbnail type="" width="141" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/128/128588.png?src=api&amp;modified=1395849329
+      </thumbnail><caption>Version 1.2 includes a notification history. For some selected apps you can directly open the corresponding website.</caption></preview><preview position="3">
+      <full type="" width="485" height="161">
+        https://addons.cdn.mozilla.net/user-media/previews/full/132/132262.png?src=api&amp;modified=1395849329
+      </full>
+      <thumbnail type="" width="200" height="66">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/132/132262.png?src=api&amp;modified=1395849329
+      </thumbnail><caption>Version 1.3 adds support for the Australis theme (Firefox 29+).</caption></preview></previews><rating>5</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/android-desktop-notif/?src=api</learnmore><install hash="sha256:99a02e59608099b706593724660347a4c7aaacaa422766690e28d878e36976d1"
+    os="ALL"
+    size="723680">https://addons.mozilla.org/firefox/downloads/file/276588/desktop_notifications_for_android-2.0.3-fx.xpi?src=api</install>
+  <developer_comments></developer_comments>
+    <reviews num="13">
+      https://addons.mozilla.org/en-US/firefox/addon/android-desktop-notif/reviews/?src=api
+    </reviews>
+    <total_downloads>57254</total_downloads>
+    <weekly_downloads>301</weekly_downloads>
+    <daily_users>9122</daily_users>
+    <created epoch="1370271382">
+      2013-06-03T14:56:22Z
+    </created>
+    <last_updated epoch="1413243449">
+      2014-10-13T23:37:29Z
+    </last_updated>
+    <homepage>http://projects.hcilab.org/notification</homepage>
+    <support>http://hcilab.org</support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="473707">
+  <name>auto-plugin-checker</name>
+  <type id="1">Extension</type>
+  <guid>auto-plugin-checker@jetpack</guid>
+  <slug>auto-plugin-checker</slug>
+  <version>0.6.2.5</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="10308954">
+      <name>Plugin-Paul</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/pauloco/?src=api</link>
+    </author>      </authors>
+  <summary>The auto-plugin-checker informs you, whenever plugin updates are available - automatically.</summary>
+  <description></description><license>
+    <name>Mozilla Public License, version 2.0</name>
+    <url>http://www.mozilla.org/MPL/2.0/</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/473/473707-64.png?modified=1404950729</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/473/473707-32.png?modified=1404950729</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>21.0</min_version>
+      <max_version>33.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="" width="494" height="235">
+        https://addons.cdn.mozilla.net/user-media/previews/full/138/138682.png?src=api&amp;modified=1404375435
+      </full>
+      <thumbnail type="" width="200" height="95">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/138/138682.png?src=api&amp;modified=1404375435
+      </thumbnail><caption>The addon´s menu</caption></preview><preview position="1">
+      <full type="" width="632" height="421">
+        https://addons.cdn.mozilla.net/user-media/previews/full/138/138744.png?src=api&amp;modified=1404375436
+      </full>
+      <thumbnail type="" width="200" height="133">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/138/138744.png?src=api&amp;modified=1404375436
+      </thumbnail><caption>There are several options in the menu. E.g. to open the update website if updates are available. Currently it is only available in English. Though the update page will be opened in you browser´s language.</caption></preview></previews><rating>5</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/auto-plugin-checker/?src=api</learnmore><install hash="sha256:211e54ec51431c00a7a88206f94b0df1dbeecc235eb834cfd08307bf1aaed82a"
+    os="ALL"
+    size="70177">https://addons.mozilla.org/firefox/downloads/file/263904/auto_plugin_checker-0.6.2.5-fx.xpi?src=api</install>
+  <install hash="sha256:09080d0b1639a840705795ecde3d89463d357db14a46fd7cdcaca619bcfcfcaf" os=""
+             size="83636"
+             status="Beta">
+      https://addons.mozilla.org/firefox/downloads/file/266252/auto_plugin_checker-0.6.4beta-fx.xpi?src=api
+    </install>
+    <developer_comments></developer_comments>
+    <reviews num="13">
+      https://addons.mozilla.org/en-US/firefox/addon/auto-plugin-checker/reviews/?src=api
+    </reviews>
+    <total_downloads>182389</total_downloads>
+    <weekly_downloads>398</weekly_downloads>
+    <daily_users>22554</daily_users>
+    <created epoch="1385465417">
+      2013-11-26T11:30:17Z
+    </created>
+    <last_updated epoch="1403541274">
+      2014-06-23T16:34:34Z
+    </last_updated>
+    <homepage></homepage>
+    <support></support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="179549">
+  <name>FloatNotes</name>
+  <type id="1">Extension</type>
+  <guid>floatnotes@felix-kling.de</guid>
+  <slug>floatnotes</slug>
+  <version>0.8.2</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="5359262">
+      <name>Felix Kling</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/felix-kling/?src=api</link>
+    </author>      </authors>
+  <summary>Add notes to websites, including comments, links or even images. It can help you doing research on the web, remind you, etc. It is simple and easy to use.</summary>
+  <description>&lt;strong&gt;Important note:&lt;/strong&gt; If you are using the add-on RequestPolicy and you are not able to create notes, you have to allow all connections to &#34;floatnotes:blank&#34;.
+
+This extension makes it possible to create small notes on any web site. It is basic in functionality and design but has some valuable features:
+&lt;ul&gt;&lt;li&gt; &lt;strong&gt;Markdown support:&lt;/strong&gt; You can use &lt;a href=&#34;http://outgoing.mozilla.org/v1/fe02646796284109a64362a8c1bbd7c969090da63166b58ae7319109a37285ea/http%3A//daringfireball.net/projects/markdown/&#34; rel=&#34;nofollow&#34;&gt;Markdown&lt;/a&gt; to format the text of the note. That means you can also include links and images. &lt;a href=&#34;http://outgoing.mozilla.org/v1/59ebacd37867e7a1427b71b7f2a4f749506cb41bec5f0196533d2f5a53898fe3/http%3A//daringfireball.net/projects/markdown/basics&#34; rel=&#34;nofollow&#34;&gt;Have a look at the basic syntax.&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;strong&gt;Notes indicator:&lt;/strong&gt; When scrolling on a web site, small labels at the top and
+ the bottom of the page show how many notes are above or below the current view.
+ You can also jump directly to a specific note via these indicators.&lt;/li&gt;&lt;li&gt; &lt;strong&gt;Minimizing notes:&lt;/strong&gt; Notes can be minimized to save space.&lt;/li&gt;&lt;li&gt; &lt;strong&gt;Hide notes:&lt;/strong&gt; All notes can be hidden with a single click.&lt;/li&gt;&lt;li&gt; &lt;strong&gt;Simple design:&lt;/strong&gt; To fit into any page easily and to not gain to much &#34;attention&#34;,
+ the design of the notes is kept very simple.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Locations:&lt;/strong&gt; Specify the scope of a note.&lt;/li&gt;&lt;/ul&gt;
+&lt;strong&gt;New in version 0.6 &lt;/strong&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Immediate updates:&lt;/strong&gt; Changes made to notes that are shared between (opened) (sub)pages, are reflected in the other tabs immediately.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Keyboard shortcuts: &lt;/strong&gt;Changes can be discarded via ESC and saved via CTRL+ENTER.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Raise to top:&lt;/strong&gt; Clicking or dragging a note makes it raise to top, meaning that it stays in front of all other notes on the page.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Default color (expert option):&lt;/strong&gt; The default color of notes can be changed via &lt;code&gt;about:config&lt;/code&gt;, &lt;code&gt;extensions.floatnotes.color&lt;/code&gt; (I will try to integrate the possibility  to change to color for individual notes easily as soon as possible).&lt;/li&gt;&lt;/ul&gt;
+&lt;b&gt;New in version 0.7:&lt;/b&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Notes Manager:&lt;/strong&gt; Search, list and edit all your notes&lt;/li&gt;&lt;li&gt;Real &lt;strong&gt;cross window updates&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Synchronization&lt;/strong&gt; with Firefox Sync&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Toolbar button&lt;/strong&gt; and menu entry&lt;/li&gt;&lt;li&gt;Notes can be &lt;strong&gt;pinned&lt;/strong&gt; to the window (don&#39;t move with page when scrolling)&lt;/li&gt;&lt;li&gt;New location: Notes can be set up to be visible on &lt;strong&gt;all pages&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;b&gt;New in version 0.8:&lt;/b&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Custom DB location:&lt;/strong&gt; You can decide where to store your notes.&lt;/li&gt;&lt;/ul&gt;
+&lt;strong&gt;Quick start&lt;/strong&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Create note&lt;/strong&gt;: Right click somewhere on a page and select &#34;Create Note...&#34;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Edit note&lt;/strong&gt;: Double click on the (text in the) note &lt;/li&gt;&lt;li&gt;&lt;strong&gt;Save note&lt;/strong&gt;: Just click outside of the note &lt;/li&gt;&lt;li&gt;&lt;strong&gt;Delete note&lt;/strong&gt;: Hover over the note and click on the `X` on the left side of the note &lt;/li&gt;&lt;li&gt;&lt;strong&gt;Move and resize note&lt;/strong&gt;: Hover over the note and click and drag on the grey bar on top resp. in the lower right corner of the note &lt;/li&gt;&lt;/ul&gt;&lt;a href=&#34;http://outgoing.mozilla.org/v1/e445f9c5d2817473adee9cd95426e91fa46d68bf91848e27c865f2984ffa0dd7/http%3A//floatnotes.org/documentation/&#34; rel=&#34;nofollow&#34;&gt;More information and usage instructions.&lt;/a&gt;</description><license>
+    <name>GNU General Public License, version 2.0</name>
+    <url>http://www.gnu.org/licenses/gpl-2.0.html</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/179/179549-64.png?modified=1375913330</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/179/179549-32.png?modified=1375913330</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>4.0b1</min_version>
+      <max_version>27.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="image/png" width="175" height="147">
+        https://addons.cdn.mozilla.net/user-media/previews/full/46/46573.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="175" height="147">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/46/46573.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>If the cursor is hovering over a note, drag and resize handlers and the notes menu are shown</caption></preview><preview position="1">
+      <full type="image/png" width="700" height="324">
+        https://addons.cdn.mozilla.net/user-media/previews/full/46/46571.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="200" height="92">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/46/46571.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>A note</caption></preview><preview position="1">
+      <full type="image/png" width="272" height="256">
+        https://addons.cdn.mozilla.net/user-media/previews/full/46/46574.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="159" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/46/46574.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>The context menu provides easy way to add a new note or hide all notes</caption></preview><preview position="1">
+      <full type="image/png" width="341" height="323">
+        https://addons.cdn.mozilla.net/user-media/previews/full/46/46575.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="158" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/46/46575.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>Change the location or color of the note</caption></preview><preview position="1">
+      <full type="image/png" width="141" height="103">
+        https://addons.cdn.mozilla.net/user-media/previews/full/46/46576.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="141" height="103">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/46/46576.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>If there are notes outside the view, an indicator is shown</caption></preview><preview position="1">
+      <full type="image/png" width="239" height="191">
+        https://addons.cdn.mozilla.net/user-media/previews/full/47/47028.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="187" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/47/47028.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>Hovering over an indicator shows a quick jump list, that lists the first words of a note. Clicking on an entry, makes the page jump to that note.</caption></preview><preview position="1">
+      <full type="image/png" width="600" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/47/47029.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="171" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/47/47029.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>The edit mode is indicated by a red border. This is how &#34;raw&#34; markdown looks like.</caption></preview><preview position="1">
+      <full type="image/png" width="604" height="430">
+        https://addons.cdn.mozilla.net/user-media/previews/full/47/47030.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="200" height="142">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/47/47030.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>The same note with rendered Markdown.</caption></preview><preview position="1">
+      <full type="image/png" width="700" height="237">
+        https://addons.cdn.mozilla.net/user-media/previews/full/47/47031.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="200" height="67">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/47/47031.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>Of course you can have multiple notes.</caption></preview><preview position="1">
+      <full type="image/png" width="700" height="237">
+        https://addons.cdn.mozilla.net/user-media/previews/full/47/47032.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="200" height="67">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/47/47032.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>The same notes in compact mode (by double clicking on the drag handler).</caption></preview><preview position="1">
+      <full type="image/png" width="700" height="519">
+        https://addons.cdn.mozilla.net/user-media/previews/full/47/47033.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="200" height="148">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/47/47033.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>This note is set up to appear on all pages of a certain path.</caption></preview><preview position="1">
+      <full type="image/png" width="700" height="519">
+        https://addons.cdn.mozilla.net/user-media/previews/full/47/47034.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="200" height="148">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/47/47034.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>A page deeper on the path.</caption></preview><preview position="1">
+      <full type="image/png" width="652" height="426">
+        https://addons.cdn.mozilla.net/user-media/previews/full/47/47036.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="200" height="130">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/47/47036.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>The preference dialog.</caption></preview><preview position="1">
+      <full type="image/png" width="700" height="190">
+        https://addons.cdn.mozilla.net/user-media/previews/full/47/47043.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="200" height="54">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/47/47043.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>Note with image.</caption></preview><preview position="1">
+      <full type="image/png" width="129" height="120">
+        https://addons.cdn.mozilla.net/user-media/previews/full/52/52271.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="129" height="120">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/52/52271.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>&#34;Pinned&#34; notes have a thicker border and don&#39;t move when scrolling the page</caption></preview><preview position="1">
+      <full type="image/png" width="700" height="441">
+        https://addons.cdn.mozilla.net/user-media/previews/full/52/52272.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="200" height="126">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/52/52272.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>The notes manager</caption></preview></previews><rating>4</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/floatnotes/?src=api</learnmore><install hash="sha256:29e8c72243dfeac7b10d63cb5e5ec02f6b7445485fe2fb3ce07c11b610ba6a85"
+    os="ALL"
+    size="244510">https://addons.mozilla.org/firefox/downloads/file/224864/floatnotes-0.8.2-fx.xpi?src=api</install>
+  <contribution_data>
+      <link>https://addons.mozilla.org/en-US/firefox/addon/floatnotes/contribute/?src=api</link>
+                <suggested_amount currency="USD" amount="1.00">
+            $1.00
+          </suggested_amount>
+            <meet_developers>
+        https://addons.mozilla.org/en-US/firefox/addon/floatnotes/developers?src=api
+      </meet_developers>
+    </contribution_data><developer_comments>Please submit any issue to &lt;a href=&#34;http://outgoing.mozilla.org/v1/71b083a3f187c66a91cf9d9d7a7d267ecb0034b5/http%3A//github.com/fkling/floatnotes/issues&#34;&gt;http://github.com/fkling/floatnotes/issues&lt;/a&gt;. If you find any website with which this add-on does not work well (due to iframes or whatever), please report this too!</developer_comments>
+    <reviews num="76">
+      https://addons.mozilla.org/en-US/firefox/addon/floatnotes/reviews/?src=api
+    </reviews>
+    <total_downloads>46140</total_downloads>
+    <weekly_downloads>16</weekly_downloads>
+    <daily_users>3265</daily_users>
+    <created epoch="1276645265">
+      2010-06-15T23:41:05Z
+    </created>
+    <last_updated epoch="1376657544">
+      2013-08-16T12:52:24Z
+    </last_updated>
+    <homepage>http://www.floatnotes.org</homepage>
+    <support>http://www.floatnotes.org/documentation</support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+    </searchresults>

@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<searchresults total_results="2">
+          <addon id="1237">
+  <name>QuickJava</name>
+  <type id="1">Extension</type>
+  <guid>{E6C1199F-E687-42da-8C24-E7770CC3AE66}</guid>
+  <slug>quickjava</slug>
+  <version>2.0.4</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="5926">
+      <name>Doug G</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/doug-g/?src=api</link>
+    </author>      </authors>
+  <summary>Allows quick enable and disable of Java, Javascript, Cookies, Image Animations, Flash, Silverlight, Images, Stylesheets and Proxy from the Toolbar.  This is great for increasing security or decreasing bandwidth.</summary>
+  <description>Easily turn on or off  Java, Javascript, Cookies, Animated Images, Flash, Silverlight, Stylesheets, Proxy and Automatic loading of images from the Toolbar without having to open the Options or Plugins dialog!  This is great for users that want a easy control over their bandwidth usage, privacy or general browsing security by blocking scripts, cookies or other functionality.  (FF29 removes the Status bar from the bottom, visit &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/212dc9a1dadbde3d5fd7f41a48ee67d4fad14c1a9f356ebbac5c13ed9ebe70fb/http%3A//quickjavaplugin.blogspot.com/2014/04/missing-your-addon-bar.html&#34;&gt;http://quickjavaplugin.blogspot.com/2014/04/missing-your-addon-bar.html&lt;/a&gt; for more information)
+
+&lt;code&gt;&lt;b&gt;PLEASE READ THE ENTIRE DESCRIPTION AND DEVELOPER COMMENTS BEFORE REPORTING A BUG!&lt;/b&gt;&lt;/code&gt;
+
+Usage:
+Install the extension and restart your browser to get the QJ Toolbar icons.  Configure the options by right clicking on any visible icon and selecting &#34;Options&#34;.  Customize the toolbar with which buttons you choose and enjoy.  It&#39;s that simple!  There are way more options to play with, for help with those right click any visible icon and select &#34;Help and FAQ&#34;.
+
+(Note, if you don&#39;t know how to customize the toolbar icons google it)
+
+Also please note that the scope of this extension is NOT as extensive as NoScript, and was not designed to compete with it.  This includes whitelisting/blacklisting sites and remembering their settings!  If you like NoScript then that&#39;s fine and this may not be the extension for you.  However this extension is ideal for those who prefer a simpler to use, less invasive interface while still having easier access to the controls.
+
+If you have problems with it working or have any other comments or suggestions, please visit the support homepage for this extension at: &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/98bbccf644b59f8e8e9fc8e611f6336eadeed76162fefc63d23d4a37f443961f/http%3A//quickjavaplugin.blogspot.com/&#34;&gt;http://quickjavaplugin.blogspot.com/&lt;/a&gt;
+
+&lt;code&gt;&lt;b&gt;I take great pride in the rating of my extension. Please do not use the rating system as a bug reporting system or a feature request system as that is not it&#39;s purpose. If you enjoy and use my extension, please provide an appropriate rating, a contribution or both :) Thanks!&lt;/b&gt;&lt;/code&gt;</description><license>
+    <name>License</name>
+    <url>http://www.mozilla.org/MPL/MPL-1.1.html</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/1/1237-64.png?modified=1399070510</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/1/1237-32.png?modified=1399070510</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>20.0</min_version>
+      <max_version>33.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="" width="94" height="25">
+        https://addons.cdn.mozilla.net/user-media/previews/full/73/73415.png?src=api&amp;modified=1380285587
+      </full>
+      <thumbnail type="" width="94" height="25">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/73/73415.png?src=api&amp;modified=1380285587
+      </thumbnail><caption>Icons in Addon Bar</caption></preview><preview position="1">
+      <full type="" width="179" height="28">
+        https://addons.cdn.mozilla.net/user-media/previews/full/73/73417.png?src=api&amp;modified=1380285587
+      </full>
+      <thumbnail type="" width="179" height="28">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/73/73417.png?src=api&amp;modified=1380285587
+      </thumbnail><caption>Icon in Toolbar</caption></preview><preview position="2">
+      <full type="" width="692" height="475">
+        https://addons.cdn.mozilla.net/user-media/previews/full/73/73419.png?src=api&amp;modified=1380285587
+      </full>
+      <thumbnail type="" width="200" height="137">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/73/73419.png?src=api&amp;modified=1380285587
+      </thumbnail><caption>Customize Icons Screen</caption></preview><preview position="3">
+      <full type="" width="700" height="463">
+        https://addons.cdn.mozilla.net/user-media/previews/full/114/114113.png?src=api&amp;modified=1380285587
+      </full>
+      <thumbnail type="" width="200" height="132">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/114/114113.png?src=api&amp;modified=1380285587
+      </thumbnail><caption>Options Dialog</caption></preview><preview position="4">
+      <full type="" width="225" height="146">
+        https://addons.cdn.mozilla.net/user-media/previews/full/114/114114.png?src=api&amp;modified=1380285587
+      </full>
+      <thumbnail type="" width="200" height="130">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/114/114114.png?src=api&amp;modified=1380285587
+      </thumbnail><caption>Quick Settings Dropdown</caption></preview></previews><rating>5</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/quickjava/?src=api</learnmore><install hash="sha256:7c8175adb2f8ad11ff25849c1a2ad6072cbfb03afc96e7cfff92ccc42531bcad"
+    os="ALL"
+    size="24626">https://addons.mozilla.org/firefox/downloads/file/241288/quickjava-2.0.4-fx.xpi?src=api</install>
+  <install hash="sha256:ce1588ad087f17c2436152c0e42e9d8fa8b50098a3ba709f238361bd38319bf8" os=""
+             size="51200"
+             status="Beta">
+      https://addons.mozilla.org/firefox/downloads/file/81894/quickjava-0.6a-fx.xpi?src=api
+    </install>
+    <contribution_data>
+      <link>https://addons.mozilla.org/en-US/firefox/addon/quickjava/contribute/?src=api</link>
+                <suggested_amount currency="USD" amount="4.99">
+            $4.99
+          </suggested_amount>
+            <meet_developers>
+        https://addons.mozilla.org/en-US/firefox/addon/quickjava/developers?src=api
+      </meet_developers>
+    </contribution_data><developer_comments>Known issues: (Version 1.8.1.1)
+~ Users may need to re-configure their toolbar buttons, I apologize for any inconvenience this may cause.</developer_comments>
+    <reviews num="206">
+      https://addons.mozilla.org/en-US/firefox/addon/quickjava/reviews/?src=api
+    </reviews>
+    <total_downloads>4715345</total_downloads>
+    <weekly_downloads>3688</weekly_downloads>
+    <daily_users>303050</daily_users>
+    <created epoch="1126837941">
+      2005-09-16T02:32:21Z
+    </created>
+    <last_updated epoch="1391446451">
+      2014-02-03T16:54:11Z
+    </last_updated>
+    <homepage>http://quickjavaplugin.blogspot.com/</homepage>
+    <support>http://quickjavaplugin.blogspot.com/</support>
+    <featured>1</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="326822">
+  <name>Search by Image for Google</name>
+  <type id="1">Extension</type>
+  <guid>{ab4b5718-3998-4a2c-91ae-18a7c2db513e}</guid>
+  <slug>googlesearch-by-image</slug>
+  <version>1.2.0</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="5548527">
+      <name>John Muir</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/Faddon/?src=api</link>
+    </author>      </authors>
+  <summary>Google Search by Image:
+
+Use rightclick on an image to quickly find out the source of an image, how it is used, or find higher resolution versions via Google Reverse Image search.
+(Google Image Search is similar to Tineye Reverse image search).</summary>
+  <description>Found an image on the web that you’re curious about? With this extension, you can initiate a search on Google using pictures on the web. You can discover photos of places, learn more about art pieces, identify landmarks, and more.
+
+To use this extension, right click on an image on the web and select “Search Google with this image.”  You can also add a clickable Search by Image icon that appears when you point to an image&lt;a href=&#34;https://addons.mozilla.org/en-US/firefox/addon/googlesearch-by-image/#Customization
+✔ Add to Search Bar - Make any pages&#39; search functionality available in the Search Bar
+✔ Autofill Forms - Enables you to fill out web forms with one click or a keyboard shortcut
+✔ AutoPager - Automatically loads next pages when you reach the end of a page
+✔ Firefox Sync - Access your history, passwords, bookmarks, and open tabs across your devices
+✔ Google Shortcuts - Display all of your Google Services as buttons anywhere you like
+✔ Greasemonkey - Customize any site using thousands of user scripts
+✔ KwiClick - Delivers search results in a small popup window for any selected text
+✔ Menu Editor - Rearrange menu items in the context menu and the main menu bar
+✔ New Tab King - Adds most visited sites, recently closed tabs, and suggested sites to new tabs
+✔ Organize Search Engines - Organize your search engines with separators and folders
+✔ Organize Status Bar - Organize your status bar icons
+✔ QuickJava - Quick enable and disable of Java, Javascript, Flash, Silverlight and images
+✔ Samfind Bookmarks Bar - Quickest, easiest way to access your favorite websites
+✔ Speed Dial - Direct access to your most visited websites
+✔ Tab Mix Plus - Duplicate tabs, control tab focus, undo closed tabs and windows, etc.
+
+Downloads
+✔ Download Manager Tweak - Open the download manager in a tab or sidebar, and get more info
+✔ Download Statusbar - View and manage downloads from a tidy statusbar
+✔ DownThemAll - Download manager and accelerator
+✔ NetVideoHunter - Download videos and music from video sites like Youtube
+✔ SkipScreen - Skips unnecessary pages on sites like Rapidshare, Megaupload, zShare, etc.
+
+Fun
+✔ Destroy the Web - Turn any webpage into a shoot-em up video game
+✔ FootieFox - Live soccer scores for over 200 leagues and cups of 60 countries
+✔ Kidoz TV - Turn your browser into a safe kids Web TV, safe easy and fun
+✔ KidZui - Turns Firefox into fun, kid-safe browser and online playground for kids 3-12
+✔ Puzzle - Turn any image to puzzle pieces and play
+✔ StumbleUpon - Get random websites suited to your tastes with one click
+✔ Zoodles - Turn Firefox into a safe, virtual playground for kids 3-8
+
+General
+✔ Billeo - Flags your search results where discounts and promotions are available
+✔ Context Search - Changes the context menu search into a menu with installed search engines
+✔ Feedly - Organizes your favorite sources in a magazine-like start page
+✔ Forecastfox - Adds live international weather forecast icons to the statusbar
+✔ FoxClocks - Puts small world clocks in your statusbar
+✔ Linkification - Converts text links into genuine, clickable links
+✔ MyBookmarks - Creates a formatted page from bookmarks
+✔ ReloadEvery - Reloads web pages every so many seconds or minutes
+✔ ReminderFox - Displays and manages lists of reminders and ToDo&#39;s
+✔ Resurrect Pages - When going to a missing page, easily search for cached version of it
+
+Languages
+✔ Converter - Contextual unit, timezone, and currency converter on any web site
+✔ Dictionary Switcher - Switch between installed dictionaries and the current one in the statusbar
+✔ FoxLingo - Web page and text translator, dictionary, grammar checker, text-to-speech, etc.
+✔ Quick Locale Switcher - Switch Firefox default language
+
+Media
+✔ Bargain Book Mole - Find the best book prices from 20,000+ merchants on the top book selling sites
+✔ Cooliris - Scroll an infinite 3D Wall of content from Facebook, Google, YouTube, Flickr, etc.
+✔ ImageZoom - Adds zoom and rotation functionality for images
+✔ Fire.fm - Fire.fm gives you access to the extensive music library on Last.fm
+✔ FireShot - Creates screenshots of web pages with editing and annotation tools
+✔ Flash Game Maximizer - Click a button or hit the hot-key to maximize (almost) any Flash content
+✔ FlashVideoReplacer - Replace embedded flash videos with mplayer compatible videos
+✔ FoxyTunes - Control almost any media player and find lyrics, covers, videos, bios, etc.
+✔ MediaPlayerConnectivity - Launch online videos in an external application
+✔ Picnik - Add a menu options and a toolbar icon for editing images online
+✔ Screengrab - Save webpages as images (saves an entire page, just a selection, or a frame)
+✔ TinEye Reverse Image Search - Find where an image came from and if it has a better version
+✔ TweakMDB - The Ultimate IMDB Enhancer, instantly add many tweaks to IMDB.com
+✔ TweakTube - The Ultimate YouTube Enhancer, instantly add many tweaks to YouTube
+✔ VideoSurf - Get visual video summaries and related videos on Twitter, Google, YouTube, etc.
+
+Programming
+✔ Addon Developer Helper - Restart Firefox, restart and clear XPCOM cache, or restart chrome
+✔ Console2 - Improves the JavaScript console with filtering, removing duplicates, and more
+✔ Extended Statusbar - A Statusbar with speed, percentage, time and loaded size
+✔ Firebug - Edit, debug, and monitor CSS, HTML, and JavaScript live in any web page
+✔ FireFTP - FTP client
+✔ FoxyProxy - An advanced proxy management tool
+✔ HttpFox - HTTP analyzer
+✔ IE Tab - View sites in Internet Explorer within a Firefox tab
+✔ Nightly Tester Tools - Use addons that don&#39;t support the newest Firefox version
+✔ Pixel Perfect - Overlay a webpage image on top of an actual webpage (requires Firebug)
+✔ SQLite Manager - Manage any SQLite database on your computer
+✔ Web Developer - Adds a menu and a toolbar with various web developer tools
+✔ YSlow - Analyzes web pages and why they&#39;re slow based on Yahoo!&#39;s rules
+
+Security &amp;amp; Privacy
+✔ Adblock Plus - Blocks ads automatically on any web page
+✔ BetterPrivacy - A safeguard which protects from LSO&#39;s on Google, YouTube, Ebay, etc.
+✔ BlockSite - BlockSite is an extension, which automagically blocks websites of your choice
+✔ BrowserProtect - Protect your browser against homepage and search hijacks
+✔ Flashblock - Blocks Flash from automatically playing
+✔ Ghostery - Protect your privacy, see who&#39;s tracking your web browsing and block them
+✔ LastPass Password Manager - Online password manager and form filler
+✔ LinkExtend - Provides meta-site-ratings for computer safety, child safety, popularity, etc.
+✔ NoScript - Allow active content (like Javascript) to run only from sites you trust
+✔ Password Exporter - Export your saved passwords to XML or CSV files that can be imported
+✔ ProCon - Filter web pages containing explicit content based on text on websites
+✔ Show My Password - Shows your passwords in readable letters
+✔ Tamper Data - Use tamperdata to view and modify HTTP/HTTPS headers and post parameters
+
+Social
+✔ AddThis - Share any page using social networking, bookmarking, blogging, and e-mail services
+✔ Better Gmail - Extra features for Gmail including hierarchical labels, attachment icons, and more
+✔ Boo.ly - Adds coupons, money saving deals, and price comparison to search results
+✔ ChatZilla - A clean, easy to use and highly extensible Internet Relay Chat (IRC) client
+✔ Integrated Gmail - Combines Gmail with Google Calendar, Google Reader, Gmail Labs, and more
+✔ Facebook Like - Share web pages you like and see how many people like the page you are on
+✔ Tweetbeat Firsthand - Brings in recent tweets from people and groups mentioned in the page you&#39;re on
+✔ TwitterBar - Post to Twitter from your address bar
+✔ WebMail Notifier - Checks your webmail accounts and notifies the number of unread emails
+
+Visual
+✔ ColorfulTabs - Colors every tab in a different color and makes them easy to distinguish
+✔ Fission - Combines address bar and progress bar (Safari style)
+✔ FoxTab - Flip between open tabs with a 3D display
+✔ Hide Caption Titlebar Plus - Maximize screen space by removing the Firefox window title-bar
+✔ NoSquint - Change zoom levels and color settings for all sites or per site
+✔ Personas Plus - Skins for Firefox (over 60,000 designs)
+✔ Readability - Makes reading on the Web better by removing clutter around what you&#39;re reading
+✔ Searchbar Autosizer - Autosizes the searchbar as you type
+✔ Smart Bookmarks Bar - Hide bookmark names from the bookmark bar
+✔ Smart Stop/Reload - Combines the Stop and Reload toolbar buttons
+✔ SmoothWheel - Scrolls the page smoothly when scrolling the mouse wheel
+✔ Stylish - Install user generated themes and skins for any website
+✔ Tab Progress Bar - Provides a progress meter for each tab&#34; rel=&#34;nofollow&#34;&gt;.&lt;/a&gt; When you search by image, you’ll see results that show you where that image, and similar images, appear on the web&lt;a href=&#34;https://addons.mozilla.org/en-US/firefox/addon/googlesearch-by-image/#Customization
+✔ Add to Search Bar - Make any pages&#39; search functionality available in the Search Bar
+✔ Autofill Forms - Enables you to fill out web forms with one click or a keyboard shortcut
+✔ AutoPager - Automatically loads next pages when you reach the end of a page
+✔ Firefox Sync - Access your history, passwords, bookmarks, and open tabs across your devices
+✔ Google Shortcuts - Display all of your Google Services as buttons anywhere you like
+✔ Greasemonkey - Customize any site using thousands of user scripts
+✔ KwiClick - Delivers search results in a small popup window for any selected text
+✔ Menu Editor - Rearrange menu items in the context menu and the main menu bar
+✔ New Tab King - Adds most visited sites, recently closed tabs, and suggested sites to new tabs
+✔ Organize Search Engines - Organize your search engines with separators and folders
+✔ Organize Status Bar - Organize your status bar icons
+✔ QuickJava - Quick enable and disable of Java, Javascript, Flash, Silverlight and images
+✔ Samfind Bookmarks Bar - Quickest, easiest way to access your favorite websites
+✔ Speed Dial - Direct access to your most visited websites
+✔ Tab Mix Plus - Duplicate tabs, control tab focus, undo closed tabs and windows, etc.
+
+Downloads
+✔ Download Manager Tweak - Open the download manager in a tab or sidebar, and get more info
+✔ Download Statusbar - View and manage downloads from a tidy statusbar
+✔ DownThemAll - Download manager and accelerator
+✔ NetVideoHunter - Download videos and music from video sites like Youtube
+✔ SkipScreen - Skips unnecessary pages on sites like Rapidshare, Megaupload, zShare, etc.
+
+Fun
+✔ Destroy the Web - Turn any webpage into a shoot-em up video game
+✔ FootieFox - Live soccer scores for over 200 leagues and cups of 60 countries
+✔ Kidoz TV - Turn your browser into a safe kids Web TV, safe easy and fun
+✔ KidZui - Turns Firefox into fun, kid-safe browser and online playground for kids 3-12
+✔ Puzzle - Turn any image to puzzle pieces and play
+✔ StumbleUpon - Get random websites suited to your tastes with one click
+✔ Zoodles - Turn Firefox into a safe, virtual playground for kids 3-8
+
+General
+✔ Billeo - Flags your search results where discounts and promotions are available
+✔ Context Search - Changes the context menu search into a menu with installed search engines
+✔ Feedly - Organizes your favorite sources in a magazine-like start page
+✔ Forecastfox - Adds live international weather forecast icons to the statusbar
+✔ FoxClocks - Puts small world clocks in your statusbar
+✔ Linkification - Converts text links into genuine, clickable links
+✔ MyBookmarks - Creates a formatted page from bookmarks
+✔ ReloadEvery - Reloads web pages every so many seconds or minutes
+✔ ReminderFox - Displays and manages lists of reminders and ToDo&#39;s
+✔ Resurrect Pages - When going to a missing page, easily search for cached version of it
+
+Languages
+✔ Converter - Contextual unit, timezone, and currency converter on any web site
+✔ Dictionary Switcher - Switch between installed dictionaries and the current one in the statusbar
+✔ FoxLingo - Web page and text translator, dictionary, grammar checker, text-to-speech, etc.
+✔ Quick Locale Switcher - Switch Firefox default language
+
+Media
+✔ Bargain Book Mole - Find the best book prices from 20,000+ merchants on the top book selling sites
+✔ Cooliris - Scroll an infinite 3D Wall of content from Facebook, Google, YouTube, Flickr, etc.
+✔ ImageZoom - Adds zoom and rotation functionality for images
+✔ Fire.fm - Fire.fm gives you access to the extensive music library on Last.fm
+✔ FireShot - Creates screenshots of web pages with editing and annotation tools
+✔ Flash Game Maximizer - Click a button or hit the hot-key to maximize (almost) any Flash content
+✔ FlashVideoReplacer - Replace embedded flash videos with mplayer compatible videos
+✔ FoxyTunes - Control almost any media player and find lyrics, covers, videos, bios, etc.
+✔ MediaPlayerConnectivity - Launch online videos in an external application
+✔ Picnik - Add a menu options and a toolbar icon for editing images online
+✔ Screengrab - Save webpages as images (saves an entire page, just a selection, or a frame)
+✔ TinEye Reverse Image Search - Find where an image came from and if it has a better version
+✔ TweakMDB - The Ultimate IMDB Enhancer, instantly add many tweaks to IMDB.com
+✔ TweakTube - The Ultimate YouTube Enhancer, instantly add many tweaks to YouTube
+✔ VideoSurf - Get visual video summaries and related videos on Twitter, Google, YouTube, etc.
+
+Programming
+✔ Addon Developer Helper - Restart Firefox, restart and clear XPCOM cache, or restart chrome
+✔ Console2 - Improves the JavaScript console with filtering, removing duplicates, and more
+✔ Extended Statusbar - A Statusbar with speed, percentage, time and loaded size
+✔ Firebug - Edit, debug, and monitor CSS, HTML, and JavaScript live in any web page
+✔ FireFTP - FTP client
+✔ FoxyProxy - An advanced proxy management tool
+✔ HttpFox - HTTP analyzer
+✔ IE Tab - View sites in Internet Explorer within a Firefox tab
+✔ Nightly Tester Tools - Use addons that don&#39;t support the newest Firefox version
+✔ Pixel Perfect - Overlay a webpage image on top of an actual webpage (requires Firebug)
+✔ SQLite Manager - Manage any SQLite database on your computer
+✔ Web Developer - Adds a menu and a toolbar with various web developer tools
+✔ YSlow - Analyzes web pages and why they&#39;re slow based on Yahoo!&#39;s rules
+
+Security &amp;amp; Privacy
+✔ Adblock Plus - Blocks ads automatically on any web page
+✔ BetterPrivacy - A safeguard which protects from LSO&#39;s on Google, YouTube, Ebay, etc.
+✔ BlockSite - BlockSite is an extension, which automagically blocks websites of your choice
+✔ BrowserProtect - Protect your browser against homepage and search hijacks
+✔ Flashblock - Blocks Flash from automatically playing
+✔ Ghostery - Protect your privacy, see who&#39;s tracking your web browsing and block them
+✔ LastPass Password Manager - Online password manager and form filler
+✔ LinkExtend - Provides meta-site-ratings for computer safety, child safety, popularity, etc.
+✔ NoScript - Allow active content (like Javascript) to run only from sites you trust
+✔ Password Exporter - Export your saved passwords to XML or CSV files that can be imported
+✔ ProCon - Filter web pages containing explicit content based on text on websites
+✔ Show My Password - Shows your passwords in readable letters
+✔ Tamper Data - Use tamperdata to view and modify HTTP/HTTPS headers and post parameters
+
+Social
+✔ AddThis - Share any page using social networking, bookmarking, blogging, and e-mail services
+✔ Better Gmail - Extra features for Gmail including hierarchical labels, attachment icons, and more
+✔ Boo.ly - Adds coupons, money saving deals, and price comparison to search results
+✔ ChatZilla - A clean, easy to use and highly extensible Internet Relay Chat (IRC) client
+✔ Integrated Gmail - Combines Gmail with Google Calendar, Google Reader, Gmail Labs, and more
+✔ Facebook Like - Share web pages you like and see how many people like the page you are on
+✔ Tweetbeat Firsthand - Brings in recent tweets from people and groups mentioned in the page you&#39;re on
+✔ TwitterBar - Post to Twitter from your address bar
+✔ WebMail Notifier - Checks your webmail accounts and notifies the number of unread emails
+
+Visual
+✔ ColorfulTabs - Colors every tab in a different color and makes them easy to distinguish
+✔ Fission - Combines address bar and progress bar (Safari style)
+✔ FoxTab - Flip between open tabs with a 3D display
+✔ Hide Caption Titlebar Plus - Maximize screen space by removing the Firefox window title-bar
+✔ NoSquint - Change zoom levels and color settings for all sites or per site
+✔ Personas Plus - Skins for Firefox (over 60,000 designs)
+✔ Readability - Makes reading on the Web better by removing clutter around what you&#39;re reading
+✔ Searchbar Autosizer - Autosizes the searchbar as you type
+✔ Smart Bookmarks Bar - Hide bookmark names from the bookmark bar
+✔ Smart Stop/Reload - Combines the Stop and Reload toolbar buttons
+✔ SmoothWheel - Scrolls the page smoothly when scrolling the mouse wheel
+✔ Stylish - Install user generated themes and skins for any website
+✔ Tab Progress Bar - Provides a progress meter for each tab&#34; rel=&#34;nofollow&#34;&gt;.&lt;/a&gt; You can see webpages that contain that image, or find the same image in different sizes or resolutions&lt;a href=&#34;https://addons.mozilla.org/en-US/firefox/addon/googlesearch-by-image/#Customization
+✔ Add to Search Bar - Make any pages&#39; search functionality available in the Search Bar
+✔ Autofill Forms - Enables you to fill out web forms with one click or a keyboard shortcut
+✔ AutoPager - Automatically loads next pages when you reach the end of a page
+✔ Firefox Sync - Access your history, passwords, bookmarks, and open tabs across your devices
+✔ Google Shortcuts - Display all of your Google Services as buttons anywhere you like
+✔ Greasemonkey - Customize any site using thousands of user scripts
+✔ KwiClick - Delivers search results in a small popup window for any selected text
+✔ Menu Editor - Rearrange menu items in the context menu and the main menu bar
+✔ New Tab King - Adds most visited sites, recently closed tabs, and suggested sites to new tabs
+✔ Organize Search Engines - Organize your search engines with separators and folders
+✔ Organize Status Bar - Organize your status bar icons
+✔ QuickJava - Quick enable and disable of Java, Javascript, Flash, Silverlight and images
+✔ Samfind Bookmarks Bar - Quickest, easiest way to access your favorite websites
+✔ Speed Dial - Direct access to your most visited websites
+✔ Tab Mix Plus - Duplicate tabs, control tab focus, undo closed tabs and windows, etc.
+
+Downloads
+✔ Download Manager Tweak - Open the download manager in a tab or sidebar, and get more info
+✔ Download Statusbar - View and manage downloads from a tidy statusbar
+✔ DownThemAll - Download manager and accelerator
+✔ NetVideoHunter - Download videos and music from video sites like Youtube
+✔ SkipScreen - Skips unnecessary pages on sites like Rapidshare, Megaupload, zShare, etc.
+
+Fun
+✔ Destroy the Web - Turn any webpage into a shoot-em up video game
+✔ FootieFox - Live soccer scores for over 200 leagues and cups of 60 countries
+✔ Kidoz TV - Turn your browser into a safe kids Web TV, safe easy and fun
+✔ KidZui - Turns Firefox into fun, kid-safe browser and online playground for kids 3-12
+✔ Puzzle - Turn any image to puzzle pieces and play
+✔ StumbleUpon - Get random websites suited to your tastes with one click
+✔ Zoodles - Turn Firefox into a safe, virtual playground for kids 3-8
+
+General
+✔ Billeo - Flags your search results where discounts and promotions are available
+✔ Context Search - Changes the context menu search into a menu with installed search engines
+✔ Feedly - Organizes your favorite sources in a magazine-like start page
+✔ Forecastfox - Adds live international weather forecast icons to the statusbar
+✔ FoxClocks - Puts small world clocks in your statusbar
+✔ Linkification - Converts text links into genuine, clickable links
+✔ MyBookmarks - Creates a formatted page from bookmarks
+✔ ReloadEvery - Reloads web pages every so many seconds or minutes
+✔ ReminderFox - Displays and manages lists of reminders and ToDo&#39;s
+✔ Resurrect Pages - When going to a missing page, easily search for cached version of it
+
+Languages
+✔ Converter - Contextual unit, timezone, and currency converter on any web site
+✔ Dictionary Switcher - Switch between installed dictionaries and the current one in the statusbar
+✔ FoxLingo - Web page and text translator, dictionary, grammar checker, text-to-speech, etc.
+✔ Quick Locale Switcher - Switch Firefox default language
+
+Media
+✔ Bargain Book Mole - Find the best book prices from 20,000+ merchants on the top book selling sites
+✔ Cooliris - Scroll an infinite 3D Wall of content from Facebook, Google, YouTube, Flickr, etc.
+✔ ImageZoom - Adds zoom and rotation functionality for images
+✔ Fire.fm - Fire.fm gives you access to the extensive music library on Last.fm
+✔ FireShot - Creates screenshots of web pages with editing and annotation tools
+✔ Flash Game Maximizer - Click a button or hit the hot-key to maximize (almost) any Flash content
+✔ FlashVideoReplacer - Replace embedded flash videos with mplayer compatible videos
+✔ FoxyTunes - Control almost any media player and find lyrics, covers, videos, bios, etc.
+✔ MediaPlayerConnectivity - Launch online videos in an external application
+✔ Picnik - Add a menu options and a toolbar icon for editing images online
+✔ Screengrab - Save webpages as images (saves an entire page, just a selection, or a frame)
+✔ TinEye Reverse Image Search - Find where an image came from and if it has a better version
+✔ TweakMDB - The Ultimate IMDB Enhancer, instantly add many tweaks to IMDB.com
+✔ TweakTube - The Ultimate YouTube Enhancer, instantly add many tweaks to YouTube
+✔ VideoSurf - Get visual video summaries and related videos on Twitter, Google, YouTube, etc.
+
+Programming
+✔ Addon Developer Helper - Restart Firefox, restart and clear XPCOM cache, or restart chrome
+✔ Console2 - Improves the JavaScript console with filtering, removing duplicates, and more
+✔ Extended Statusbar - A Statusbar with speed, percentage, time and loaded size
+✔ Firebug - Edit, debug, and monitor CSS, HTML, and JavaScript live in any web page
+✔ FireFTP - FTP client
+✔ FoxyProxy - An advanced proxy management tool
+✔ HttpFox - HTTP analyzer
+✔ IE Tab - View sites in Internet Explorer within a Firefox tab
+✔ Nightly Tester Tools - Use addons that don&#39;t support the newest Firefox version
+✔ Pixel Perfect - Overlay a webpage image on top of an actual webpage (requires Firebug)
+✔ SQLite Manager - Manage any SQLite database on your computer
+✔ Web Developer - Adds a menu and a toolbar with various web developer tools
+✔ YSlow - Analyzes web pages and why they&#39;re slow based on Yahoo!&#39;s rules
+
+Security &amp;amp; Privacy
+✔ Adblock Plus - Blocks ads automatically on any web page
+✔ BetterPrivacy - A safeguard which protects from LSO&#39;s on Google, YouTube, Ebay, etc.
+✔ BlockSite - BlockSite is an extension, which automagically blocks websites of your choice
+✔ BrowserProtect - Protect your browser against homepage and search hijacks
+✔ Flashblock - Blocks Flash from automatically playing
+✔ Ghostery - Protect your privacy, see who&#39;s tracking your web browsing and block them
+✔ LastPass Password Manager - Online password manager and form filler
+✔ LinkExtend - Provides meta-site-ratings for computer safety, child safety, popularity, etc.
+✔ NoScript - Allow active content (like Javascript) to run only from sites you trust
+✔ Password Exporter - Export your saved passwords to XML or CSV files that can be imported
+✔ ProCon - Filter web pages containing explicit content based on text on websites
+✔ Show My Password - Shows your passwords in readable letters
+✔ Tamper Data - Use tamperdata to view and modify HTTP/HTTPS headers and post parameters
+
+Social
+✔ AddThis - Share any page using social networking, bookmarking, blogging, and e-mail services
+✔ Better Gmail - Extra features for Gmail including hierarchical labels, attachment icons, and more
+✔ Boo.ly - Adds coupons, money saving deals, and price comparison to search results
+✔ ChatZilla - A clean, easy to use and highly extensible Internet Relay Chat (IRC) client
+✔ Integrated Gmail - Combines Gmail with Google Calendar, Google Reader, Gmail Labs, and more
+✔ Facebook Like - Share web pages you like and see how many people like the page you are on
+✔ Tweetbeat Firsthand - Brings in recent tweets from people and groups mentioned in the page you&#39;re on
+✔ TwitterBar - Post to Twitter from your address bar
+✔ WebMail Notifier - Checks your webmail accounts and notifies the number of unread emails
+
+Visual
+✔ ColorfulTabs - Colors every tab in a different color and makes them easy to distinguish
+✔ Fission - Combines address bar and progress bar (Safari style)
+✔ FoxTab - Flip between open tabs with a 3D display
+✔ Hide Caption Titlebar Plus - Maximize screen space by removing the Firefox window title-bar
+✔ NoSquint - Change zoom levels and color settings for all sites or per site
+✔ Personas Plus - Skins for Firefox (over 60,000 designs)
+✔ Readability - Makes reading on the Web better by removing clutter around what you&#39;re reading
+✔ Searchbar Autosizer - Autosizes the searchbar as you type
+✔ Smart Bookmarks Bar - Hide bookmark names from the bookmark bar
+✔ Smart Stop/Reload - Combines the Stop and Reload toolbar buttons
+✔ SmoothWheel - Scrolls the page smoothly when scrolling the mouse wheel
+✔ Stylish - Install user generated themes and skins for any website
+✔ Tab Progress Bar - Provides a progress meter for each tab&#34; rel=&#34;nofollow&#34;&gt;.&lt;/a&gt;
+
+» &lt;a href=&#34;http://outgoing.mozilla.org/v1/5d06867201626930a17896865169570c97a0aff0/https%3A//chrome.google.com/webstore/detail/agdigejhabbnmfbbebmchkkjhcdjmeli&#34; rel=&#34;nofollow&#34;&gt;&lt;i&gt;Search by Image for Google - also available for Google Chrome&lt;/i&gt;&lt;/a&gt;
+
+To learn more about Search by Image, visit &lt;a href=&#34;http://outgoing.mozilla.org/v1/d00addea0f143e1ffc8e334aabf31f105e3fdfd6/http%3A//www.google.com/insidesearch/searchbyimage.html&#34; rel=&#34;nofollow&#34;&gt;http://www.google.com/insidesearch/searchbyimage.html&lt;/a&gt;
+
+&lt;b&gt;Google Image Search is similar to Tineye Reverse Image Search&lt;/b&gt; &lt;a href=&#34;https://addons.mozilla.org/en-US/firefox/addon/googlesearch-by-image/#Customization
+✔ Add to Search Bar - Make any pages&#39; search functionality available in the Search Bar
+✔ Autofill Forms - Enables you to fill out web forms with one click or a keyboard shortcut
+✔ AutoPager - Automatically loads next pages when you reach the end of a page
+✔ Firefox Sync - Access your history, passwords, bookmarks, and open tabs across your devices
+✔ Google Shortcuts - Display all of your Google Services as buttons anywhere you like
+✔ Greasemonkey - Customize any site using thousands of user scripts
+✔ KwiClick - Delivers search results in a small popup window for any selected text
+✔ Menu Editor - Rearrange menu items in the context menu and the main menu bar
+✔ New Tab King - Adds most visited sites, recently closed tabs, and suggested sites to new tabs
+✔ Organize Search Engines - Organize your search engines with separators and folders
+✔ Organize Status Bar - Organize your status bar icons
+✔ QuickJava - Quick enable and disable of Java, Javascript, Flash, Silverlight and images
+✔ Samfind Bookmarks Bar - Quickest, easiest way to access your favorite websites
+✔ Speed Dial - Direct access to your most visited websites
+✔ Tab Mix Plus - Duplicate tabs, control tab focus, undo closed tabs and windows, etc.
+
+Downloads
+✔ Download Manager Tweak - Open the download manager in a tab or sidebar, and get more info
+✔ Download Statusbar - View and manage downloads from a tidy statusbar
+✔ DownThemAll - Download manager and accelerator
+✔ NetVideoHunter - Download videos and music from video sites like Youtube
+✔ SkipScreen - Skips unnecessary pages on sites like Rapidshare, Megaupload, zShare, etc.
+
+Fun
+✔ Destroy the Web - Turn any webpage into a shoot-em up video game
+✔ FootieFox - Live soccer scores for over 200 leagues and cups of 60 countries
+✔ Kidoz TV - Turn your browser into a safe kids Web TV, safe easy and fun
+✔ KidZui - Turns Firefox into fun, kid-safe browser and online playground for kids 3-12
+✔ Puzzle - Turn any image to puzzle pieces and play
+✔ StumbleUpon - Get random websites suited to your tastes with one click
+✔ Zoodles - Turn Firefox into a safe, virtual playground for kids 3-8
+
+General
+✔ Billeo - Flags your search results where discounts and promotions are available
+✔ Context Search - Changes the context menu search into a menu with installed search engines
+✔ Feedly - Organizes your favorite sources in a magazine-like start page
+✔ Forecastfox - Adds live international weather forecast icons to the statusbar
+✔ FoxClocks - Puts small world clocks in your statusbar
+✔ Linkification - Converts text links into genuine, clickable links
+✔ MyBookmarks - Creates a formatted page from bookmarks
+✔ ReloadEvery - Reloads web pages every so many seconds or minutes
+✔ ReminderFox - Displays and manages lists of reminders and ToDo&#39;s
+✔ Resurrect Pages - When going to a missing page, easily search for cached version of it
+
+Languages
+✔ Converter - Contextual unit, timezone, and currency converter on any web site
+✔ Dictionary Switcher - Switch between installed dictionaries and the current one in the statusbar
+✔ FoxLingo - Web page and text translator, dictionary, grammar checker, text-to-speech, etc.
+✔ Quick Locale Switcher - Switch Firefox default language
+
+Media
+✔ Bargain Book Mole - Find the best book prices from 20,000+ merchants on the top book selling sites
+✔ Cooliris - Scroll an infinite 3D Wall of content from Facebook, Google, YouTube, Flickr, etc.
+✔ ImageZoom - Adds zoom and rotation functionality for images
+✔ Fire.fm - Fire.fm gives you access to the extensive music library on Last.fm
+✔ FireShot - Creates screenshots of web pages with editing and annotation tools
+✔ Flash Game Maximizer - Click a button or hit the hot-key to maximize (almost) any Flash content
+✔ FlashVideoReplacer - Replace embedded flash videos with mplayer compatible videos
+✔ FoxyTunes - Control almost any media player and find lyrics, covers, videos, bios, etc.
+✔ MediaPlayerConnectivity - Launch online videos in an external application
+✔ Picnik - Add a menu options and a toolbar icon for editing images online
+✔ Screengrab - Save webpages as images (saves an entire page, just a selection, or a frame)
+✔ TinEye Reverse Image Search - Find where an image came from and if it has a better version
+✔ TweakMDB - The Ultimate IMDB Enhancer, instantly add many tweaks to IMDB.com
+✔ TweakTube - The Ultimate YouTube Enhancer, instantly add many tweaks to YouTube
+✔ VideoSurf - Get visual video summaries and related videos on Twitter, Google, YouTube, etc.
+
+Programming
+✔ Addon Developer Helper - Restart Firefox, restart and clear XPCOM cache, or restart chrome
+✔ Console2 - Improves the JavaScript console with filtering, removing duplicates, and more
+✔ Extended Statusbar - A Statusbar with speed, percentage, time and loaded size
+✔ Firebug - Edit, debug, and monitor CSS, HTML, and JavaScript live in any web page
+✔ FireFTP - FTP client
+✔ FoxyProxy - An advanced proxy management tool
+✔ HttpFox - HTTP analyzer
+✔ IE Tab - View sites in Internet Explorer within a Firefox tab
+✔ Nightly Tester Tools - Use addons that don&#39;t support the newest Firefox version
+✔ Pixel Perfect - Overlay a webpage image on top of an actual webpage (requires Firebug)
+✔ SQLite Manager - Manage any SQLite database on your computer
+✔ Web Developer - Adds a menu and a toolbar with various web developer tools
+✔ YSlow - Analyzes web pages and why they&#39;re slow based on Yahoo!&#39;s rules
+
+Security &amp;amp; Privacy
+✔ Adblock Plus - Blocks ads automatically on any web page
+✔ BetterPrivacy - A safeguard which protects from LSO&#39;s on Google, YouTube, Ebay, etc.
+✔ BlockSite - BlockSite is an extension, which automagically blocks websites of your choice
+✔ BrowserProtect - Protect your browser against homepage and search hijacks
+✔ Flashblock - Blocks Flash from automatically playing
+✔ Ghostery - Protect your privacy, see who&#39;s tracking your web browsing and block them
+✔ LastPass Password Manager - Online password manager and form filler
+✔ LinkExtend - Provides meta-site-ratings for computer safety, child safety, popularity, etc.
+✔ NoScript - Allow active content (like Javascript) to run only from sites you trust
+✔ Password Exporter - Export your saved passwords to XML or CSV files that can be imported
+✔ ProCon - Filter web pages containing explicit content based on text on websites
+✔ Show My Password - Shows your passwords in readable letters
+✔ Tamper Data - Use tamperdata to view and modify HTTP/HTTPS headers and post parameters
+
+Social
+✔ AddThis - Share any page using social networking, bookmarking, blogging, and e-mail services
+✔ Better Gmail - Extra features for Gmail including hierarchical labels, attachment icons, and more
+✔ Boo.ly - Adds coupons, money saving deals, and price comparison to search results
+✔ ChatZilla - A clean, easy to use and highly extensible Internet Relay Chat (IRC) client
+✔ Integrated Gmail - Combines Gmail with Google Calendar, Google Reader, Gmail Labs, and more
+✔ Facebook Like - Share web pages you like and see how many people like the page you are on
+✔ Tweetbeat Firsthand - Brings in recent tweets from people and groups mentioned in the page you&#39;re on
+✔ TwitterBar - Post to Twitter from your address bar
+✔ WebMail Notifier - Checks your webmail accounts and notifies the number of unread emails
+
+Visual
+✔ ColorfulTabs - Colors every tab in a different color and makes them easy to distinguish
+✔ Fission - Combines address bar and progress bar (Safari style)
+✔ FoxTab - Flip between open tabs with a 3D display
+✔ Hide Caption Titlebar Plus - Maximize screen space by removing the Firefox window title-bar
+✔ NoSquint - Change zoom levels and color settings for all sites or per site
+✔ Personas Plus - Skins for Firefox (over 60,000 designs)
+✔ Readability - Makes reading on the Web better by removing clutter around what you&#39;re reading
+✔ Searchbar Autosizer - Autosizes the searchbar as you type
+✔ Smart Bookmarks Bar - Hide bookmark names from the bookmark bar
+✔ Smart Stop/Reload - Combines the Stop and Reload toolbar buttons
+✔ SmoothWheel - Scrolls the page smoothly when scrolling the mouse wheel
+✔ Stylish - Install user generated themes and skins for any website
+✔ Tab Progress Bar - Provides a progress meter for each tab&#34; rel=&#34;nofollow&#34;&gt;.&lt;/a&gt;
+
+The add-on works in conjunction with:
+&lt;b&gt;Greasemonkey&lt;/b&gt;
+Greasemonkey customizes the way a web page displays or behaves, by using small bits of JavaScript.
+&lt;b&gt;NoScript&lt;/b&gt;
+With NoScript you get additional protection for your browser. Surf safe with Noscript.
+&lt;b&gt;Cooliris&lt;/b&gt;
+Cooliris offers you the fastest and most stunning way to browse photos and videos from the Web or your desktop. Experience the Cooliris 3D Wall.
+&lt;b&gt;FastestFox&lt;/b&gt;
+Save time by speeding up repetitive tasks with FastestFox. Improve your websearch with FastestFox.
+&lt;b&gt;AutoPager&lt;/b&gt;
+AutoPager automatically loads next pages when you reach the end of a page. AutoPager works on a ton of sites,Google,Yahoo,...
+
+The add-on works in conjunction with:
+&lt;b&gt;Greasemonkey&lt;/b&gt;
+Greasemonkey customizes the way a web page displays or behaves, by using small bits of JavaScript.
+&lt;b&gt;NoScript&lt;/b&gt;
+With NoScript you get additional protection for your browser. Surf safe with Noscript.
+&lt;b&gt;Cooliris&lt;/b&gt;
+Cooliris offers you the fastest and most stunning way to browse photos and videos from the Web or your desktop. Experience the Cooliris 3D Wall.
+&lt;b&gt;FastestFox&lt;/b&gt;
+Save time by speeding up repetitive tasks with FastestFox. Improve your websearch with FastestFox.
+&lt;b&gt;AutoPager&lt;/b&gt;
+AutoPager automatically loads next pages when you reach the end of a page. AutoPager works on a ton of sites,Google,Yahoo,...
+
+If you experience problems using Search by Image for Google together with any other add-on, please tell us and we will try to make it compatible.</description><license>
+    <name>License</name>
+    <url>http://www.mozilla.org/MPL/MPL-1.1.html</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/326/326822-64.png?modified=1353487014</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/326/326822-32.png?modified=1353487014</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>8.0a1</min_version>
+      <max_version>33.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="" width="400" height="275">
+        https://addons.cdn.mozilla.net/user-media/previews/full/60/60065.png?src=api&amp;modified=1309795978
+      </full>
+      <thumbnail type="" width="200" height="137">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/60/60065.png?src=api&amp;modified=1309795978
+      </thumbnail></preview></previews><rating>4</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/googlesearch-by-image/?src=api</learnmore><install hash="sha256:8e7e875314d67e55e04732006eeffe2b04000aea46b6035d40603b6c3f6b5b81"
+    os="ALL"
+    size="5120">https://addons.mozilla.org/firefox/downloads/file/148258/search_by_image_for_google-1.2.0-fx.xpi?src=api</install>
+  <developer_comments></developer_comments>
+    <reviews num="91">
+      https://addons.mozilla.org/en-US/firefox/addon/googlesearch-by-image/reviews/?src=api
+    </reviews>
+    <total_downloads>325007</total_downloads>
+    <weekly_downloads>284</weekly_downloads>
+    <daily_users>38032</daily_users>
+    <created epoch="1309793457">
+      2011-07-04T15:30:57Z
+    </created>
+    <last_updated epoch="1333600825">
+      2012-04-05T04:40:25Z
+    </last_updated>
+    <homepage></homepage>
+    <support></support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+    </searchresults>

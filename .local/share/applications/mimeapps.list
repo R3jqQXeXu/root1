@@ -1,0 +1,26 @@
+[Default Applications]
+x-scheme-handler/http=userapp-Iceweasel-APCMOX.desktop
+x-scheme-handler/https=userapp-Iceweasel-APCMOX.desktop
+x-scheme-handler/ftp=userapp-Iceweasel-APCMOX.desktop
+x-scheme-handler/chrome=userapp-Iceweasel-APCMOX.desktop
+text/html=userapp-Iceweasel-APCMOX.desktop
+application/x-extension-htm=userapp-Iceweasel-APCMOX.desktop
+application/x-extension-html=userapp-Iceweasel-APCMOX.desktop
+application/x-extension-shtml=userapp-Iceweasel-APCMOX.desktop
+application/xhtml+xml=userapp-Iceweasel-APCMOX.desktop
+application/x-extension-xhtml=userapp-Iceweasel-APCMOX.desktop
+application/x-extension-xht=userapp-Iceweasel-APCMOX.desktop
+
+[Added Associations]
+x-scheme-handler/http=userapp-Iceweasel-APCMOX.desktop;
+x-scheme-handler/https=userapp-Iceweasel-APCMOX.desktop;
+x-scheme-handler/ftp=userapp-Iceweasel-APCMOX.desktop;
+x-scheme-handler/chrome=userapp-Iceweasel-APCMOX.desktop;
+text/html=userapp-Iceweasel-APCMOX.desktop;
+application/x-extension-htm=userapp-Iceweasel-APCMOX.desktop;
+application/x-extension-html=userapp-Iceweasel-APCMOX.desktop;
+application/x-extension-shtml=userapp-Iceweasel-APCMOX.desktop;
+application/xhtml+xml=userapp-Iceweasel-APCMOX.desktop;
+application/x-extension-xhtml=userapp-Iceweasel-APCMOX.desktop;
+application/x-extension-xht=userapp-Iceweasel-APCMOX.desktop;
+text/plain=sublime_text.desktop;

@@ -1,0 +1,1546 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<searchresults total_results="91">
+          <addon id="458849">
+  <name>HTTP UserAgent cleaner</name>
+  <type id="1">Extension</type>
+  <guid>HTTPUserAgentcleaner@addons.8vs.ru</guid>
+  <slug>http-useragent-cleaner</slug>
+  <version>0.6.0.6</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="10199087">
+      <name>fdsc</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/fdsc/?src=api</link>
+    </author>      </authors>
+  <summary>Increases privacy on the Internet (hinder tracking; disable some cookies) and allows you to disable unsafe ciphers in https (see &#34;Short manual&#34; in description)</summary>
+  <description>Write to support in &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/f2c17717373e5c3964c49030dc68f39ed8d015371c1750ed36523c874a24de2f/http%3A//fxprivacy.8vs.ru/&#34;&gt;http://fxprivacy.8vs.ru/&lt;/a&gt; if you have problem or localization bugs.
+
+Warning:
+
+* By default, the filters are configured to position &#34;disabled&#34; (off), that is the extension does nothing.
+
+* &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/b3b2182db18c7e4fc076610e6b32307553ffec557427a41b2d3a1ece68d766db/http%3A//mozilla.net&#34;&gt;mozilla.net&lt;/a&gt;, &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/cd575b688061106e82588d273087096c5db5c94715f1a71eacd20a65d434f7b7/http%3A//mozilla.org&#34;&gt;mozilla.org&lt;/a&gt; and &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/bba8b25c13e03113387327368bdcfc3b8173bf5ceaf789791e5b1e06870fbeb1/http%3A//mozilla.com&#34;&gt;mozilla.com&lt;/a&gt; are trusted. Blocking for downloads of images, scripts, etc. with these domains do not work or work partially, even if the extension is configured to block it.
+Do not block these domains in extension.
+
+* Extension sets the configuration of the NoScript extension &#34;noscript.doNotTrack.enabled&#34; to false, as this setting is in conflict with the extension.
+By default, the filter DNT set to &#34;do not allow to track&#34; that replaces the functionality that has been disabled in NoScript. (in versions 0.6.1 and higher)
+
+* Extension sets extension configuration CipherFox &#34;extensions.cipherfox.disable_rc4&#34; (disable cipher RC4) to false because it conflicts with the extension functions.
+To disable RC4, open panel extensions, go to the tab &#34;FireFox&#34; and disable RC4 (RC4 off if in the table below &#34;RC4&#34; header it shows &#34;-&#34; on red background) (in versions 0.6.1 and higher)
+
+---------------------------------
+
+Opportunities:
+
+* Cleaning or random &#34;User-agent&#34; header filling and JavaScript navigator object (setting for selected domains or for all domains) -- see &#34;User Agent&#34; filter.
+* Cleaning plugins array for inability to find out what plugins you have installed, go to enhance your privacy. The function can be switched off on the domains you trust. -- see &#34;Plugins&#34; filter.
+* Manage included in FireFox ciphers: RC4, DSS and other (+/- - partially allowed) -- see https ciphers row (given the variety of attacks, the most strong cipher in TLS now AES 128 GCM, but it is not supported for many web sites)
+* Manage security settings in FireFox - the minimum and the maximum version of TLS, using the fonts collection, plugins default state -- see settings row
+o Disable the HTTP-Referer header for all queries (&#34;enabled&#34;) or requests outside of the loading page domain (&#34;host&#34;)
+o Turn on a fake header X-Forwarded-For
+o Disable LocalStorage, SessionStorage and IndexedDB
+o Replace the Accept-header to &#34;*/*&#34; (or random for html)
+o Disable caching and ETag
+o Disable loading images, scripts and audio (does not resrtict work for embedded objects directly in the page by protocol &#34;data:&#34;, &#34;blob:&#34;,. &#34;javascript&#34;, script tag and other -- separate files blocked only)
+o Disable Ajax and WebSocket
+o Disabled window . name
+o Disable cookies (do not clean cookies, but temporary cancel for load), &#34;host&#34; option block cookies for 2 level domain different by tab 2 level domain. In &#34;host&#34;: when clicking links or service redirect occured sometimes there is the inability to authentication (login). Reload page manually or disable &#34;host&#34; option.
+
+Use other extensions, they also increase your level of security and privacy on the Internet. &lt;a rel=&#34;nofollow&#34; href=&#34;https://addons.mozilla.org/ru/firefox/collections/fdsc/p/&#34;&gt;https://addons.mozilla.org/ru/firefox/collections/fdsc/p/&lt;/a&gt; .
+When using the CipherFox extension do to disable the setting &#34;disable the RC4 cipher&#34;, because else extensios will conflict.
+
+Check your privacy through the sites &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/aa012cfbb07c8d913d08f26583ead77d4ab52e31508c03e845be154a4ccae986/http%3A//samy.pl/evercookie&#34;&gt;http://samy.pl/evercookie/&lt;/a&gt;, &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/f2a4dbced0591b820613bbad0b7643fd2d4f424fd83ede097a4a2d3760928ef2/https%3A//panopticlick.eff.org/&#34;&gt;https://panopticlick.eff.org/&lt;/a&gt;, &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/e00a70a16b00c5ac754d4699b39d6c4526dda0418b00763dd655e963641a0d13/http%3A//fingerprint.pet-portal.eu/&#34;&gt;http://fingerprint.pet-portal.eu/&lt;/a&gt;.
+
+Please report bugs to the address mentioned on the extension website.
+
+Do not go to the web links in the comments. They may lead to malicious websites.
+
+---------------------------------------------------------------------------------------------------
+
+
+Short manual.
+4 statuses column in &#34;HTTP&#34; settings tab.
+First - current status (enabled/disabled) of filter.
+Second - saved status. Automatically restored by FireFox restart.
+Third and fourth - statuses for 2 level domain and host. Status is saved and current at once.
+
+Third column (domain) - example, status for domain &#34;&lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/e53f8d53f1f0714f6c8ee399b64721c2e64536fa1f588908771e6f8958cdcc66/http%3A//yandex.ru&#34;&gt;yandex.ru&lt;/a&gt;&#34;. Rule accepted for all domains *.yandex.ru.
+fourth column - example, status for domain &#34;&lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/63d922a121d511f905944990f6fc4abebabe86713b434b1c3db7a62a4f6ca1fd/http%3A//mail.yandex.ru&#34;&gt;mail.yandex.ru&lt;/a&gt;&#34;. Rule accepted for only pages with address &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/c5fbab4b5fd51705e6cf6782829549823cd27e14dd984d62177362085a0dc818/http%3A//mail.yandex.ru/%2A&#34;&gt;http://mail.yandex.ru/*&lt;/a&gt; and &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/efdd554ff67f37a3fe9a1a93508bdc0b183c1ec03e7d0651a9d37f34e37b096c/https%3A//mail.yandex.ru/%2A&#34;&gt;https://mail.yandex.ru/*&lt;/a&gt; .
+
+fourth column is a higher priority of filter status.
+Third column is a medium priority of filter status.
+First column is a lowest priority of filter status.
+
+You can temporarily increase the priority of filter status. Click to number in first column.
+Statuses of range 1-4 make first column status to higher priority. Rule for domain will be temporarily disabled.
+
+
+In top row manage the settings for FireFox (mouse move to tab &#34;FireFox&#34;):
+Download - disable fonts (if &#34;-&#34;) , fonts has been downloaded by site if &#34;+&#34;.
+Sanitize - if &#34;+&#34; - enable sanitize fonts.
+Document - if &#34;-&#34; - disabled page specific fonts.
+Negotiation (Treat and Require) - recommended to enable. See &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/ec4180c31e56115ee6165d175316ce3f0ee20438cadc50931ea8baa1b1f3fc4b/https%3A//wiki.mozilla.org/Security%3ARenegotiation%23Control&#34;&gt;https://wiki.mozilla.org/Security:Renegotiation#Control&lt;/a&gt;
+( security.ssl.require_safe_negotiation setting )
+
+TLS min/max - minimum and maximum TLS version. Recommended max TLS - &#34;TLS 1.2&#34;. This is https protocol version.</description><license>
+    <name></name>
+    <url>https://addons.mozilla.org/en-US/firefox/addon/http-useragent-cleaner/license/0.6.0.6</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/458/458849-64.png?modified=1414425194</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/458/458849-32.png?modified=1414425194</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>31.0</min_version>
+      <max_version>34.0</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="" width="700" height="465">
+        https://addons.cdn.mozilla.net/user-media/previews/full/143/143148.png?src=api&amp;modified=1414425194
+      </full>
+      <thumbnail type="" width="200" height="133">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/143/143148.png?src=api&amp;modified=1414425194
+      </thumbnail><caption>Setting control panel. &#34;HTTP&#34; tab (russian)</caption></preview><preview position="1">
+      <full type="" width="700" height="475">
+        https://addons.cdn.mozilla.net/user-media/previews/full/139/139368.png?src=api&amp;modified=1414425194
+      </full>
+      <thumbnail type="" width="200" height="136">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/139/139368.png?src=api&amp;modified=1414425194
+      </thumbnail><caption>Setting control panel. &#34;FireFox&#34; tab (russian)</caption></preview><preview position="2">
+      <full type="" width="700" height="464">
+        https://addons.cdn.mozilla.net/user-media/previews/full/143/143150.png?src=api&amp;modified=1414425194
+      </full>
+      <thumbnail type="" width="200" height="133">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/143/143150.png?src=api&amp;modified=1414425194
+      </thumbnail><caption>Setting control panel. &#34;HTTP&#34; tab (english)</caption></preview><preview position="3">
+      <full type="" width="700" height="466">
+        https://addons.cdn.mozilla.net/user-media/previews/full/143/143152.png?src=api&amp;modified=1414425194
+      </full>
+      <thumbnail type="" width="200" height="133">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/143/143152.png?src=api&amp;modified=1414425194
+      </thumbnail><caption>Setting control panel. &#34;FireFox&#34; tab (english)</caption></preview><preview position="4">
+      <full type="" width="700" height="465">
+        https://addons.cdn.mozilla.net/user-media/previews/full/145/145460.png?src=api&amp;modified=1414425194
+      </full>
+      <thumbnail type="" width="200" height="133">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/145/145460.png?src=api&amp;modified=1414425194
+      </thumbnail><caption>Setting control panel in 0.6.5.3 version. &#34;FireFox&#34; tab (russian)</caption></preview></previews><rating>4</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/http-useragent-cleaner/?src=api</learnmore><install hash="sha256:77a731c184e4028c523ba1128f8f1c760d132e004a8283cf77169e3daffb7fcc"
+    os="ALL"
+    size="55385">https://addons.mozilla.org/firefox/downloads/file/269346/http_useragent_cleaner-0.6.0.6-fx.xpi?src=api</install>
+  <install hash="sha256:026da49a8ae7e5f60e51eefc5ddfbdb6e641744e43549390fa56d543512971fc" os=""
+             size="58098"
+             status="Beta">
+      https://addons.mozilla.org/firefox/downloads/file/281918/http_useragent_cleaner-0.6.5.4rc-fx.xpi?src=api
+    </install>
+    <developer_comments></developer_comments>
+    <reviews num="9">
+      https://addons.mozilla.org/en-US/firefox/addon/http-useragent-cleaner/reviews/?src=api
+    </reviews>
+    <total_downloads>14147</total_downloads>
+    <weekly_downloads>45</weekly_downloads>
+    <daily_users>1448</daily_users>
+    <created epoch="1375624970">
+      2013-08-04T14:02:50Z
+    </created>
+    <last_updated epoch="1407885034">
+      2014-08-12T23:10:34Z
+    </last_updated>
+    <homepage>http://fxprivacy.8vs.ru/</homepage>
+    <support>http://fxprivacy.8vs.ru</support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="344114">
+  <name>userAgentUpdater</name>
+  <type id="1">Extension</type>
+  <guid>jid1-aPwS0JCl36iLkQ@jetpack</guid>
+  <slug>useragentupdater</slug>
+  <version>0.4</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="5680779">
+      <name>Abdullah Diaa</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/AbdullahDiaa/?src=api</link>
+    </author>      </authors>
+  <summary>User Agent Updater Enables you to update User Agent immediately through context-Menu</summary>
+  <description>&lt;strong&gt;Custom User-Agents :&lt;/strong&gt;
+to use your custom User Agent , just press &lt;b&gt;Ctrl+Shift+u&lt;/b&gt; and enter your custom UA then press enter , 
+or enter one of those predefined values
+&lt;ul&gt;&lt;li&gt;default&lt;/li&gt;&lt;li&gt;firefox&lt;/li&gt;&lt;li&gt;safari&lt;/li&gt;&lt;li&gt;IE&lt;/li&gt;&lt;li&gt;opera&lt;/li&gt;&lt;li&gt;ios&lt;/li&gt;&lt;li&gt;android&lt;/li&gt;&lt;/ul&gt;
+&lt;strong&gt;Supported User-Agents :&lt;/strong&gt;
+&lt;ul&gt;&lt;li&gt; Internet Explorer 6/7/8/9/10&lt;/li&gt;&lt;li&gt;  Nokia/Symbian &lt;ul&gt; &lt;li&gt; S60 3rd Edition&lt;/li&gt; &lt;li&gt; S60 3rd Edition Feature Pack 1&lt;/li&gt; &lt;li&gt;  S60 3rd Edition Feature Pack 2&lt;/li&gt; &lt;li&gt;  S60 5th Edition&lt;/li&gt; &lt;li&gt;  Symbian^3&lt;/li&gt; &lt;li&gt;  Symbian S40&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;  iOS/iPhone 4&lt;/li&gt;&lt;li&gt; Android 2.2 &lt;/li&gt;&lt;li&gt;  Google Chrome 15.0&lt;/li&gt;&lt;li&gt; Safari 5.0.5&lt;/li&gt;&lt;li&gt; Opera 12.0&lt;/li&gt;&lt;li&gt; Opera mini 9.80&lt;/li&gt;&lt;/ul&gt;</description><license>
+    <name>GNU General Public License, version 2.0</name>
+    <url>http://www.gnu.org/licenses/gpl-2.0.html</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/344/344114-64.png?modified=1366122028</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/344/344114-32.png?modified=1366122028</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>19.0</min_version>
+      <max_version>25.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="" width="700" height="140">
+        https://addons.cdn.mozilla.net/user-media/previews/full/63/63735.png?src=api&amp;modified=1348518747
+      </full>
+      <thumbnail type="" width="200" height="40">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/63/63735.png?src=api&amp;modified=1348518747
+      </thumbnail><caption>User Agent Menu</caption></preview><preview position="1">
+      <full type="" width="700" height="468">
+        https://addons.cdn.mozilla.net/user-media/previews/full/78/78674.png?src=api&amp;modified=1348543952
+      </full>
+      <thumbnail type="" width="200" height="134">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/78/78674.png?src=api&amp;modified=1348543952
+      </thumbnail><caption>Ctrl+Shift+U panel with predefined user agents</caption></preview><preview position="2">
+      <full type="" width="700" height="460">
+        https://addons.cdn.mozilla.net/user-media/previews/full/78/78676.png?src=api&amp;modified=1348543952
+      </full>
+      <thumbnail type="" width="200" height="131">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/78/78676.png?src=api&amp;modified=1348543952
+      </thumbnail><caption>Ctrl+Shift+U panel with predefined user agents</caption></preview></previews><rating>3</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/useragentupdater/?src=api</learnmore><install hash="sha256:c82b8a1de45be490d3b976b30c9a81e12a2fa3a3a9d65db6efc4d8065c73dab9"
+    os="ALL"
+    size="382710">https://addons.mozilla.org/firefox/downloads/file/202356/useragentupdater-0.4-fx.xpi?src=api</install>
+  <developer_comments>The addon is open source &lt;a href=&#34;http://outgoing.mozilla.org/v1/80ea35a85d0c799e782777de8f7d4189bc12c5cd/https%3A//github.com/AbdullahDiaa/UserAgentUpdater&#34; rel=&#34;nofollow&#34;&gt;https://github.com/AbdullahDiaa/UserAgentUpdater&lt;/a&gt;</developer_comments>
+    <reviews num="4">
+      https://addons.mozilla.org/en-US/firefox/addon/useragentupdater/reviews/?src=api
+    </reviews>
+    <total_downloads>102077</total_downloads>
+    <weekly_downloads>57</weekly_downloads>
+    <daily_users>7366</daily_users>
+    <created epoch="1318086640">
+      2011-10-08T15:10:40Z
+    </created>
+    <last_updated epoch="1366121988">
+      2013-04-16T14:19:48Z
+    </last_updated>
+    <homepage>https://github.com/AbdullahDiaa/UserAgentUpdater</homepage>
+    <support>https://github.com/AbdullahDiaa/UserAgentUpdater/issues</support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="287766">
+  <name>User Agent RG</name>
+  <type id="1">Extension</type>
+  <guid>useragentrg@mozilla.org</guid>
+  <slug>user-agent-rg</slug>
+  <version>1.0</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="5534408">
+      <name>justin Ƨullivan</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/j%C6%A7ully/?src=api</link>
+    </author>      </authors>
+  <summary>A really generic user agent switcher, no restart required.</summary>
+  <description>It&#39;s in the &#34;Tools&#34; Menu.  Hint: press &#34;Alt&#34; to get quick access to the Firefox menu bar.</description>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/287/287766-64.png?modified=1306872776</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/287/287766-32.png?modified=1306872776</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>4.0b1</min_version>
+      <max_version>18.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="" width="448" height="404">
+        https://addons.cdn.mozilla.net/user-media/previews/full/54/54617.png?src=api&amp;modified=1299368551
+      </full>
+      <thumbnail type="" width="166" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/54/54617.png?src=api&amp;modified=1299368551
+      </thumbnail></preview></previews><rating>3</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/user-agent-rg/?src=api</learnmore><install hash="sha256:e32071cc4d95c2dfdb3795a89a48af80429d0f38a38a892dfca87a6613fe00a7"
+    os="ALL"
+    size="2048">https://addons.mozilla.org/firefox/downloads/file/113042/user_agent_rg-1.0-fx.xpi?src=api</install>
+  <contribution_data>
+      <link>https://addons.mozilla.org/en-US/firefox/addon/user-agent-rg/contribute/?src=api</link>
+                <suggested_amount currency="USD" amount="1.50">
+            $1.50
+          </suggested_amount>
+            <meet_developers>
+        https://addons.mozilla.org/en-US/firefox/addon/user-agent-rg/developers?src=api
+      </meet_developers>
+    </contribution_data><developer_comments></developer_comments>
+    <reviews num="25">
+      https://addons.mozilla.org/en-US/firefox/addon/user-agent-rg/reviews/?src=api
+    </reviews>
+    <total_downloads>352164</total_downloads>
+    <weekly_downloads>135</weekly_downloads>
+    <daily_users>15195</daily_users>
+    <created epoch="1299127348">
+      2011-03-03T04:42:28Z
+    </created>
+    <last_updated epoch="1301589517">
+      2011-03-31T16:38:37Z
+    </last_updated>
+    <homepage></homepage>
+    <support></support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="59">
+  <name>User Agent Switcher</name>
+  <type id="1">Extension</type>
+  <guid>{e968fc70-8f95-4ab9-9e79-304de2a71ee1}</guid>
+  <slug>user-agent-switcher</slug>
+  <version>0.7.3</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="45">
+      <name>chrispederick</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/chrispederick/?src=api</link>
+    </author>      </authors>
+  <summary>The User Agent Switcher extension adds a menu and a toolbar button to switch the user agent of a browser.</summary>
+  <description>The User Agent Switcher extension adds a menu and a toolbar button to switch the user agent of a browser.</description><license>
+    <name>GNU General Public License, version 3.0</name>
+    <url>http://www.gnu.org/licenses/gpl-3.0.html</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/0/59-64.png?modified=1353408117</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/0/59-32.png?modified=1353408117</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>1.0</min_version>
+      <max_version>33.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application><application>
+      <name>SeaMonkey</name>
+      <application_id>59</application_id>
+      <min_version>1.0</min_version>
+      <max_version>2.26.*</max_version>
+      <appID>{92650c4d-4b8e-4d2a-b7eb-24ecf4f6b63a}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="image/png" width="222" height="192">
+        https://addons.cdn.mozilla.net/user-media/previews/full/19/19212.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="173" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/19/19212.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>The User Agent Switcher toolbar</caption></preview></previews><rating>4</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/user-agent-switcher/?src=api</learnmore><install hash="sha256:29b95958781bd1e03d0a217a9c34f382f542f5f3769c9c7bfc0b919cc89858b8"
+    os="ALL"
+    size="41984">https://addons.mozilla.org/firefox/downloads/file/107207/user_agent_switcher-0.7.3-fx+sm.xpi?src=api</install>
+  <contribution_data>
+      <link>https://addons.mozilla.org/en-US/firefox/addon/user-agent-switcher/contribute/?src=api</link>
+                <suggested_amount currency="USD" amount="1.99">
+            $1.99
+          </suggested_amount>
+            <meet_developers>
+        https://addons.mozilla.org/en-US/firefox/addon/user-agent-switcher/developers?src=api
+      </meet_developers>
+    </contribution_data><developer_comments>The best place for support is not in the reviews section below, but on the User Agent Switcher site:
+
+&lt;a href=&#34;http://outgoing.mozilla.org/v1/b2355e694083868282779983c1e7ef9b81258de0/http%3A//chrispederick.com/work/user-agent-switcher/help/&#34;&gt;http://chrispederick.com/work/user-agent-switcher/help/&lt;/a&gt;</developer_comments>
+    <reviews num="206">
+      https://addons.mozilla.org/en-US/firefox/addon/user-agent-switcher/reviews/?src=api
+    </reviews>
+    <total_downloads>13862390</total_downloads>
+    <weekly_downloads>4308</weekly_downloads>
+    <daily_users>492450</daily_users>
+    <created epoch="1087036356">
+      2004-06-12T10:32:36Z
+    </created>
+    <last_updated epoch="1294322069">
+      2011-01-06T13:54:29Z
+    </last_updated>
+    <homepage>http://chrispederick.com/work/user-agent-switcher/</homepage>
+    <support>http://chrispederick.com/work/user-agent-switcher/help/</support>
+    <featured>1</featured>
+        <performance>
+            <application name="fx" version="8.0.1">
+                <platform name="Fedora" version="12 - Constantine">
+          <result type="ts" baseline="479.26" average="499.11"
+                  above_threshold="false" />
+        </platform>        <platform name="MacOSX" version="10.6 (rev4)">
+          <result type="ts" baseline="637.58" average="643.0"
+                  above_threshold="false" />
+        </platform>        <platform name="WINNT" version="6.1">
+          <result type="ts" baseline="548.47" average="540.95"
+                  above_threshold="false" />
+        </platform></application>      <application name="fx" version="4.0.1">
+                <platform name="MacOSX" version="10.5.8">
+          <result type="ts" baseline="687.21" average="705.42"
+                  above_threshold="false" />
+        </platform>        <platform name="WINNT" version="5.1">
+          <result type="ts" baseline="409.26" average="405.42"
+                  above_threshold="false" />
+        </platform></application>      <application name="fx" version="5.0">
+                <platform name="Fedora" version="12 - Constantine">
+          <result type="ts" baseline="506.0" average="489.16"
+                  above_threshold="false" />
+        </platform>        <platform name="MacOSX" version="10.5.8">
+          <result type="ts" baseline="679.89" average="675.26"
+                  above_threshold="false" />
+        </platform>        <platform name="WINNT" version="5.1">
+          <result type="ts" baseline="388.11" average="388.47"
+                  above_threshold="false" />
+        </platform>        <platform name="WINNT" version="6.1">
+          <result type="ts" baseline="522.0" average="523.63"
+                  above_threshold="false" />
+        </platform></application>      <application name="fx" version="6.0.2">
+                <platform name="Fedora" version="12 - Constantine">
+          <result type="ts" baseline="476.21" average="487.42"
+                  above_threshold="false" />
+        </platform>        <platform name="WINNT" version="6.1">
+          <result type="ts" baseline="519.79" average="518.42"
+                  above_threshold="false" />
+        </platform>        <platform name="MacOSX" version="10.6.2">
+          <result type="ts" baseline="654.42" average="663.63"
+                  above_threshold="false" />
+        </platform></application>      <application name="fx" version="7.0.1">
+                <platform name="WINNT" version="6.1">
+          <result type="ts" baseline="547.16" average="546.89"
+                  above_threshold="false" />
+        </platform>        <platform name="Fedora" version="12 - Constantine">
+          <result type="ts" baseline="479.68" average="483.05"
+                  above_threshold="false" />
+        </platform>        <platform name="MacOSX" version="10.6.2 (rev3)">
+          <result type="ts" baseline="667.37" average="655.21"
+                  above_threshold="false" />
+        </platform>        <platform name="MacOSX" version="10.6.2">
+          <result type="ts" baseline="671.16" average="659.58"
+                  above_threshold="false" />
+        </platform></application>      <application name="fx" version="8.0">
+                <platform name="MacOSX" version="10.6 (rev4)">
+          <result type="ts" baseline="624.84" average="642.37"
+                  above_threshold="false" />
+        </platform>        <platform name="WINNT" version="6.1">
+          <result type="ts" baseline="541.58" average="551.63"
+                  above_threshold="false" />
+        </platform>        <platform name="Fedora" version="12 - Constantine">
+          <result type="ts" baseline="477.95" average="478.32"
+                  above_threshold="false" />
+        </platform>        <platform name="MacOSX" version="10.6.2 (rev3)">
+          <result type="ts" baseline="657.21" average="686.89"
+                  above_threshold="false" />
+        </platform></application></performance>
+    </addon>
+  <addon id="429678">
+  <name>User Agent Overrider</name>
+  <type id="1">Extension</type>
+  <guid>useragentoverrider@qixinglu.com</guid>
+  <slug>user-agent-overrider</slug>
+  <version>0.2.4</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="900144">
+      <name>muzuiget</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/muzuiget/?src=api</link>
+    </author>      </authors>
+  <summary>Override browser user agent string</summary>
+  <description>This simple extension is GUI tool to quickly change the &lt;code&gt;about:config&lt;/code&gt; perference entry &lt;code&gt;general.useragent.override&lt;/code&gt;.
+
+&lt;strong&gt;Note:&lt;/strong&gt; After first install, you should click the triangle on the toolbar button, select a User-Agent in the popup menu, then the extension begin to working.
+
+You also can add your user agent strings, please read the &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/314b91f56a02450175f35b95f70d4180704e9b75048ebf88dc854e9f938be3e1/https%3A//github.com/muzuiget/user_agent_overrider/wiki&#34;&gt;wiki&lt;/a&gt;.
+
+You should know what User-Agent is, and what side effect after it is changed. Please don&#39;t complain or report any bug about website is broken.</description><license>
+    <name>Mozilla Public License, version 2.0</name>
+    <url>http://www.mozilla.org/MPL/2.0/</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/429/429678-64.png?modified=1401530588</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/429/429678-32.png?modified=1401530588</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>17.0</min_version>
+      <max_version>33.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="" width="340" height="230">
+        https://addons.cdn.mozilla.net/user-media/previews/full/98/98350.png?src=api&amp;modified=1367443469
+      </full>
+      <thumbnail type="" width="200" height="135">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/98/98350.png?src=api&amp;modified=1367443469
+      </thumbnail><caption>button</caption></preview><preview position="1">
+      <full type="" width="429" height="249">
+        https://addons.cdn.mozilla.net/user-media/previews/full/98/98352.png?src=api&amp;modified=1367443470
+      </full>
+      <thumbnail type="" width="200" height="116">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/98/98352.png?src=api&amp;modified=1367443470
+      </thumbnail><caption>preferences</caption></preview></previews><rating>4</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/user-agent-overrider/?src=api</learnmore><install hash="sha256:e5824f946ccd0e3e95f04c689c7450b10c174b6630fbc6fe1f1e8a7a04abf0b0"
+    os="ALL"
+    size="23446">https://addons.mozilla.org/firefox/downloads/file/259260/user_agent_overrider-0.2.4-fx.xpi?src=api</install>
+  <install hash="sha256:f614ff7138154c78a686617a92ae561c89d38bedccede092f69cfa61838701c3" os=""
+             size="18798"
+             status="Beta">
+      https://addons.mozilla.org/firefox/downloads/file/231602/user_agent_overrider-0.2.2b1-fx.xpi?src=api
+    </install>
+    <developer_comments>This extension is host on Github
+
+&lt;a href=&#34;http://outgoing.mozilla.org/v1/79d2c6298e03b49baf38f5556b2831f0757d0f0e2eb581086e31fc7b4af942da/https%3A//github.com/muzuiget/user_agent_overrider&#34; rel=&#34;nofollow&#34;&gt;https://github.com/muzuiget/user_agent_overrider&lt;/a&gt;
+
+And the localization host on Transifex, feel free to help.
+
+&lt;a href=&#34;http://outgoing.mozilla.org/v1/415909a9ce702eaf9754f0903c2ca76af509ca8e9f1eae9b26096e9187277744/https%3A//www.transifex.com/projects/p/user_agent_overrider/&#34; rel=&#34;nofollow&#34;&gt;https://www.transifex.com/projects/p/user_agent_overrider/&lt;/a&gt;</developer_comments>
+    <reviews num="28">
+      https://addons.mozilla.org/en-US/firefox/addon/user-agent-overrider/reviews/?src=api
+    </reviews>
+    <total_downloads>278260</total_downloads>
+    <weekly_downloads>886</weekly_downloads>
+    <daily_users>50328</daily_users>
+    <created epoch="1365351217">
+      2013-04-07T16:13:37Z
+    </created>
+    <last_updated epoch="1401535657">
+      2014-05-31T11:27:37Z
+    </last_updated>
+    <homepage>https://github.com/muzuiget/user_agent_overrider</homepage>
+    <support></support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="355807">
+  <name>User Agent Quick Switch</name>
+  <type id="1">Extension</type>
+  <guid>jid0-62jR3sq6mHTLknusEa92dfyvGcs@jetpack</guid>
+  <slug>user-agent-quick-switch</slug>
+  <version>0.5.2</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="4793032">
+      <name>Bradley Rosenfeld</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/BoringCode/?src=api</link>
+    </author>      </authors>
+  <summary>Quickly switch the browser user agent.</summary>
+  <description>Quickly switch the browser user agent with this simple to use addon!
+
+&lt;b&gt;On first run...&lt;/b&gt;
+Please opposite click on the user agent button in the addon bar. This will open the settings panel where you must type or paste the desired user agent string (you can change this at will later).
+
+&lt;b&gt;How to use:&lt;/b&gt;
+Once done click on the user agent button. The user agent will switch to what you set and the button will turn yellow indicating it has switched. Click again to revert the default user agent.</description><license>
+    <name>License</name>
+    <url>http://www.mozilla.org/MPL/MPL-1.1.html</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/355/355807-64.png?modified=1371259227</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/355/355807-32.png?modified=1371259227</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>19.0</min_version>
+      <max_version>33.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="" width="117" height="103">
+        https://addons.cdn.mozilla.net/user-media/previews/full/66/66167.png?src=api&amp;modified=1325126545
+      </full>
+      <thumbnail type="" width="117" height="103">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/66/66167.png?src=api&amp;modified=1325126545
+      </thumbnail><caption>Click the user agent button to get started!</caption></preview><preview position="1">
+      <full type="" width="63" height="53">
+        https://addons.cdn.mozilla.net/user-media/previews/full/66/66168.png?src=api&amp;modified=1325126544
+      </full>
+      <thumbnail type="" width="63" height="53">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/66/66168.png?src=api&amp;modified=1325126544
+      </thumbnail><caption>The user agent has been switched.</caption></preview><preview position="2">
+      <full type="" width="592" height="213">
+        https://addons.cdn.mozilla.net/user-media/previews/full/66/66169.png?src=api&amp;modified=1325126545
+      </full>
+      <thumbnail type="" width="200" height="71">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/66/66169.png?src=api&amp;modified=1325126545
+      </thumbnail><caption>Input your desired user agent screen here (opposite click on user agent button to open settings).</caption></preview><preview position="3">
+      <full type="" width="700" height="386">
+        https://addons.cdn.mozilla.net/user-media/previews/full/66/66170.png?src=api&amp;modified=1325126546
+      </full>
+      <thumbnail type="" width="200" height="110">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/66/66170.png?src=api&amp;modified=1325126546
+      </thumbnail><caption>Success! The user agent has been switched. You are now impersonating some random browser.</caption></preview></previews><rating>3</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/user-agent-quick-switch/?src=api</learnmore><install hash="sha256:ca0018ce5dc20a8627cebcd3230209dcad3bfc41b2caa2f5f26933a571e436fe"
+    os="ALL"
+    size="232378">https://addons.mozilla.org/firefox/downloads/file/213602/user_agent_quick_switch-0.5.2-fx.xpi?src=api</install>
+  <contribution_data>
+      <link>https://addons.mozilla.org/en-US/firefox/addon/user-agent-quick-switch/contribute/?src=api</link>
+                <suggested_amount currency="USD" amount="1.99">
+            $1.99
+          </suggested_amount>
+            <meet_developers>
+        https://addons.mozilla.org/en-US/firefox/addon/user-agent-quick-switch/developers?src=api
+      </meet_developers>
+    </contribution_data><developer_comments>This addon was created with the &lt;a href=&#34;https://addons.mozilla.org/en-US/developers/builder&#34; rel=&#34;nofollow&#34;&gt;Addon SDK&lt;/a&gt;.
+If you are using a newer Firefox version (such as Firefox 4) you will not have to restart your browser to start using this addon.
+
+This addon is currently in active development! If you have a feature you would like to see, suggest it along with your review. 
+
+Found a annoying, awful bug? Want to tell me how awesome I am? Follow me on &lt;a href=&#34;http://outgoing.mozilla.org/v1/07a28b2474611f17b57595208e7af2f1960b42b5/http%3A//twitter.com/BoringCode&#34; rel=&#34;nofollow&#34;&gt;Twitter&lt;/a&gt;!</developer_comments>
+    <reviews num="5">
+      https://addons.mozilla.org/en-US/firefox/addon/user-agent-quick-switch/reviews/?src=api
+    </reviews>
+    <total_downloads>103923</total_downloads>
+    <weekly_downloads>131</weekly_downloads>
+    <daily_users>8249</daily_users>
+    <created epoch="1325126134">
+      2011-12-29T02:35:34Z
+    </created>
+    <last_updated epoch="1371258217">
+      2013-06-15T01:03:37Z
+    </last_updated>
+    <homepage>https://builder.addons.mozilla.org/addon/1031459/latest/</homepage>
+    <support></support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="527270">
+  <name>Usersnap</name>
+  <type id="1">Extension</type>
+  <guid>jid1-JVFdtm4BbUJ6wQ@jetpack</guid>
+  <slug>usersnap</slug>
+  <version>0.1.4</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="10964938">
+      <name>Usersnap</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/Usersnap/?src=api</link>
+    </author>      </authors>
+  <summary>Usersnap - visual, annotated feedback! Create screenshots with annotations directly in your Firefox. The screenshots will be saved in Usersnap or in your bug tracker / project management tool!</summary>
+  <description>&lt;strong&gt;Annotate every page in your browser and send the screenshot to Usersnap and 20+ bug tracking and project management tools.&lt;/strong&gt;
+
+Visual, annotated feedback with &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/c8443f1f29bb633349fc5580534cf8ad60b24e7b9300dd73758b21163766bfff/https%3A//usersnap.com/%3Fgat=firefox&#34;&gt;Usersnap&lt;/a&gt;.
+
+Bridge the communication gap between all parties involved in your web project.
+
+Working on a web project can be hard. Collaboration isn&#39;t always frictionless, as people have different skill sets and backgrounds.
+
+&lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/c8443f1f29bb633349fc5580534cf8ad60b24e7b9300dd73758b21163766bfff/https%3A//usersnap.com/%3Fgat=firefox&#34;&gt;Usersnap&lt;/a&gt; helps them to be understood.
+
+We provide visual and annotated feedback via screenshots of the current browser content and deliver them directly to the the place where they belong: the bug tracker or the project management tool.
+
+Send annotated screencaps right to the Usersnap dashboard or get them via email or in your tool: &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/3807c9125b9e601ce1d9442b88af2f8b06ed09c34be92a6b78515c143330eaab/https%3A//usersnap.com/asana&#34;&gt;Asana&lt;/a&gt;, &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/d62934d9359acbdc0e9ca13ad3634cdfccf8a0d1e803b39e9e777b94d281ac65/https%3A//usersnap.com/basecamp&#34;&gt;Basecamp&lt;/a&gt;, &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/9604a0e89ef66f5c5a2e32d3dd757c21f0aecaa35401ef5a85d8a29470608128/https%3A//usersnap.com/connect/desk&#34;&gt;Desk&lt;/a&gt;, &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/b62a7fb44283204066d8025390f24fe1a522a94e0f578cced6b0b3d901cf5f2b/https%3A//usersnap.com/connect/evernote&#34;&gt;Evernote&lt;/a&gt;, &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/2eed3f7ea42dee2d6d520df17c1623737bd986b9da0a51db5cde1b2b9869ed7e/https%3A//usersnap.com/connect/fogbugz&#34;&gt;FogBugz&lt;/a&gt;, &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/25d7895b37a0c567ec4f44eb5bf13ae6414034bcc524c53d2e4718df5e559aef/https%3A//usersnap.com/connect/gemini&#34;&gt;Countersoft Gemini&lt;/a&gt;, &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/0432f29984e93324b3fe0abd769168bb7952002e163be7537f7532bdd0dc73bf/https%3A//usersnap.com/connect/intercom&#34;&gt;Intercom&lt;/a&gt;, &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/21e7d22e37e93d68935139bc705be250834ec1d8cd664ed81e575ec2fc37b371/https%3A//usersnap.com/connect/jira&#34;&gt;JIRA&lt;/a&gt;, &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/69c7c7c3d4197213f071351084fd427ac6e96b0ed7fd3f58ee4f5b18304927e4/https%3A//usersnap.com/connect/kanbanize&#34;&gt;Kanbanize&lt;/a&gt;, &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/1d52c6ab930e6823d30ba4e0b87af7cd4a3cf37c49e22783f36faea85aa15279/https%3A//usersnap.com/connect/ontime&#34;&gt;Axosoft OnTime&lt;/a&gt;, &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/d02f5ededfaf93b94616705822436b8b18a9d0c81cf8c7eb96d51e34715bb1ef/https%3A//usersnap.com/connect/pivotal&#34;&gt;Pivotal Tracker&lt;/a&gt;, &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/a9eb9502cbcf60328f3ab6c0eb09477259227f94690051e73b8fd42aef9823a7/https%3A//usersnap.com/connect/redmine&#34;&gt;Redmine&lt;/a&gt;, &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/3e43c1eb19a3269467da046e65bdd2274ab81bb3b3645bcda22ee297ea8cc737/https%3A//usersnap.com/connect/trac&#34;&gt;Trac&lt;/a&gt;, &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/e0a83745ae8055b1c7363e0ab5d23cae090297e9923aa6da38b7b918c1522835/https%3A//usersnap.com/trello&#34;&gt;Trello&lt;/a&gt;, &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/1156918a7bb24015bb615a7f003165ad7f0a6a44efd9ea9f6afb423d0eb55643/https%3A//usersnap.com/connect/tfs&#34;&gt;Microsoft Team Foundation Server TFS&lt;/a&gt;, &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/9635bbbc7e55fc9d48103eb4cb46355c7d922a21df1880f7ce73fdb9a41eaffc/https%3A//usersnap.com/connect/teamwork&#34;&gt;Teamwork&lt;/a&gt;, &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/c43a5d366989c6803a89966c738af8298da15682f812d5d77467630a05baf27f/https%3A//usersnap.com/connect/github&#34;&gt;GitHub&lt;/a&gt;, &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/a304f5940dedfed17a86136e9ba862167dce7fc74f2ae77ee2049f2535642073/https%3A//usersnap.com/connect/gitlab&#34;&gt;GitLab&lt;/a&gt;, &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/ad392954b644e6f2768d830bdc3a9f38f3cad66c462e2e0f37fe4b0099e9e735/https%3A//usersnap.com/connect/activecollab&#34;&gt;activeCollab&lt;/a&gt;, &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/901d3aa51548839521afec0046905310af60143e0f27cb834a4795f1b3316f53/https%3A//usersnap.com/connect/zendesk&#34;&gt;Zendesk&lt;/a&gt; and many more! It&#39;s a great alternative to JIRA Capture (JIRA Bonfire), Bugherd or Trackduck.</description><license>
+    <name>Mozilla Public License, version 2.0</name>
+    <url>http://www.mozilla.org/MPL/2.0/</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/527/527270-64.png?modified=1406616964</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/527/527270-32.png?modified=1406616964</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>29.0</min_version>
+      <max_version>34.0</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="" width="700" height="457">
+        https://addons.cdn.mozilla.net/user-media/previews/full/138/138688.png?src=api&amp;modified=1404284631
+      </full>
+      <thumbnail type="" width="200" height="131">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/138/138688.png?src=api&amp;modified=1404284631
+      </thumbnail><caption>The annotated screenshots in the Usersnap dashboard.</caption></preview><preview position="1">
+      <full type="" width="700" height="459">
+        https://addons.cdn.mozilla.net/user-media/previews/full/138/138690.png?src=api&amp;modified=1404284632
+      </full>
+      <thumbnail type="" width="200" height="131">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/138/138690.png?src=api&amp;modified=1404284632
+      </thumbnail><caption>You can even get screenshots without installing this add-on with the Usersnap JavaScript snippet!</caption></preview></previews><rating>5</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/usersnap/?src=api</learnmore><install hash="sha256:6ee45892558f7172b0855a4300d9f43f00364f889a53b8087d70f0048fc4326f"
+    os="ALL"
+    size="12260">https://addons.mozilla.org/firefox/downloads/file/267242/usersnap-0.1.4-fx.xpi?src=api</install>
+  <developer_comments></developer_comments>
+    <reviews num="1">
+      https://addons.mozilla.org/en-US/firefox/addon/usersnap/reviews/?src=api
+    </reviews>
+    <total_downloads>678</total_downloads>
+    <weekly_downloads>3</weekly_downloads>
+    <daily_users>93</daily_users>
+    <created epoch="1404283771">
+      2014-07-02T06:49:31Z
+    </created>
+    <last_updated epoch="1406572151">
+      2014-07-28T18:29:11Z
+    </last_updated>
+    <homepage>https://usersnap.com</homepage>
+    <support></support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="454278">
+  <name>Custom User-Agent String</name>
+  <type id="1">Extension</type>
+  <guid>jid1-5VOAcxmRgNvYlw@jetpack</guid>
+  <slug>custom-user-agent-string</slug>
+  <version>0.1</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="4727762">
+      <name>Arpit Kumar</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/techraga/?src=api</link>
+    </author>      </authors>
+  <summary>Set custom User-Agent string. Also available for Firefox on Android.</summary>
+  <description>Set custom User-Agent string.  Also available for Firefox on Android.
+
+To set your custom User-Agent string, visit Add-on manager &amp;gt; Corresponding &#34;Options&#34;.
+
+To test your current User-Agent string visit: &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/9e0a114d10c3e8772b47f78a6597117b38d2bbd6e22a9f16d85455ea95a078ae/http%3A//myuseragentinfo.appspot.com/&#34;&gt;http://myuseragentinfo.appspot.com/&lt;/a&gt;
+
+To reset the User-Agent string to the browser&#39;s default, disable the extension.
+
+On Android, Copy-&amp;amp;-Paste doesn&#39;t work in the UA input box, follow the bug here: &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/a63c01f3215ba7b2177d4f7a013be6dc8287b99410705d9988d5a7ae41dd8900/https%3A//bugzilla.mozilla.org/show_bug.cgi%3Fid=1063245&#34;&gt;https://bugzilla.mozilla.org/show_bug.cgi?id=1063245&lt;/a&gt;
+
+Icon credit: Alexandre Moore (sa-ki.deviantart .com)
+
+&lt;strong&gt;Note: On Android, sometimes you may need to restart the browser to apply the change.&lt;/strong&gt;
+
+Created by Arpit Kumar (arpitnext@gmail.com)
+
+For more information visit: &lt;strong&gt;&lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/194ab7c8ce4dcd16edd89e32c5c947b02f5a5f1e810ad0b4c8e0126c592beaec/http%3A//browsernative.com/extensions/&#34;&gt;http://browsernative.com/extensions/&lt;/a&gt;&lt;/strong&gt;</description><license>
+    <name>Mozilla Public License, version 2.0</name>
+    <url>http://www.mozilla.org/MPL/2.0/</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/454/454278-64.png?modified=1413459679</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/454/454278-32.png?modified=1413459679</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>19.0</min_version>
+      <max_version>33.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application><application>
+      <name>Firefox for Android</name>
+      <application_id>61</application_id>
+      <min_version>19.0</min_version>
+      <max_version>20.*</max_version>
+      <appID>{aa3c5121-dab2-40e2-81ca-7ea25febc110}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>Linux</os><os>Darwin</os><os>WINNT</os><os>Android</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="" width="331" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/107/107376.png?src=api&amp;modified=1373621550
+      </full>
+      <thumbnail type="" width="95" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/107/107376.png?src=api&amp;modified=1373621550
+      </thumbnail><caption>Add-on Manager: Firefox on Android</caption></preview><preview position="1">
+      <full type="" width="332" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/107/107378.png?src=api&amp;modified=1373621550
+      </full>
+      <thumbnail type="" width="95" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/107/107378.png?src=api&amp;modified=1373621550
+      </thumbnail><caption>Extension&#39;s Options/Settings page</caption></preview><preview position="2">
+      <full type="" width="331" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/107/107380.png?src=api&amp;modified=1373621550
+      </full>
+      <thumbnail type="" width="95" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/107/107380.png?src=api&amp;modified=1373621550
+      </thumbnail><caption>checking modified User-Agent string</caption></preview><preview position="3">
+      <full type="" width="700" height="373">
+        https://addons.cdn.mozilla.net/user-media/previews/full/107/107382.png?src=api&amp;modified=1373621551
+      </full>
+      <thumbnail type="" width="200" height="106">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/107/107382.png?src=api&amp;modified=1373621551
+      </thumbnail><caption>on desktop platform</caption></preview></previews><rating>3</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/custom-user-agent-string/?src=api</learnmore><install hash="sha256:41c6002e6c8edb8ce81461c4a3c024b3a9c19309ff6179c22dc5e52607a6ab38"
+    os="Linux"
+    size="85075">https://addons.mozilla.org/firefox/downloads/file/220654/custom_user_agent_string-0.1-fx+an-linux.xpi?src=api</install>
+  <install hash="sha256:41c6002e6c8edb8ce81461c4a3c024b3a9c19309ff6179c22dc5e52607a6ab38"
+    os="Darwin"
+    size="85075">https://addons.mozilla.org/firefox/downloads/file/220656/custom_user_agent_string-0.1-fx+an-mac.xpi?src=api</install>
+  <install hash="sha256:41c6002e6c8edb8ce81461c4a3c024b3a9c19309ff6179c22dc5e52607a6ab38"
+    os="WINNT"
+    size="85075">https://addons.mozilla.org/firefox/downloads/file/220658/custom_user_agent_string-0.1-fx+an-windows.xpi?src=api</install>
+  <install hash="sha256:41c6002e6c8edb8ce81461c4a3c024b3a9c19309ff6179c22dc5e52607a6ab38"
+    os="Android"
+    size="85075">https://addons.mozilla.org/firefox/downloads/file/220660/custom_user_agent_string-0.1-fx+an-android.xpi?src=api</install>
+  <developer_comments>On Android, sometimes you may need to restart the browser to apply the change.</developer_comments>
+    <reviews num="3">
+      https://addons.mozilla.org/en-US/firefox/addon/custom-user-agent-string/reviews/?src=api
+    </reviews>
+    <total_downloads>55737</total_downloads>
+    <weekly_downloads>202</weekly_downloads>
+    <daily_users>3334</daily_users>
+    <created epoch="1373620421">
+      2013-07-12T09:13:41Z
+    </created>
+    <last_updated epoch="1376958617">
+      2013-08-20T00:30:17Z
+    </last_updated>
+    <homepage>http://browsernative.com/extensions/</homepage>
+    <support>http://browsernative.com/extensions/</support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="362175">
+  <name>User Style Manager</name>
+  <type id="1">Extension</type>
+  <guid>UserStyleManager@girishsharma</guid>
+  <slug>user-style-manager</slug>
+  <version>1.1.1</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="5485329">
+      <name>Girish Sharma</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/scrapmac/?src=api</link>
+    </author>      </authors>
+  <summary>Easiest way to Add and Manage Custom User Styles in Firefox.
+Add, Edit, enable, disable and delete in-numerous User Style Sheets to redesign the Firefox and the Web.</summary>
+  <description>A restart-less solution to manage custom User Styles in Firefox.
+Add, edit, customize and choose from thousands of user styles available on net or even make your own.
+
+Main features of User Styles Manager are :
+&lt;ul&gt;&lt;li&gt;Lightweight and restarless user styles manager&lt;/li&gt;&lt;li&gt;Edit an existing Style, Create a brand new Style or choose an existing Style sheet from your Hard Disk and add it to Firefox&lt;/li&gt;&lt;li&gt;Millions of more user styles to choose from on &lt;a href=&#34;http://outgoing.mozilla.org/v1/079d2a2665417d4517d296655a3ba3e6d81e1f5cc53804cc1a2bb8229113b659/http%3A//userstyles.org&#34; rel=&#34;nofollow&#34;&gt;userstyles.org&lt;/a&gt; . Just go and install!&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Styles installed from &lt;a href=&#34;http://outgoing.mozilla.org/v1/079d2a2665417d4517d296655a3ba3e6d81e1f5cc53804cc1a2bb8229113b659/http%3A//userstyles.org&#34; rel=&#34;nofollow&#34;&gt;userstyles.org&lt;/a&gt; gets automatically updated in the background&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Styles installed from &lt;a href=&#34;http://outgoing.mozilla.org/v1/079d2a2665417d4517d296655a3ba3e6d81e1f5cc53804cc1a2bb8229113b659/http%3A//userstyles.org&#34; rel=&#34;nofollow&#34;&gt;userstyles.org&lt;/a&gt; gets automatically synced to your Firefox on other machines automaticaly&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;Editing, deleting of multiple Styles at once&lt;/li&gt;&lt;li&gt;Syntax highlighting, quick preview of Styles being edited and a syntax validator to check and display errors in the syntax of your CSS.&lt;/li&gt;&lt;li&gt;Menu entry in Tools Menu and Apps Menu along with a toolbar button and a Customizable Shortcut Key to quickly access Options or to enable/disable any style&lt;/li&gt;&lt;li&gt;Select any CSS code on a webpage and add it as a style sheet using the context menu entry&lt;/li&gt;&lt;li&gt;Styles are automatically sorted based on the area they are applied on.&lt;/li&gt;&lt;li&gt;Styles are regularly backed up and used in case the original file is somehow deleted&lt;/li&gt;&lt;li&gt;A very powerful Style Editor with the following features:&lt;ul&gt;&lt;li&gt;&lt;b&gt;CSS Auto-completer&lt;/b&gt;:CSS properties are automatically suggested as you type in a dropdown list&lt;/li&gt;&lt;li&gt;&lt;b&gt;Color Previewer&lt;/b&gt;: Hover over any color code to quickly preview the color along with the transparency level&lt;/li&gt;&lt;li&gt;&lt;b&gt;Image Previewer&lt;/b&gt;: Double click over the base64 image code or the link to the image to quickly preview the image&lt;/li&gt;&lt;li&gt;&lt;b&gt;Color Picker&lt;/b&gt;: Easily pick and edit any color using the built in Color Picker. Start typing rgb( and the color picker will pop up for your help, or double click over any color code.&lt;/li&gt;&lt;li&gt;Minified styles can be made beautiful using the Beautify CSS option in the Edit Menu of the Editor.&lt;/li&gt;&lt;li&gt;Any style can be quickly previewed to see the result&lt;/li&gt;&lt;li&gt;Feature complete Find and Replace with support for Regular Expressions&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;
+Features being developed:
+&lt;strong&gt;&lt;ul&gt;&lt;li&gt;Integration of the Manage window with the Add-ons Manager, with an option to move back to a normal Window&lt;/li&gt;&lt;li&gt;On adding files in User Styles folder in the Profile Directory, the addon will automatically install them on the next Firefox/addon&#39;s Restart, or explicitly on clicking a button.&lt;/li&gt;&lt;li&gt;Importing Stylish&#39;s installed styles over to User Style Manager&lt;/li&gt;&lt;li&gt;Sync 2.0 with support of syncing any style, even if created locally&lt;/li&gt;&lt;/ul&gt;&lt;/strong&gt;
+
+Report issues or feature requests &lt;a href=&#34;http://outgoing.mozilla.org/v1/a46bd28b8e7de184b8bfd14fb4e4a8519463144748f1509f96f3ecd32471bd68/https%3A//github.com/scrapmac/User-Style-Manager&#34; rel=&#34;nofollow&#34;&gt;here&lt;/a&gt;.</description><license>
+    <name>Mozilla Public License, version 2.0</name>
+    <url>https://addons.mozilla.org/en-US/firefox/addon/user-style-manager/license/1.1.1</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/362/362175-64.png?modified=1349762690</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/362/362175-32.png?modified=1349762690</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>28.0</min_version>
+      <max_version>36.0a1</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="" width="700" height="484">
+        https://addons.cdn.mozilla.net/user-media/previews/full/70/70078.png?src=api&amp;modified=1334808879
+      </full>
+      <thumbnail type="" width="200" height="138">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/70/70078.png?src=api&amp;modified=1334808879
+      </thumbnail><caption>Options Window displaying all the options and The list of Installed Style Sheets.
+User can Edit an existing Style Sheet or add a new Style Sheet by creating a new one, or choosing one from Hard Disk.</caption></preview><preview position="1">
+      <full type="" width="666" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/70/70079.png?src=api&amp;modified=1334808880
+      </full>
+      <thumbnail type="" width="190" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/70/70079.png?src=api&amp;modified=1334808880
+      </thumbnail><caption>Editor used to edit an existing Style Sheet or to create a new Style Sheet</caption></preview><preview position="2">
+      <full type="" width="700" height="426">
+        https://addons.cdn.mozilla.net/user-media/previews/full/68/68261.png?src=api&amp;modified=1334783676
+      </full>
+      <thumbnail type="" width="200" height="121">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/68/68261.png?src=api&amp;modified=1334783676
+      </thumbnail><caption>Apps Menu entry displaying all the stylesheets, option to enable/disable any one or all and the styles sorted according to their target areas.</caption></preview><preview position="3">
+      <full type="" width="700" height="344">
+        https://addons.cdn.mozilla.net/user-media/previews/full/68/68262.png?src=api&amp;modified=1334783676
+      </full>
+      <thumbnail type="" width="200" height="98">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/68/68262.png?src=api&amp;modified=1334783676
+      </thumbnail><caption>Context Menu entry displaying the feature to add any css text directly as a style</caption></preview><preview position="4">
+      <full type="" width="678" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/70/70080.png?src=api&amp;modified=1334808879
+      </full>
+      <thumbnail type="" width="193" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/70/70080.png?src=api&amp;modified=1334808879
+      </thumbnail><caption>Screenshot displaying the auto-complete panel suggesting CSS properties that can be autocomplete by either pressing Enter, TAB or clicking on any one in the list. &#34;-moz&#34; prefixed values are also supported.</caption></preview><preview position="5">
+      <full type="" width="668" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/70/70081.png?src=api&amp;modified=1334808881
+      </full>
+      <thumbnail type="" width="190" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/70/70081.png?src=api&amp;modified=1334808881
+      </thumbnail><caption>Hover over any color code to preview the color with transparency depicted by the checkerboards</caption></preview><preview position="6">
+      <full type="" width="671" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/70/70082.png?src=api&amp;modified=1334808880
+      </full>
+      <thumbnail type="" width="191" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/70/70082.png?src=api&amp;modified=1334808880
+      </thumbnail><caption>Double click on any color code to edit the color visually using the color picker</caption></preview><preview position="7">
+      <full type="" width="673" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/70/70083.png?src=api&amp;modified=1334808881
+      </full>
+      <thumbnail type="" width="192" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/70/70083.png?src=api&amp;modified=1334808881
+      </thumbnail><caption>Preview a basse64 code by double clicking over it.</caption></preview><preview position="8">
+      <full type="" width="668" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/70/70084.png?src=api&amp;modified=1334808880
+      </full>
+      <thumbnail type="" width="190" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/70/70084.png?src=api&amp;modified=1334808880
+      </thumbnail><caption>A Syntax Validator displaying the errors along with the line number.</caption></preview><preview position="9">
+      <full type="" width="700" height="283">
+        https://addons.cdn.mozilla.net/user-media/previews/full/70/70085.png?src=api&amp;modified=1334808880
+      </full>
+      <thumbnail type="" width="200" height="81">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/70/70085.png?src=api&amp;modified=1334808880
+      </thumbnail><caption>Beautify CSS: Convert the left side compressed CSS to right side formatted CSS using the Beautify CSS option from Edit Menu</caption></preview></previews><rating>5</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/user-style-manager/?src=api</learnmore><install hash="sha256:4a0bba6826587506a04760d3980ee7a6690b5462f531999433bf875b939a69f5"
+    os="ALL"
+    size="108550">https://addons.mozilla.org/firefox/downloads/file/251166/user_style_manager-1.1.1-fx.xpi?src=api</install>
+  <contribution_data>
+      <link>https://addons.mozilla.org/en-US/firefox/addon/user-style-manager/contribute/?src=api</link>
+                <suggested_amount currency="USD" amount="10.00">
+            $10.00
+          </suggested_amount>
+            <meet_developers>
+        https://addons.mozilla.org/en-US/firefox/addon/user-style-manager/developers?src=api
+      </meet_developers>
+    </contribution_data><developer_comments></developer_comments>
+    <reviews num="20">
+      https://addons.mozilla.org/en-US/firefox/addon/user-style-manager/reviews/?src=api
+    </reviews>
+    <total_downloads>47524</total_downloads>
+    <weekly_downloads>42</weekly_downloads>
+    <daily_users>2216</daily_users>
+    <created epoch="1328473848">
+      2012-02-05T20:30:48Z
+    </created>
+    <last_updated epoch="1395865066">
+      2014-03-26T20:17:46Z
+    </last_updated>
+    <homepage>http://grssam.com/addons/user-style-manager/</homepage>
+    <support>http://grssam.com/addons/user-style-manager/</support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="8388">
+  <name>ubuntuusers Menu</name>
+  <type id="1">Extension</type>
+  <guid>321tux@arcor.de</guid>
+  <slug>ubuntuusers-menu</slug>
+  <version>1.5.0</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="2266888">
+      <name>JaiBee</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/jaibee/?src=api</link>
+    </author>      </authors>
+  <summary>Access nearly all areas of the German Ubuntu portal ubuntuusers.de, the international forum ubuntuforums.org and more than 100 other (int.) websites around Linux, Ubuntu, hardware &amp;amp; software etc.
+
+The extension is translated into English and German.</summary>
+  <description>PLEASE NOTE: ubuntuusers Menu is no longer under development. Therefore it might not be compatible to the latest releases of Firefox. If you like to continue development please send me a message.
+
+ubuntuusers Menu is an auxiliary menu for Firefox by which you can access nearly all areas of the German Ubuntu portal &lt;a href=&#34;http://outgoing.mozilla.org/v1/1e05875b2b149999d5ec9ac39c171c34402d2ad4/http%3A//ubuntuusers.de&#34; rel=&#34;nofollow&#34;&gt;ubuntuusers.de&lt;/a&gt;, the international forum &lt;a href=&#34;http://outgoing.mozilla.org/v1/7d3538ab733cbf5020bee2a5cd53f5fc6f66e5fd/http%3A//ubuntuforums.org&#34; rel=&#34;nofollow&#34;&gt;ubuntuforums.org&lt;/a&gt; and about 100 other (international) websites.
+
+&lt;b&gt;Links to...&lt;/b&gt;
+&lt;a href=&#34;http://outgoing.mozilla.org/v1/1e05875b2b149999d5ec9ac39c171c34402d2ad4/http%3A//ubuntuusers.de&#34; rel=&#34;nofollow&#34;&gt;ubuntuusers.de&lt;/a&gt;
+- User Control Panel
+- Private Messages
+- Forum
+- Wiki
+- Ikhaya
+- Planet
+- Search
+
+&lt;a href=&#34;http://outgoing.mozilla.org/v1/43465b3efcd70cd53e20bf470516c586c5d3e601/http%3A//ubuntu-de.org&#34; rel=&#34;nofollow&#34;&gt;ubuntu-de.org&lt;/a&gt;
+- Projects
+
+&lt;a href=&#34;http://outgoing.mozilla.org/v1/7d3538ab733cbf5020bee2a5cd53f5fc6f66e5fd/http%3A//ubuntuforums.org&#34; rel=&#34;nofollow&#34;&gt;ubuntuforums.org&lt;/a&gt;
+- Forum
+- User Control Panel
+- Private Messages &amp;amp; Subscriptions
+- Search
+
+more than 100 links to (mainly international)
+- Homepages of Ubuntu + Derivates,
+- Wikis and Documentations,
+- Ubuntu-Forums,
+- Planets,
+- Launchpad etc.,
+- Websites about hardware, software etc.,
+- further distributions,
+- videos &amp;amp; audio,
+- Linux news,
+- reading (PDF magazines / books),
+- and much more...
+
+&lt;b&gt;Features&lt;/b&gt;
+- favorites sub menu: integrate 10 own links
+- hide main-categories
+- integrate custom pages (e.g. own profile)
+- English or German (depends on the system language)
+
+&lt;b&gt;NEW: ubuntuusers Menu for Opera&lt;/b&gt;
+ubuntuusers Menu is now also available for the browser Opera!
+Download the install script for Ubuntu Linux on the official homepage of ubuntusers Menu:
+=&amp;gt; &lt;a href=&#34;http://outgoing.mozilla.org/v1/133eb13b28103c0887dcff26436dde044cac1355/http%3A//www.ubuntuusers-menu.de/en/ubuntuusers-menu-for-opera&#34; rel=&#34;nofollow&#34;&gt;http://www.ubuntuusers-menu.de/en/ubuntuusers-menu-for-opera&lt;/a&gt;</description><license>
+    <name>GNU General Public License, version 3.0</name>
+    <url>http://www.gnu.org/licenses/gpl-3.0.html</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/8/8388-64.png?modified=1329832752</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/8/8388-32.png?modified=1329832752</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>1.5</min_version>
+      <max_version>26.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula>This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published
+by the Free Software Foundation, either version 3 of the License,
+or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but
+WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+General Public License for more details.
+
+The copy of the GNU General Public License can be found here:
+  &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/9adba4667d6d18ba36e4c37285d0ab6c7ab51d87aeb92294c5898636831a154f/http%3A//www.gnu.org/licenses/gpl.html&#34;&gt;http://www.gnu.org/licenses/gpl.html&lt;/a&gt;
+
+
+# # # # # # # # # # # # # Easy Menu # # # # # # # # # # # # #
+
+ubuntuusers Menu was created using Easy Menu:
+  &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/727eb6d8d11e81e12749ac70aa2e2312e283cd028027d9263e4cbba3e5410125/http%3A//easymenu.googlepages.com&#34;&gt;http://easymenu.googlepages.com&lt;/a&gt; and
+  &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/a9375e04c7b0ce2dce974bb51ab2a82339eb23c44cec18a105b7c24086c5b69d/https%3A//launchpad.net/easymenu&#34;&gt;https://launchpad.net/easymenu&lt;/a&gt;
+Thanks a lot to Volans (creator of Easy Menu) who did a great job!
+
+
+# # # # # # # # # # # # # TRADEMARKS  # # # # # # # # # # # #
+
+Ubuntu, Kubuntu, Edubuntu, Xubuntu, Ubuntu Studio and their logos
+are registered trademarks of Canonical Ltd.
+
+Homepage of Ubuntu: &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/2191430be4710cd778009e471631c942cf93116b567ca102a56b07c7c71771ed/http%3A//www.ubuntu.com/&#34;&gt;http://www.ubuntu.com/&lt;/a&gt;
+Homepage of Canonical Ltd.: &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/b9af3a6e2a9501c3bd5bfad8584de21758c431ef9fdf99c0c9294b560b560520/http%3A//www.canonical.com/&#34;&gt;http://www.canonical.com/&lt;/a&gt;
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+The KDE logo is a trademark of KDE e.V.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+&lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/cd575b688061106e82588d273087096c5db5c94715f1a71eacd20a65d434f7b7/http%3A//mozilla.org&#34;&gt;mozilla.org&lt;/a&gt; is a registered trademark of the Mozilla Foundation.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+&#34;Debian&#34; and the Debian Logo are trademarks of Software in the
+PublicInterest, Inc.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+&#34;Fedora&#34; and the Fedora logo are trademarks of Red Hat, Inc.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+&#34;Gentoo&#34; and the &#34;g&#34; logo are trademark of Gentoo Foundation, Inc.
+ubuntuusers Menu is not part of the Gentoo project and is not directed or
+managed by Gentoo Foundation, Inc. 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+The Arch Linux name and logo are recognized trademarks.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+All other trademarks are property of their respective owners.
+
+
+# # # # # # # # # # # # # # ICONS # # # # # # # # # # # # # #
+
+The used icons from the Tango Desktop Project are licensed
+under Creative Commons Attribution Share-Alike license (CC-BY-SA).
+
+A copy of the CC-BY-SA can be found here:
+  &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/b72f1d5e61f48e2ff8c40277228f13ae851c7635ef387aaa3624c584ad41d58c/http%3A//creativecommons.org/licenses/by-sa/2.5/&#34;&gt;http://creativecommons.org/licenses/by-sa/2.5/&lt;/a&gt;
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+The icons from the Oxygen icon theme are licensed under the
+GNU Library General Public License (LGPL)
+
+A copy of the LGPL can be found here:
+  &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/cdbb94a7ca7b1e4d94916bfe133f729affa84d6c7e70b4417d5a38951cecc1c4/http%3A//www.gnu.org/licenses/lgpl.html&#34;&gt;http://www.gnu.org/licenses/lgpl.html&lt;/a&gt;
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+The Gnome 2.18 icon theme is licensed under GNU General Public License
+(GNU GPL).
+
+A copy of the GNU GPL can be found here:
+  &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/70e56d7df57be9cc05b987d278ab15b0cce280f54a80e930e6d8f86c9c95d44e/http%3A//creativecommons.org/licenses/GPL/2.0/&#34;&gt;http://creativecommons.org/licenses/GPL/2.0/&lt;/a&gt;
+  &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/743b54a81c738e8e9aaa538dccb3c2da63303784548baf453557135126586da8/http%3A//www.gnu.org/licenses/old-licenses/gpl-2.0.html&#34;&gt;http://www.gnu.org/licenses/old-licenses/gpl-2.0.html&lt;/a&gt;
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+The Launchpad logo, is copyright Canonical and is licensed under
+the Creative Commons Attribution-No Derivative Works 3.0 Unported
+license (CC-BY-ND).
+
+A copy of the CC-BY-ND can be found here:
+  &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/d55b8c4735cdd22fa7f9df5e45aea3b21d9712fd7b6b635966e131ad30354dce/http%3A//creativecommons.org/licenses/by-nd/3.0/&#34;&gt;http://creativecommons.org/licenses/by-nd/3.0/&lt;/a&gt;
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+The GNOME logo is originally illustrated by Tuomas Kuosmanen and
+updated by Jakub Steiner in 2001.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Das &#34;Puppy Linux&#34; Logo comes under the Creative Commons
+Attribution-Noncommercial-Share Alike 3.0 Unported License (BY-NC-SA).
+
+A copy of the BY-NC-SA can be found here:
+  &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/ef945fe9c15cd6799e85bf6afaa28183a290534a38476f9495b36a78ede9b0da/http%3A//creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;http://creativecommons.org/licenses/by-nc-sa/3.0/&lt;/a&gt;
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+The Tux icon was created by lewing@isc.tamu.edu (Larry Ewing)
+using GIMP:
+  &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/c02d41fc3667edd549a0e055f13149be1fa13acdb3e6f1856baf9d89f2fdb4c9/http%3A//www.isc.tamu.edu/%7Elewing/linux/&#34;&gt;http://www.isc.tamu.edu/~lewing/linux/&lt;/a&gt;
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+The freiesMagazin logo is made by Arne Weinberg and is licensed
+under the GNU Free Documentation License (GFDL).
+
+A copy of the GFDL can be found here:
+  &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/bee37be7c8798c76a94eabc1cc5434ab56a36951ab0908ee4f2f55498ee012ce/http%3A//www.gnu.org/licenses/fdl.html&#34;&gt;http://www.gnu.org/licenses/fdl.html&lt;/a&gt;
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+The Full Circle Magazine logo is licensed under the Creative Commons
+Attribution Share-Alike license (CC-BY-SA).
+
+The copy of the CC-BY-SA can be found here:
+  &lt;a rel=&#34;nofollow&#34; href=&#34;http://outgoing.mozilla.org/v1/b8f058ec02e118e0ef531d034fef9cca05cdce609b5a879eb43c301374f934e2/http%3A//creativecommons.org/licenses/by-sa/3.0/&#34;&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
+          Thank you for using ubuntuusers Menu!</eula><previews><preview position="0">
+      <full type="image/png" width="187" height="466">
+        https://addons.cdn.mozilla.net/user-media/previews/full/37/37620.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="60" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/37/37620.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>EN - ubuntuusers Menu 1.3.0</caption></preview><preview position="1">
+      <full type="image/png" width="187" height="466">
+        https://addons.cdn.mozilla.net/user-media/previews/full/37/37616.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="60" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/37/37616.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>DE</caption></preview><preview position="1">
+      <full type="image/png" width="582" height="466">
+        https://addons.cdn.mozilla.net/user-media/previews/full/37/37617.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="187" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/37/37617.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>DE</caption></preview><preview position="1">
+      <full type="image/png" width="700" height="434">
+        https://addons.cdn.mozilla.net/user-media/previews/full/37/37618.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="200" height="124">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/37/37618.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>DE</caption></preview><preview position="1">
+      <full type="image/png" width="352" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/37/37619.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="100" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/37/37619.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>DE</caption></preview><preview position="1">
+      <full type="image/png" width="612" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/37/37621.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="175" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/37/37621.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>EN</caption></preview><preview position="1">
+      <full type="image/png" width="700" height="295">
+        https://addons.cdn.mozilla.net/user-media/previews/full/37/37624.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="200" height="84">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/37/37624.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>EN</caption></preview><preview position="1">
+      <full type="image/png" width="187" height="239">
+        https://addons.cdn.mozilla.net/user-media/previews/full/37/37625.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="117" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/37/37625.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>EN</caption></preview><preview position="1">
+      <full type="image/png" width="432" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/37/37626.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="123" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/37/37626.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>EN</caption></preview><preview position="1">
+      <full type="image/png" width="432" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/37/37627.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="123" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/37/37627.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>EN</caption></preview></previews><rating>4</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/ubuntuusers-menu/?src=api</learnmore><install hash="sha256:062c4c2783c43d21428be9331a824fcca8ae1891d34f223efe0387a1996c135b"
+    os="ALL"
+    size="230400">https://addons.mozilla.org/firefox/downloads/file/95910/ubuntuusers_menu-1.5.0-fx.xpi?src=api</install>
+  <developer_comments>Please post a comment and state why you like or doesn&#39;t like ubuntuusers Menu.</developer_comments>
+    <reviews num="17">
+      https://addons.mozilla.org/en-US/firefox/addon/ubuntuusers-menu/reviews/?src=api
+    </reviews>
+    <total_downloads>45231</total_downloads>
+    <weekly_downloads>3</weekly_downloads>
+    <daily_users>404</daily_users>
+    <created epoch="1217933464">
+      2008-08-05T10:51:04Z
+    </created>
+    <last_updated epoch="1281025634">
+      2010-08-05T16:27:14Z
+    </last_updated>
+    <homepage>http://www.ubuntuusers-menu.de/en</homepage>
+    <support>http://ubuntuforums.org/showthread.php?p=6803711</support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="4694">
+  <name>whos.amung.us Users Online Counter</name>
+  <type id="1">Extension</type>
+  <guid>contact@whos.amung.us</guid>
+  <slug>whosamungus-users-online-count</slug>
+  <version>2.02</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="115438">
+      <name>whos.amung.us  </name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/whosamungus/?src=api</link>
+    </author>      </authors>
+  <summary>Shows how many people are currently on your website in accordance with our widget use. Visit our website for more info.</summary>
+  <description>This extension interfaces with &lt;a href=&#34;http://outgoing.mozilla.org/v1/bde3c3a58c7047bed15b841b1c1dc174980e03ec/http%3A//whos.amung.us.&#34;&gt;http://whos.amung.us.&lt;/a&gt; If you use their widget on your website, the extension gets how many users are on your website and puts the count in your status bar. To configure this after it has been installed, open up the addons list from the Firefox menu, click on this addon, click options, and enter your 8-12 character key which is found in the html you were given. Ie: the image name, without the &#39;.png&#39; part, it&#39;s pretty self explanatory. Close options, and soon thereafter your user count will be updated in real time :)</description><license>
+    <name>License</name>
+    <url>http://www.mozilla.org/MPL/MPL-1.1.html</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/4/4694-64.png?modified=1297876566</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/4/4694-32.png?modified=1297876566</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>28.0</min_version>
+      <max_version>30.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="1">
+      <full type="image/png">
+        https://addons.cdn.mozilla.net/user-media/previews/full/21/21749.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/21/21749.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>From widget to status bar!</caption></preview></previews><rating>4</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/whosamungus-users-online-count/?src=api</learnmore><install hash="sha256:9a06ef7c159fd447e55a894f0b2e9d8ab3ceb9b72f8162eb5c9c60fb2f12bb55"
+    os="ALL"
+    size="146901">https://addons.mozilla.org/firefox/downloads/file/269966/whosamungus_users_online_counter-2.02-fx.xpi?src=api</install>
+  <developer_comments></developer_comments>
+    <reviews num="34">
+      https://addons.mozilla.org/en-US/firefox/addon/whosamungus-users-online-count/reviews/?src=api
+    </reviews>
+    <total_downloads>107423</total_downloads>
+    <weekly_downloads>12</weekly_downloads>
+    <daily_users>1653</daily_users>
+    <created epoch="1174626832">
+      2007-03-23T05:13:52Z
+    </created>
+    <last_updated epoch="1408573536">
+      2014-08-20T22:25:36Z
+    </last_updated>
+    <homepage>http://whos.amung.us</homepage>
+    <support>http://whos.amung.us</support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="218092">
+  <name>Mouser Part Search</name>
+  <type id="1">Extension</type>
+  <guid>mouser@mouser.com</guid>
+  <slug>mouser-part-search</slug>
+  <version>1.0.2</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="5483199">
+      <name>Mouser Electronics Inc.</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/MouserElec/?src=api</link>
+    </author>      </authors>
+  <summary>The Mouser Part Search Add-on delivers part information and availability to your browser when you need it. Simply highlight any part number or keyword on any site and instantly preview search results and part details without leaving the current site.</summary>
+  <description>The &lt;strong&gt;Mouser Part Search Add-on&lt;/strong&gt; for Firefox delivers part information and availability to your browser when you need it. Simply highlight any part number or keyword on any site and instantly preview search results and product details without leaving the page you are on.
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Search without leaving the page you are on.&lt;/strong&gt; Searching for parts and availability often leads to opening multiple web browser windows and tabs that clutter your computer&#39;s desktop. The Mouser Part Search Add-on is installed right into your browser allowing you to launch it on any web page in any website without ever having to open a new window or tab.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;View current pricing and availability.&lt;/strong&gt; Mouser understands your time is valuable. To give you the right information to make the right purchasing decisions, the Mouser Search Accelerator displays the manufacturer part number, manufacturer name, and part description. The Accelerator also pulls the latest pricing along with current availability from Mouser.com.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-click access to detailed information and purchasing options.&lt;/strong&gt; Clicking on a part number in the Mouser Search Accelerator will direct you to that part&#39;s detail page on Mouser.com. From the product detail page, you can review in-depth specifications, data sheets, images, pricing information, and purchasing options.&lt;/li&gt;&lt;/ul&gt;</description>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/218/218092-64.png?modified=1320910924</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/218/218092-32.png?modified=1320910924</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>3.5</min_version>
+      <max_version>33.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="image/png" width="313" height="215">
+        https://addons.cdn.mozilla.net/user-media/previews/full/49/49452.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="200" height="137">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/49/49452.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>The search results window on the Mouser Part Search Add-on for Firefox.</caption></preview><preview position="1">
+      <full type="image/png" width="700" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/49/49453.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="200" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/49/49453.png?src=api&amp;modified=1331247702
+      </thumbnail><caption>The Mouser Part Search Add-on for Firefox in action.</caption></preview></previews><rating>5</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/mouser-part-search/?src=api</learnmore><install hash="sha256:737b9979dff6521742f30cb5a23e6ce38972e8c2955478681f085e79f5906b2e"
+    os="ALL"
+    size="23552">https://addons.mozilla.org/firefox/downloads/file/136575/mouser_part_search-1.0.2-fx.xpi?src=api</install>
+  <developer_comments></developer_comments>
+    <reviews num="1">
+      https://addons.mozilla.org/en-US/firefox/addon/mouser-part-search/reviews/?src=api
+    </reviews>
+    <total_downloads>6555</total_downloads>
+    <weekly_downloads>3</weekly_downloads>
+    <daily_users>450</daily_users>
+    <created epoch="1281977884">
+      2010-08-16T16:58:04Z
+    </created>
+    <last_updated epoch="1320910857">
+      2011-11-10T07:40:57Z
+    </last_updated>
+    <homepage>http://www.mouser.com/accelerator</homepage>
+    <support>http://www.mouser.com/accelerator</support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="194941">
+  <name>Real Estate Peruser</name>
+  <type id="1">Extension</type>
+  <guid>realestateperuser@royce</guid>
+  <slug>real-estate-peruser</slug>
+  <version>0.2</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="5386879">
+      <name>Lightning_Steal</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/Lightning_Steal/?src=api</link>
+    </author>      </authors>
+  <summary>Real Estate Peruser Searches multiple Real Estate Search Engines to find you the perfect home. You can also Save and Sync House Listings and take Notes in the sidebar as you browse, and send your list of Favorites to friends.</summary>
+  <description>&lt;b&gt;Update:&lt;/b&gt; With v0.2 you can save your Favorite listings with Notes, and auto-sync them across computers with any bookmark syncing-addon. You can also email your Favorites to friends.
+
+Have you ever noticed that each Real Estate website shows different house listings? Are you tired of entering the same search parameters into a thousand websites?
+
+The Real Estate Peruser Plugin helps finds your dream home by searching all the top Real Estate sites whenever you search just one of them. Whenever you search one of these 5 sites:
+1. Realtor.com
+2. Zillow.com
+3. Realestate.yahoo.com
+4. Trulia.com
+5. Homes.com
+The Real Estate Peruser side bar automatically searches the other 4 using your same search parameters, and displays how many listings it discovered and a clickable link to the new website.
+
+To use, just:
+1. Install
+2. Open sidebar by clicking View-&amp;gt;Sidebar-&amp;gt;Real Estate Peruser
+3. Search on of the sites named above.</description><license>
+    <name>Custom License</name>
+    <url>https://addons.mozilla.org/en-US/firefox/addon/real-estate-peruser/license/0.2</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/194/194941-64.png?modified=1281720022</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/194/194941-32.png?modified=1281720022</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>3.5</min_version>
+      <max_version>8.0a1</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="image/png" width="449" height="525">
+        https://addons.cdn.mozilla.net/user-media/previews/full/47/47171.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="128" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/47/47171.png?src=api&amp;modified=1331247702
+      </thumbnail></preview></previews><rating>4</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/real-estate-peruser/?src=api</learnmore><install hash="sha256:f11008aa8ba0fa157dc97024527a3ce595ebff96253e9473f9b55d3b9ad734e2"
+    os="ALL"
+    size="22528">https://addons.mozilla.org/firefox/downloads/file/96014/real_estate_peruser-0.2-fx.xpi?src=api</install>
+  <developer_comments>Please be kind and report any bugs at &lt;a href=&#34;http://outgoing.mozilla.org/v1/54604d7d1ec92707795450373744d34363291739/http%3A//realestateperuser.com.&#34;&gt;http://realestateperuser.com.&lt;/a&gt;
+I would really love to hear some feedback about what users would like to see next. More Websites added? More search parameters? Just leave a comment, thanks.</developer_comments>
+    <reviews num="4">
+      https://addons.mozilla.org/en-US/firefox/addon/real-estate-peruser/reviews/?src=api
+    </reviews>
+    <total_downloads>3075</total_downloads>
+    <weekly_downloads>2</weekly_downloads>
+    <daily_users>81</daily_users>
+    <created epoch="1278622963">
+      2010-07-08T21:02:43Z
+    </created>
+    <last_updated epoch="1281717433">
+      2010-08-13T16:37:13Z
+    </last_updated>
+    <homepage>http://realestateperuser.com</homepage>
+    <support>http://realestateperuser.com</support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="461998">
+  <name>Favorite Users - Hacker News</name>
+  <type id="1">Extension</type>
+  <guid>jid0-IyUIIWyJZG8Q6wXvAgng3oOUSlM@jetpack</guid>
+  <slug>favorite-users-hacker-news</slug>
+  <version>1.0</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="10214990">
+      <name>Michal Bureš</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/MichalBures/?src=api</link>
+    </author>      </authors>
+  <summary>An extension that highlights submission and comments by your favorite users on Hacker News website.</summary>
+  <description></description><license>
+    <name>MIT/X11 License</name>
+    <url>http://www.opensource.org/licenses/mit-license.php</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/461/461998-64.png?modified=1403518302</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/461/461998-32.png?modified=1403518302</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>14.0</min_version>
+      <max_version>33.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="" width="600" height="470">
+        https://addons.cdn.mozilla.net/user-media/previews/full/111/111877.png?src=api&amp;modified=1403518302
+      </full>
+      <thumbnail type="" width="191" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/111/111877.png?src=api&amp;modified=1403518302
+      </thumbnail><caption>An example of a highlighted submission and comment.</caption></preview></previews><rating>0</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/favorite-users-hacker-news/?src=api</learnmore><install hash="sha256:1f610892c16f0fc36b1f613f8346fa1a068d00d213516f1fd9fc202676e17d70"
+    os="ALL"
+    size="174200">https://addons.mozilla.org/firefox/downloads/file/226232/favorite_users_hacker_news-1.0-fx.xpi?src=api</install>
+  <developer_comments></developer_comments>
+    <reviews num="0">
+      https://addons.mozilla.org/en-US/firefox/addon/favorite-users-hacker-news/reviews/?src=api
+    </reviews>
+    <total_downloads>1251</total_downloads>
+    <weekly_downloads>1</weekly_downloads>
+    <daily_users>34</daily_users>
+    <created epoch="1377726992">
+      2013-08-28T21:56:32Z
+    </created>
+    <last_updated epoch="1378501714">
+      2013-09-06T21:08:34Z
+    </last_updated>
+    <homepage></homepage>
+    <support></support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+  <addon id="412206">
+  <name>Go-Mobile  [Speed Boost]</name>
+  <type id="1">Extension</type>
+  <guid>jid0-W5zY771zDsu5o7dTJ8KHm38w1xs@jetpack</guid>
+  <slug>go-mobile</slug>
+  <version>2.2.6</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="6765282">
+      <name>Geek in Training</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/GiT/?src=api</link>
+    </author>      </authors>
+  <summary>Tell websites your browser is a phone. Very handy for dial-up connections, or just to speed up browsing.  Simple, small, and fast. Go Mobile.</summary>
+  <description>The main purpose of this addon is to speed up web browsing by requesting the mobile version of the webpage.
+
+In my tests, Facebook, Google, Gmail, and such like, loaded &lt;strong&gt;about 3 times faster!&lt;/strong&gt;
+
+It is a quick and easy way to switch between mobile and regular browsing, and it also gives webpages simpler user interface. (Although not every website has a mobile version of their website.)
+
+Might be handy for web developers who want to see what their site will look like mobilely.
+It also doubles as a full-fledged userAgent switcher and can override javascript&#39;s navigator.userAgent.
+
+&lt;blockquote&gt;&lt;b&gt;
+Currently, Go-Mobile is not working  with  Firefox 30  and above.  I am working on fixing this and a new  version  should  be available  soon.
+&lt;/b&gt;&lt;/blockquote&gt;
+&lt;strong&gt;
+&lt;ul&gt;&lt;li&gt;If you found a problem or have a feature request, you can contact me at goMobileFirefox ( at ) gmail ( dot ) com&lt;/li&gt;&lt;/ul&gt;&lt;/strong&gt;.</description><license>
+    <name>GNU General Public License, version 3.0</name>
+    <url>http://www.gnu.org/licenses/gpl-3.0.html</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/412/412206-64.png?modified=1403583082</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/412/412206-32.png?modified=1403583082</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>22.0</min_version>
+      <max_version>28.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="" width="512" height="512">
+        https://addons.cdn.mozilla.net/user-media/previews/full/110/110047.png?src=api&amp;modified=1377756065
+      </full>
+      <thumbnail type="" width="150" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/110/110047.png?src=api&amp;modified=1377756065
+      </thumbnail><caption>Go-Mobile</caption></preview><preview position="1">
+      <full type="" width="700" height="410">
+        https://addons.cdn.mozilla.net/user-media/previews/full/111/111826.png?src=api&amp;modified=1377756065
+      </full>
+      <thumbnail type="" width="200" height="117">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/111/111826.png?src=api&amp;modified=1377756065
+      </thumbnail><caption>The Google.com homepage with Go-Mobile activated.</caption></preview><preview position="2">
+      <full type="" width="700" height="410">
+        https://addons.cdn.mozilla.net/user-media/previews/full/111/111827.png?src=api&amp;modified=1377756065
+      </full>
+      <thumbnail type="" width="200" height="117">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/111/111827.png?src=api&amp;modified=1377756065
+      </thumbnail><caption>Facebook.com with Go-Mobile activated.</caption></preview><preview position="3">
+      <full type="" width="700" height="410">
+        https://addons.cdn.mozilla.net/user-media/previews/full/111/111828.png?src=api&amp;modified=1377756065
+      </full>
+      <thumbnail type="" width="200" height="117">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/111/111828.png?src=api&amp;modified=1377756065
+      </thumbnail><caption>Remember your current settings on a specific site or page.</caption></preview><preview position="4">
+      <full type="" width="700" height="410">
+        https://addons.cdn.mozilla.net/user-media/previews/full/111/111829.png?src=api&amp;modified=1377756065
+      </full>
+      <thumbnail type="" width="200" height="117">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/111/111829.png?src=api&amp;modified=1377756065
+      </thumbnail><caption>Switch between phone types.</caption></preview><preview position="5">
+      <full type="" width="700" height="410">
+        https://addons.cdn.mozilla.net/user-media/previews/full/111/111831.png?src=api&amp;modified=1377756065
+      </full>
+      <thumbnail type="" width="200" height="117">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/111/111831.png?src=api&amp;modified=1377756065
+      </thumbnail><caption>Completely customize and reorganize your phone types with ease.</caption></preview><preview position="6">
+      <full type="" width="700" height="410">
+        https://addons.cdn.mozilla.net/user-media/previews/full/111/111830.png?src=api&amp;modified=1377756065
+      </full>
+      <thumbnail type="" width="200" height="117">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/111/111830.png?src=api&amp;modified=1377756065
+      </thumbnail><caption>Quickly manage settings for your remembered sites and pages.</caption></preview></previews><rating>5</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/go-mobile/?src=api</learnmore><install hash="sha256:db98f5ba697ebf07e57ad5183718fe7f5cf0d6e5b550b47322f545cfc5fa17f8"
+    os="ALL"
+    size="314781">https://addons.mozilla.org/firefox/downloads/file/226036/go_mobile-2.2.6-fx.xpi?src=api</install>
+  <install hash="sha256:0435e8279a086cd3d75ebf7e9a68d2eddf2b5e16a36711cf0cd2af1c12a701c0" os=""
+             size="314815"
+             status="Beta">
+      https://addons.mozilla.org/firefox/downloads/file/252884/go_mobile_speed_boost-2.2.6.1a-fx.xpi?src=api
+    </install>
+    <contribution_data>
+      <link>https://addons.mozilla.org/en-US/firefox/addon/go-mobile/contribute/?src=api</link>
+                <suggested_amount currency="USD" amount="1.00">
+            $1.00
+          </suggested_amount>
+            <meet_developers>
+        https://addons.mozilla.org/en-US/firefox/addon/go-mobile/developers?src=api
+      </meet_developers>
+    </contribution_data><developer_comments></developer_comments>
+    <reviews num="19">
+      https://addons.mozilla.org/en-US/firefox/addon/go-mobile/reviews/?src=api
+    </reviews>
+    <total_downloads>75227</total_downloads>
+    <weekly_downloads>155</weekly_downloads>
+    <daily_users>8147</daily_users>
+    <created epoch="1355465022">
+      2012-12-14T06:03:42Z
+    </created>
+    <last_updated epoch="1377561605">
+      2013-08-27T00:00:05Z
+    </last_updated>
+    <homepage></homepage>
+    <support></support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+    </searchresults>

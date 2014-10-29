@@ -1,0 +1,7 @@
+[http]
+	sslverify = true
+	sslCAinfo = /etc/ssl/certs/ca-certificates.crt
+	sslCAPath = /etc/pki/tls/certs
+[user]
+	name = R5BeUMYFw
+	email = 3geqwkzii@alivance.com
